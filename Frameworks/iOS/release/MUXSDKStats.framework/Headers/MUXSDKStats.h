@@ -1,0 +1,70 @@
+/*
+    File:  MUXSDKStats.h
+
+	Framework:  MUXSDKStats
+
+	Copyright © 2016 Mux, Inc. All rights reserved.
+ */
+
+/*!
+	@class			MUXSDKStats
+
+	@abstract
+ MUXSDKStats offers an interface for monitoring video players.
+
+	@discussion
+ MUXSDKStats monitors an AVPlayer performance by sending tracking pings to Mux servers.
+
+ In the simplest use case, an AVPlayer can be provided to the MUXSDKStats API and everything else is taken care of for you. The MUXSDKStats monitor methods attach a set of timed state and key-value observers on the AVPlayer. When you are done with an AVPlayer instance, call destroyPlayer: to remove the observers.
+
+ If you change the video that is playing in an AVPlayer, you should call videoChangeForPlayer:withConfig: to provide the updated video information. Not calling videoChangeForPlayer:withConfig: when the video changes will cause tracking pings to be associated with the last video that was playing.
+ */
+
+#import <Foundation/Foundation.h>
+
+@import AVKit;
+@import AVFoundation;
+
+
+FOUNDATION_EXPORT
+@interface MUXSDKStats : NSObject
+
+/*!
+ @method			monitorAVPlayerViewController:withPlayerName:andConfig:
+ @abstract			Starts to monitor a given AVPlayerViewController.
+ @param				player An AVPlayerViewController to monitor
+ @param				name A name for this instance of the player
+ @param             config A dictionary of Mux config keys
+ @discussion		Use this method to start a Mux player monitor on the given AVPlayerViewController. The player must have a name which is globally unique. The config provided should match the specifications in the Mux docs at https://docs.mux.com
+ */
++ (void)monitorAVPlayerViewController:(AVPlayerViewController *)player withPlayerName:(NSString *)name andConfig:(NSDictionary *)config;
+
+/*!
+ @method			monitorAVPlayerLayer:withPlayerName:andConfig:
+ @abstract			Starts to monitor a given AVPlayerLayer.
+ @param				player An AVPlayerLayer to monitor
+ @param				name A name for this instance of the player
+ @param             config A dictionary of Mux config keys
+ @discussion		Use this method to start a Mux player monitor on the given AVPlayerLayer. The player must have a name which is globally unique. The config provided should match the specifications in the Mux docs at https://docs.mux.com
+ */
++ (void)monitorAVPlayerLayer:(AVPlayerLayer *)player withPlayerName:(NSString *)name andConfig:(NSDictionary *)config;
+
+/*!
+ @method			destroyPlayer:
+ @abstract			Removes any AVPlayer observers on the associated player.
+ @param				name The name of the player to destory
+ @discussion		When you are done with a player, call destoryPlayer: to remove all observers that were set up when monitorPlayer:withPlayerName:andConfig: was called and to ensure that any remaining tracking pings are sent to complete the view. If the name of the player provided was not previously initialized, an exception will be raised.
+ */
++ (void)destroyPlayer:(NSString *)name;
+
+/*!
+ @method			videoChangeForPlayer:withConfig:
+ @abstract			Signals that a player is now playing a different video.
+ @param				name The name of the player to update
+ @param				config A dictionary of Mux config keys
+ @discussion		Use this method to signal that the player is now playing a new video. The player name provided must been passed as the name in a monitorPlayer:withPlayerName:andConfig: call. The config provided should match the specifications in the Mux docs at https://docs.mux.com and should include all desired keys, not just those keys that are specific to this video. If the name of the player provided was not previously initialized, an exception will be raised.
+
+ */
++ (void)videoChangeForPlayer:(NSString *)name withConfig:(NSDictionary *)config;
+
+@end
