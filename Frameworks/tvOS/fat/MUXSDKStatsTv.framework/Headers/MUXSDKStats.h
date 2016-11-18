@@ -20,6 +20,8 @@
  If you change the video that is playing in an AVPlayer, you should call videoChangeForPlayer:withConfig: to provide the updated video information. Not calling videoChangeForPlayer:withConfig: when the video changes will cause tracking pings to be associated with the last video that was playing.
  */
 
+#import "MUXSDKCustomerVideoData.h"
+#import "MUXSDKCustomerPlayerData.h"
 #import <Foundation/Foundation.h>
 
 @import AVKit;
@@ -29,42 +31,46 @@
 FOUNDATION_EXPORT
 @interface MUXSDKStats : NSObject
 
-/*!
- @method			monitorAVPlayerViewController:withPlayerName:andConfig:
- @abstract			Starts to monitor a given AVPlayerViewController.
- @param				player An AVPlayerViewController to monitor
- @param				name A name for this instance of the player
- @param             config A dictionary of Mux config keys
- @discussion		Use this method to start a Mux player monitor on the given AVPlayerViewController. The player must have a name which is globally unique. The config provided should match the specifications in the Mux docs at https://docs.mux.com
- */
-+ (void)monitorAVPlayerViewController:(AVPlayerViewController *)player withPlayerName:(NSString *)name andConfig:(NSDictionary *)config;
+- (nullable instancetype)init NS_UNAVAILABLE;
++ (nullable instancetype)new NS_UNAVAILABLE;
 
 /*!
- @method			monitorAVPlayerLayer:withPlayerName:andConfig:
- @abstract			Starts to monitor a given AVPlayerLayer.
- @param				player An AVPlayerLayer to monitor
- @param				name A name for this instance of the player
- @param             config A dictionary of Mux config keys
- @discussion		Use this method to start a Mux player monitor on the given AVPlayerLayer. The player must have a name which is globally unique. The config provided should match the specifications in the Mux docs at https://docs.mux.com
+ @method      monitorAVPlayerViewController:withPlayerName:playerData:videoData:
+ @abstract    Starts to monitor a given AVPlayerViewController.
+ @param       player An AVPlayerViewController to monitor
+ @param       name A name for this instance of the player
+ @param       playerData A MUXSDKCustomerPlayerData object with player metadata
+ @param       videoData A MUXSDKCustomerVideoData object with video metadata
+ @discussion  Use this method to start a Mux player monitor on the given AVPlayerViewController. The player must have a name which is globally unique. The config provided should match the specifications in the Mux docs at https://docs.mux.com
  */
-+ (void)monitorAVPlayerLayer:(AVPlayerLayer *)player withPlayerName:(NSString *)name andConfig:(NSDictionary *)config;
++ (void)monitorAVPlayerViewController:(nonnull AVPlayerViewController *)player withPlayerName:(nonnull NSString *)name playerData:(nonnull MUXSDKCustomerPlayerData *)playerData videoData:(nullable MUXSDKCustomerVideoData *)videoData;
+
+/*!
+ @method    monitorAVPlayerLayer:withPlayerName:playerData:videoData:
+ @abstract  Starts to monitor a given AVPlayerLayer.
+ @param     player An AVPlayerLayer to monitor
+ @param     name A name for this instance of the player
+ @param     playerData A MUXSDKCustomerPlayerData object with player metadata
+ @param     videoData A MUXSDKCustomerVideoData object with video metadata @discussion		Use this method to start a Mux player monitor on the given AVPlayerLayer. The player must have a name which is globally unique. The config provided should match the specifications in the Mux docs at https://docs.mux.com
+ */
++ (void)monitorAVPlayerLayer:(nonnull AVPlayerLayer *)player withPlayerName:(nonnull NSString *)name playerData:(nonnull MUXSDKCustomerPlayerData *)playerData videoData:(nullable MUXSDKCustomerVideoData *)videoData;
 
 /*!
  @method			destroyPlayer:
- @abstract			Removes any AVPlayer observers on the associated player.
- @param				name The name of the player to destory
- @discussion		When you are done with a player, call destoryPlayer: to remove all observers that were set up when monitorPlayer:withPlayerName:andConfig: was called and to ensure that any remaining tracking pings are sent to complete the view. If the name of the player provided was not previously initialized, an exception will be raised.
+ @abstract    Removes any AVPlayer observers on the associated player.
+ @param       name The name of the player to destory
+ @discussion  When you are done with a player, call destoryPlayer: to remove all observers that were set up when monitorPlayer:withPlayerName:andConfig: was called and to ensure that any remaining tracking pings are sent to complete the view. If the name of the player provided was not previously initialized, an exception will be raised.
  */
-+ (void)destroyPlayer:(NSString *)name;
++ (void)destroyPlayer:(nonnull NSString *)name;
 
 /*!
- @method			videoChangeForPlayer:withConfig:
- @abstract			Signals that a player is now playing a different video.
- @param				name The name of the player to update
- @param				config A dictionary of Mux config keys
- @discussion		Use this method to signal that the player is now playing a new video. The player name provided must been passed as the name in a monitorPlayer:withPlayerName:andConfig: call. The config provided should match the specifications in the Mux docs at https://docs.mux.com and should include all desired keys, not just those keys that are specific to this video. If the name of the player provided was not previously initialized, an exception will be raised.
+ @method      videoChangeForPlayer:withVideoData:
+ @abstract    Signals that a player is now playing a different video.
+ @param       name The name of the player to update
+ @param       videoData A MUXSDKCustomerVideoData object with video metadata
+ @discussion  Use this method to signal that the player is now playing a new video. The player name provided must been passed as the name in a monitorPlayer:withPlayerName:andConfig: call. The config provided should match the specifications in the Mux docs at https://docs.mux.com and should include all desired keys, not just those keys that are specific to this video. If the name of the player provided was not previously initialized, an exception will be raised.
 
  */
-+ (void)videoChangeForPlayer:(NSString *)name withConfig:(NSDictionary *)config;
++ (void)videoChangeForPlayer:(nonnull NSString *)name withVideoData:(nullable MUXSDKCustomerVideoData *)videoData;
 
 @end

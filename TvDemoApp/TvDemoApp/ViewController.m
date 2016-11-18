@@ -17,12 +17,11 @@
     AVPlayerViewController *controller = [[AVPlayerViewController alloc] init];
     controller.player = player;
 
-    NSDictionary *config = @{
-                             @"property_key": @"",
-                             @"video_title": @"Big Buck Bunny",
-                             @"video_id": @"bigbuckbunny",
-                            };
-    [MUXSDKStats monitorAVPlayerViewController:controller withPlayerName:@"awesome" andConfig:config];
+    MUXSDKCustomerPlayerData *playerData = [[MUXSDKCustomerPlayerData alloc] initWithPropertyKey:@""];
+    MUXSDKCustomerVideoData *videoData = [MUXSDKCustomerVideoData new];
+    [videoData setVideoTitle:@"Big Buck Bunny"];
+    [videoData setVideoId:@"bigbuckbunny"];
+    [MUXSDKStats monitorAVPlayerViewController:controller withPlayerName:@"awesome" playerData:playerData videoData:videoData];
 
     [player play];
 
