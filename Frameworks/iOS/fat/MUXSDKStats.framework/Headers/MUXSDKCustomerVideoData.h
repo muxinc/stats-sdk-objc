@@ -6,32 +6,19 @@
 
 @interface MUXSDKCustomerVideoData : MUXSDKQueryData
 
-- (void)setVideoCdn:(nullable NSString *)videoCdn;
-- (nullable NSString *)videoCdn;
-- (void)setVideoContentType:(nullable NSString *)videoContentType;
-- (nullable NSString *)videoContentType;
-- (void)setVideoDuration:(nullable NSNumber *)videoDuration;
-- (nullable NSNumber *)videoDuration;
-- (void)setVideoEncodingVariant:(nullable NSString *)videoEncodingVariant;
-- (nullable NSString *)videoEncodingVariant;
-- (void)setVideoId:(nullable NSString *)videoId;
-- (nullable NSString *)videoId;
-- (void)setVideoIsLive:(nullable NSNumber *)videoIsLive;
-- (nullable NSNumber *)videoIsLive;
-- (void)setVideoLanguageCode:(nullable NSString *)videoLanguageCode;
-- (nullable NSString *)videoLanguageCode;
-- (void)setVideoProducer:(nullable NSString *)videoProducer;
-- (nullable NSString *)videoProducer;
-- (void)setVideoSeries:(nullable NSString *)videoSeries;
-- (nullable NSString *)videoSeries;
-- (void)setVideoStreamType:(nullable NSString *)videoStreamType;
-- (nullable NSString *)videoStreamType;
-- (void)setVideoTitle:(nullable NSString *)videoTitle;
-- (nullable NSString *)videoTitle;
-- (void)setVideoVariantId:(nullable NSString *)videoVariantId;
-- (nullable NSString *)videoVariantId;
-- (void)setVideoVariantName:(nullable NSString *)videoVariantName;
-- (nullable NSString *)videoVariantName;
+@property (nullable) NSString *videoCdn;
+@property (nullable) NSString *videoContentType;
+@property (nullable) NSNumber *videoDuration;
+@property (nullable) NSString *videoEncodingVariant;
+@property (nullable) NSString *videoId;
+@property (nullable) NSNumber *videoIsLive;
+@property (nullable) NSString *videoLanguageCode;
+@property (nullable) NSString *videoProducer;
+@property (nullable) NSString *videoSeries;
+@property (nullable) NSString *videoStreamType;
+@property (nullable) NSString *videoTitle;
+@property (nullable) NSString *videoVariantId;
+@property (nullable) NSString *videoVariantName;
 
 @end
 

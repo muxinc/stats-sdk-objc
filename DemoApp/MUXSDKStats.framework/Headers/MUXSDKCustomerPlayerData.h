@@ -11,22 +11,14 @@
 
 - (nullable instancetype)initWithPropertyKey:(nonnull NSString *)propertyKey;
 
-- (void)setAdConfigVariant:(nullable NSString *)adConfigVariant;
-- (nullable NSString *)adConfigVariant;
-- (void)setExperimentName:(nullable NSString *)experimentName;
-- (nullable NSString *)experimentName;
-- (void)setPageType:(nullable NSString *)pageType;
-- (nullable NSString *)pageType;
-- (void)setPlayerInitTime:(nullable NSNumber *)playerInitTime;
-- (nullable NSNumber *)playerInitTime;
-- (void)setPlayerName:(nullable NSString *)playerName;
-- (nullable NSString *)playerName;
-- (void)setPlayerVersion:(nullable NSString *)playerVersion;
-- (nullable NSString *)playerVersion;
-- (void)setPropertyKey:(nullable NSString *)propertyKey;
-- (nullable NSString *)propertyKey;
-- (void)setViewerUserId:(nullable NSString *)viewerUserId;
-- (nullable NSString *)viewerUserId;
+@property (nullable) NSString *adConfigVariant;
+@property (nullable) NSString *experimentName;
+@property (nullable) NSString *pageType;
+@property (nullable) NSNumber *playerInitTime;
+@property (nullable) NSString *playerName;
+@property (nullable) NSString *playerVersion;
+@property (nullable) NSString *propertyKey;
+@property (nullable) NSString *viewerUserId;
 
 @end
 

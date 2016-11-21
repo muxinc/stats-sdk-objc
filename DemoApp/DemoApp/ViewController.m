@@ -19,8 +19,8 @@
 
     MUXSDKCustomerPlayerData *playerData = [[MUXSDKCustomerPlayerData alloc] initWithPropertyKey:@""];
     MUXSDKCustomerVideoData *videoData = [MUXSDKCustomerVideoData new];
-    [videoData setVideoTitle:@"Big Buck Bunny"];
-    [videoData setVideoId:@"bigbuckbunny"];
+    videoData.videoTitle = @"Big Buck Bunny";
+    videoData.videoId = @"bigbuckbunny";
     [MUXSDKStats monitorAVPlayerViewController:controller withPlayerName:@"awesome" playerData:playerData videoData:videoData];
 
     [player play];
