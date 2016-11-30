@@ -9,6 +9,7 @@
 }
 
 - (void)update:(nonnull NSDictionary *)query;
+- (void)remove:(nonnull NSString *)key;
 - (nullable id)get:(nonnull NSString *)key;
 - (nonnull NSDictionary *)toQuery;
 
