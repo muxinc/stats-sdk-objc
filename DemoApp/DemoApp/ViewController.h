@@ -1,7 +1,14 @@
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
+@import AVKit;
+@import AVFoundation;
 
+@interface ViewController : UIViewController {
+    @private
+    AVPlayer *_avplayer;
+    AVPlayerViewController *_avplayerController;
+    NSTimer *_videoChangeTimer;
+}
 
 @end
 
