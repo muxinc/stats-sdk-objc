@@ -18,6 +18,7 @@
 @property (nullable) NSString *playerName;
 @property (nullable) NSString *playerVersion;
 @property (nullable) NSString *propertyKey;
+@property (nullable) NSString *subPropertyId;
 @property (nullable) NSString *viewerUserId;
 
 @end
