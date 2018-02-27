@@ -46,14 +46,33 @@ FOUNDATION_EXPORT
 + (void)monitorAVPlayerViewController:(nonnull AVPlayerViewController *)player withPlayerName:(nonnull NSString *)name playerData:(nonnull MUXSDKCustomerPlayerData *)playerData videoData:(nullable MUXSDKCustomerVideoData *)videoData;
 
 /*!
- @method    monitorAVPlayerLayer:withPlayerName:playerData:videoData:
- @abstract  Starts to monitor a given AVPlayerLayer.
- @param     player An AVPlayerLayer to monitor
- @param     name A name for this instance of the player
- @param     playerData A MUXSDKCustomerPlayerData object with player metadata
- @param     videoData A MUXSDKCustomerVideoData object with video metadata @discussion		Use this method to start a Mux player monitor on the given AVPlayerLayer. The player must have a name which is globally unique. The config provided should match the specifications in the Mux docs at https://docs.mux.com
+ @method      updateAVPlayerViewController:withPlayerName
+ @abstract    Updates the monitor for a player to a new AVPlayerViewController.
+ @param       player The new AVPlayerViewController to monitor
+ @param       name The name of the player instance to update
+ @discussion  Use this method to modify the AVPlayerViewController a Mux player monitor is watching. The player monitor must previously have been created via a monitorAVPlayerViewController call.
+ */
++ (void)updateAVPlayerViewController:(nonnull AVPlayerViewController *)player withPlayerName:(nonnull NSString *)name;
+
+/*!
+ @method      monitorAVPlayerLayer:withPlayerName:playerData:videoData:
+ @abstract    Starts to monitor a given AVPlayerLayer.
+ @param       player An AVPlayerLayer to monitor
+ @param       name A name for this instance of the player
+ @param       playerData A MUXSDKCustomerPlayerData object with player metadata
+ @param       videoData A MUXSDKCustomerVideoData object with video metadata
+ @discussion  Use this method to start a Mux player monitor on the given AVPlayerLayer. The player must have a name which is globally unique. The config provided should match the specifications in the Mux docs at https://docs.mux.com
  */
 + (void)monitorAVPlayerLayer:(nonnull AVPlayerLayer *)player withPlayerName:(nonnull NSString *)name playerData:(nonnull MUXSDKCustomerPlayerData *)playerData videoData:(nullable MUXSDKCustomerVideoData *)videoData;
+
+/*!
+ @method      updateAVPlayerLayer:withPlayerName:
+ @abstract    Updates the monitor for a player to a new AVPlayerLayer.
+ @param       player The new AVPlayerLayer to monitor
+ @param       name The name of the player instance to update
+ @discussion  Use this method to modify the AVPlayerLayer a Mux player monitor is watching. The player monitor must previously have been created via a monitorAVPlayerViewController call.
+ */
++ (void)updateAVPlayerLayer:(nonnull AVPlayerLayer *)player withPlayerName:(nonnull NSString *)name;
 
 /*!
  @method			destroyPlayer:
