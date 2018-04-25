@@ -6,8 +6,8 @@
 
 @interface MUXSDKCustomerPlayerData : MUXSDKQueryData
 
-- (nullable instancetype)init NS_UNAVAILABLE;
-+ (nullable instancetype)new NS_UNAVAILABLE;
+- (_Null_unspecified instancetype)init NS_UNAVAILABLE;
++ (_Null_unspecified instancetype)new NS_UNAVAILABLE;
 
 - (nullable instancetype)initWithPropertyKey:(nonnull NSString *)propertyKey;
 
