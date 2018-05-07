@@ -12,6 +12,7 @@
 - (void)remove:(nonnull NSString *)key;
 - (nullable id)get:(nonnull NSString *)key;
 - (nonnull NSDictionary *)toQuery;
+- (void)setQuery: (nonnull NSDictionary *)query;
 
 @end
 
