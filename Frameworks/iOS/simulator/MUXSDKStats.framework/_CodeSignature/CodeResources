@@ -6,15 +6,15 @@
 	<dict>
 		<key>Headers/MUXSDKCustomerPlayerData.h</key>
 		<data>
-		GCoW2Mhr6ALKGiG9cKAyas6KOP0=
+		ffjdMFG6EbnD5X1H+oRpU3sDG1E=
 		</data>
 		<key>Headers/MUXSDKCustomerVideoData.h</key>
 		<data>
-		PhJ+BC/kGQ+o9UnQiKh/Eohcd/g=
+		wMAyGAkDu1bd6QhE8uuroRyLSew=
 		</data>
 		<key>Headers/MUXSDKQueryData.h</key>
 		<data>
-		2LfqWvhz2x7pU1h/UFmEJxZnUMs=
+		H8miGLAY4yT76JfEg0u6kV4g8bI=
 		</data>
 		<key>Headers/MUXSDKStats.h</key>
 		<data>
@@ -22,7 +22,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		Zk9c9BmmIkMew5dvKZGzA+ijEQU=
+		/hSvRYfPLbYSzrmZHjhxpcjFBvA=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -35,33 +35,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			GCoW2Mhr6ALKGiG9cKAyas6KOP0=
+			ffjdMFG6EbnD5X1H+oRpU3sDG1E=
 			</data>
 			<key>hash2</key>
 			<data>
-			g/wJzP7k6JKjKOjM/J9g+gHvZpgpBcbLjIZbmtk7gpY=
+			KyZI4kOIf7hzbLWJ8komE6KmbgOorqn7q/hoMGirHOc=
 			</data>
 		</dict>
 		<key>Headers/MUXSDKCustomerVideoData.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			PhJ+BC/kGQ+o9UnQiKh/Eohcd/g=
+			wMAyGAkDu1bd6QhE8uuroRyLSew=
 			</data>
 			<key>hash2</key>
 			<data>
-			DlkSAqxf71/KjD5ObadgH8wf7W2+MPCAUlKadB22QDY=
+			JZzGkOIoDMEuNlQ22XVmfUxXNJmG+L8eEF1eR9AgPbM=
 			</data>
 		</dict>
 		<key>Headers/MUXSDKQueryData.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			2LfqWvhz2x7pU1h/UFmEJxZnUMs=
+			H8miGLAY4yT76JfEg0u6kV4g8bI=
 			</data>
 			<key>hash2</key>
 			<data>
-			BR7t4+I69HD8R3b8kaJWWffjWYqXOBf36C9dCQto4qY=
+			PDYfyc09xLyiW8m91+NeI7GAbR47xi5YBcM94udtkUs=
 			</data>
 		</dict>
 		<key>Headers/MUXSDKStats.h</key>
