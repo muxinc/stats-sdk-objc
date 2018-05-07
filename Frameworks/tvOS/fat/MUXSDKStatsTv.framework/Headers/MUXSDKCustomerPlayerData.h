@@ -4,6 +4,8 @@
 #import "MUXSDKQueryData.h"
 #import <Foundation/Foundation.h>
 
+extern NSString *PROPERTY_KEY;
+
 @interface MUXSDKCustomerPlayerData : MUXSDKQueryData
 
 - (_Null_unspecified instancetype)init NS_UNAVAILABLE;
