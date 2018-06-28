@@ -12,7 +12,7 @@
 + (void)setClientHandler:(id<MUXSDKEventHandling>)handler;
 + (void)dispatchGlobalDataEvent:(MUXSDKDataEvent *)event;
 + (void)dispatchEvent:(id<MUXSDKEventTyping>)event forPlayer:(NSString *)playerId;
-+ (void)destoryPlayer:(NSString *)playerId;
++ (void)destroyPlayer:(NSString *)playerId;
 
 @end
 
