@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/MUXSDKBandwidthMetricData.h</key>
 		<data>
-		QTSd9gBZziSLeJYMokT8FZkFkv8=
+		a99kuBPSPJgkZv60YacTk10TG4o=
 		</data>
 		<key>Headers/MUXSDKBaseEvent.h</key>
 		<data>
@@ -62,7 +62,7 @@
 		</data>
 		<key>Headers/MUXSDKPlaybackEvent.h</key>
 		<data>
-		2ZZfnJhE222zIum+KuaLdkXMNlM=
+		xjQcGaZO5x7fAODpSASerXXM1uo=
 		</data>
 		<key>Headers/MUXSDKPlayerData.h</key>
 		<data>
@@ -80,6 +80,10 @@
 		<data>
 		H8miGLAY4yT76JfEg0u6kV4g8bI=
 		</data>
+		<key>Headers/MUXSDKRequestBandwidthEvent.h</key>
+		<data>
+		4MF3hXBuND8/wVjGlpnWLKeeB7U=
+		</data>
 		<key>Headers/MUXSDKSeekedEvent.h</key>
 		<data>
 		Zrdm8DBYWjZxxdYhdK7LwMIaCA0=
@@ -90,7 +94,7 @@
 		</data>
 		<key>Headers/MUXSDKTrackableEvent.h</key>
 		<data>
-		nYzWhN9Jq7/xtJXLGCzNT+ZOodc=
+		7bGGe4FNlbgDA/OwXrKKzOEFh6Q=
 		</data>
 		<key>Headers/MUXSDKVideoData.h</key>
 		<data>
@@ -98,7 +102,7 @@
 		</data>
 		<key>Headers/MUXSDKViewData.h</key>
 		<data>
-		ab/l/b+wHmSeANcPYTdlneLJnR4=
+		zb/1aRg4Cunr1Gy7eTorHIHjVEA=
 		</data>
 		<key>Headers/MUXSDKViewEndEvent.h</key>
 		<data>
@@ -114,11 +118,11 @@
 		</data>
 		<key>Headers/MuxCore.h</key>
 		<data>
-		HKhXbYqCificLP8m8RlEDhTSHeI=
+		buomPlns+p0uYjpwO+UaS5cIc3k=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		OdJ6d+V/D6SrvAX0JpcrFSp32/I=
+		2i0ljT4F7NY27q8erxjFWltJUTk=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -131,11 +135,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			QTSd9gBZziSLeJYMokT8FZkFkv8=
+			a99kuBPSPJgkZv60YacTk10TG4o=
 			</data>
 			<key>hash2</key>
 			<data>
-			4EMp2hYGDRnKqbE3X4ZvHew/HKUEqRnflJcE5JDKfSk=
+			easufyAwaqDM9BxYHsoPNXJsIt2YOq5fZx9BmiaNLtw=
 			</data>
 		</dict>
 		<key>Headers/MUXSDKBaseEvent.h</key>
@@ -285,11 +289,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			2ZZfnJhE222zIum+KuaLdkXMNlM=
+			xjQcGaZO5x7fAODpSASerXXM1uo=
 			</data>
 			<key>hash2</key>
 			<data>
-			oCpu4nKCQ1gK1raOSvGVYx9cwShcIfQeV/QkCMrUaSA=
+			/W2ediLX/siwAO+6SLzJuy4ZCbi3C4Dn4iT4E8vjXd8=
 			</data>
 		</dict>
 		<key>Headers/MUXSDKPlayerData.h</key>
@@ -336,6 +340,17 @@
 			PDYfyc09xLyiW8m91+NeI7GAbR47xi5YBcM94udtkUs=
 			</data>
 		</dict>
+		<key>Headers/MUXSDKRequestBandwidthEvent.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			4MF3hXBuND8/wVjGlpnWLKeeB7U=
+			</data>
+			<key>hash2</key>
+			<data>
+			zSnpZskcXL/fVC1YqiZyoQtWCE8q4tSUESJniG8o8Xk=
+			</data>
+		</dict>
 		<key>Headers/MUXSDKSeekedEvent.h</key>
 		<dict>
 			<key>hash</key>
@@ -362,11 +377,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			nYzWhN9Jq7/xtJXLGCzNT+ZOodc=
+			7bGGe4FNlbgDA/OwXrKKzOEFh6Q=
 			</data>
 			<key>hash2</key>
 			<data>
-			PUpZF/wXWttAL80jQyg2CCAYT9c45iM7OKG8VyF9FUE=
+			bqjOzJvT6cHRefgrA67R+KzJsNoKvVPnwrzZRqfava4=
 			</data>
 		</dict>
 		<key>Headers/MUXSDKVideoData.h</key>
@@ -384,11 +399,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ab/l/b+wHmSeANcPYTdlneLJnR4=
+			zb/1aRg4Cunr1Gy7eTorHIHjVEA=
 			</data>
 			<key>hash2</key>
 			<data>
-			4P9Ex6r04JAbzCJcY+JXP/VAYoyrsLt82sXRYAPRlAw=
+			hHJDCondYesRKZ1W5LvAULG7kPxm67ef3Ha1Oz9rW8Q=
 			</data>
 		</dict>
 		<key>Headers/MUXSDKViewEndEvent.h</key>
@@ -428,11 +443,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			HKhXbYqCificLP8m8RlEDhTSHeI=
+			buomPlns+p0uYjpwO+UaS5cIc3k=
 			</data>
 			<key>hash2</key>
 			<data>
-			v8SOOFG6tia9Z/iBN/VeqHo9zxNvQClchtCTTEbv08s=
+			WgFSLGSfypF8R5tM52+cOsTalC12nrMFXJ9PcxC7HU4=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

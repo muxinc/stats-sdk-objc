@@ -4,6 +4,12 @@
 #import "MUXSDKQueryData.h"
 #import <Foundation/Foundation.h>
 
+@interface Rendition : NSObject
+    @property (nonatomic) NSNumber *width;
+    @property (nonatomic) NSNumber *height;
+    @property (nonatomic) NSNumber *bitrate;
+@end
+
 @interface MUXSDKBandwidthMetricData : MUXSDKQueryData
 
 @property (nullable) NSString *requestEventType;
@@ -26,7 +32,6 @@
 @property (nullable) NSNumber *requestLabeledBitrate;
 @property (nullable) NSString *requestCancel;
 @property (nullable) NSArray *requestRenditionLists;
-
 @end
 
 #endif

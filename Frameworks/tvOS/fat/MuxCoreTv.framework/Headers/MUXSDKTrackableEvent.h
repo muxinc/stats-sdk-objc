@@ -11,6 +11,7 @@
 #import "MUXSDKViewerData.h"
 #import "MUXSDKVideoData.h"
 #import "MUXSDKQueryData.h"
+#import "MUXSDKBandwidthMetricData.h"
 
 extern NSString *const MUXSDKTrackableEventType;
 
@@ -32,6 +33,7 @@ extern NSString *const MUXSDKTrackableEventType;
 @property (nonatomic, retain) MUXSDKCustomerPlayerData *customerPlayerData;
 @property (nonatomic, retain) MUXSDKEnvironmentData *environmentData;
 @property (nonatomic, retain) MUXSDKViewerData *viewerData;
+@property (nonatomic, retain) MUXSDKBandwidthMetricData *bandwidthMetricData;
 
 @end
 

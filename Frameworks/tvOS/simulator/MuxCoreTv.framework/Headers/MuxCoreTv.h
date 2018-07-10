@@ -35,3 +35,4 @@ FOUNDATION_EXPORT const unsigned char MuxCoreTvVersionString[];
 #import "MUXSDKTimeUpdateEvent.h"
 #import "MUXSDKViewInitEvent.h"
 #import "MUXSDKViewEndEvent.h"
+#import "MUXSDKRequestBandwidthEvent.h"
