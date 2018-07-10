@@ -6,6 +6,7 @@
 #import "MUXSDKPlayerData.h"
 #import "MUXSDKVideoData.h"
 #import "MUXSDKViewData.h"
+#import "MUXSDKBandwidthMetricData.h"
 
 extern NSString *const MUXSDKPlaybackEventType;
 
@@ -14,6 +15,7 @@ extern NSString *const MUXSDKPlaybackEventType;
 @property (nonatomic, retain) MUXSDKPlayerData *playerData;
 @property (nonatomic, retain) MUXSDKVideoData *videoData;
 @property (nonatomic, retain) MUXSDKViewData *viewData;
+@property (nonatomic, retain) MUXSDKBandwidthMetricData *bandwidthMetricData;
 
 @end
 

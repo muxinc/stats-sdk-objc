@@ -39,6 +39,10 @@ extern NSString *VIEWER_TIME;
 @property (nullable) NSNumber *viewWaitingRebufferDuration;
 @property (nullable) NSNumber *viewWatchTime;
 @property (nullable) NSNumber *viewerTime;
+@property (nullable) NSNumber *viewMinRequestThroughput;
+@property (nullable) NSNumber *viewAverageRequestThroughput;
+@property (nullable) NSNumber *viewMaxRequestLatency;
+@property (nullable) NSNumber *viewAverageRequestLatency;
 
 @end
 
