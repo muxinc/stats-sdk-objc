@@ -11,10 +11,6 @@
 @end
 
 @interface MUXSDKDispatcher : NSObject<MUXSDKEventHandling> {
-    @private
-    long _failureCount;
-    NSURL *_url;
-    NSData *_eventsJson;
 }
 
 - (void)handle:(id<MUXSDKEventTyping>)event;

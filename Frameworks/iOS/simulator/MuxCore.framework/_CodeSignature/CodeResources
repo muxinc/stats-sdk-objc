@@ -30,7 +30,7 @@
 		</data>
 		<key>Headers/MUXSDKDispatcher.h</key>
 		<data>
-		KefmNXviUl4SrAx41kLSYbVKKyM=
+		eUHHw4PBa6ra9sxG9saatVPTz6w=
 		</data>
 		<key>Headers/MUXSDKEnvironmentData.h</key>
 		<data>
@@ -82,7 +82,7 @@
 		</data>
 		<key>Headers/MUXSDKRequestBandwidthEvent.h</key>
 		<data>
-		DNc4YhxIOP3WG9BA9Tzh4lPSR/M=
+		2x+vfSMwEkiCDCwETpPVENiA/es=
 		</data>
 		<key>Headers/MUXSDKSeekedEvent.h</key>
 		<data>
@@ -122,7 +122,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		T8uwv90rTxGWfsnRIPrcTj2QfFg=
+		0pfPaTkvx6JSxuLI6xEjs4vGRz4=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -201,11 +201,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			KefmNXviUl4SrAx41kLSYbVKKyM=
+			eUHHw4PBa6ra9sxG9saatVPTz6w=
 			</data>
 			<key>hash2</key>
 			<data>
-			WGCUwnohWyegYSJ0ZDOQJX7U7r0wCaCTXSwtxj4/o+c=
+			B4Z6sz3r8aiLCn3EnjBJQM7Oic/6TmxTu/nNi16dmtY=
 			</data>
 		</dict>
 		<key>Headers/MUXSDKEnvironmentData.h</key>
@@ -344,11 +344,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			DNc4YhxIOP3WG9BA9Tzh4lPSR/M=
+			2x+vfSMwEkiCDCwETpPVENiA/es=
 			</data>
 			<key>hash2</key>
 			<data>
-			6dsG68S9e+dByd10SckA++bFKUF5R0FaPurC7hnSoCc=
+			1D0QggLEUYXWU7SEiubLm9MCHsaMeQiEHwWJPqBqHrg=
 			</data>
 		</dict>
 		<key>Headers/MUXSDKSeekedEvent.h</key>
