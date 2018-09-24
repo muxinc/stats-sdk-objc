@@ -43,7 +43,18 @@ extern NSString *VIEWER_TIME;
 @property (nullable) NSNumber *viewAverageRequestThroughput;
 @property (nullable) NSNumber *viewMaxRequestLatency;
 @property (nullable) NSNumber *viewAverageRequestLatency;
-
+@property (nullable) NSString *viewPrerollAdId;
+@property (nullable) NSString *viewPrerollCreativeId;
+@property (nullable) NSNumber *viewPrerollRequested;
+@property (nullable) NSNumber *viewPrerollPlayed;
+@property (nullable) NSNumber *viewPrerollRequestTime;
+@property (nullable) NSNumber *viewStartupPrerollRequestTime;
+@property (nullable) NSNumber *viewPrerollLoadTime;
+@property (nullable) NSNumber *viewStartupPrerollLoadTime;
+@property (nullable) NSString *viewPrerollAdTagHostname;
+@property (nullable) NSString *viewPrerollAdTagDomain;
+@property (nullable) NSString *vviewPrerollAdAssetHostname;
+@property (nullable) NSString *viewPrerollAdAssetDomain;
 @end
 
 #endif
