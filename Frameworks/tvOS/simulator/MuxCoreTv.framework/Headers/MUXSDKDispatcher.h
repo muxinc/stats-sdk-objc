@@ -4,7 +4,11 @@
 #import "MUXSDKEventHandling.h"
 #import "MUXSDKEventTyping.h"
 
+#if __has_feature(modules)
 @import Foundation;
+#else
+#import <Foundation/Foundation.h>
+#endif
 
 @protocol MUXSDKNetworkRequestsCompletion
 - (void)onComplete: (bool)result;
