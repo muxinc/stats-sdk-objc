@@ -13,6 +13,7 @@
 + (void)dispatchGlobalDataEvent:(MUXSDKDataEvent *)event;
 + (void)dispatchEvent:(id<MUXSDKEventTyping>)event forPlayer:(NSString *)playerId;
 + (void)destroyPlayer:(NSString *)playerId;
++ (void)setSentryEnabled:(BOOL)enabled;
 
 @end
 
