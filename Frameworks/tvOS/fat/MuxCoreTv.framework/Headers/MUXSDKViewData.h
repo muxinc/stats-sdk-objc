@@ -4,9 +4,9 @@
 #import "MUXSDKQueryData.h"
 #import <Foundation/Foundation.h>
 
-extern NSString *VIEW_SEQUENCE_NUMBER;
-extern NSString *VIEW_ID;
-extern NSString *VIEWER_TIME;
+extern NSString * _Nonnull VIEW_SEQUENCE_NUMBER;
+extern NSString * _Nonnull VIEW_ID;
+extern NSString * _Nonnull VIEWER_TIME;
 
 @interface MUXSDKViewData : MUXSDKQueryData
 

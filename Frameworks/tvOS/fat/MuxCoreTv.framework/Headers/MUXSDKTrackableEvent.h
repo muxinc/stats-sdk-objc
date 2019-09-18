@@ -13,7 +13,7 @@
 #import "MUXSDKQueryData.h"
 #import "MUXSDKBandwidthMetricData.h"
 
-extern NSString *const MUXSDKTrackableEventType;
+extern NSString * _Nonnull const MUXSDKTrackableEventType;
 
 @interface MUXSDKTrackableEvent : MUXSDKBaseEvent <MUXSDKEventTyping> {
     @private

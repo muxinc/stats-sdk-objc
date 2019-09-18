@@ -8,7 +8,7 @@
 #import "MUXSDKViewData.h"
 #import "MUXSDKBandwidthMetricData.h"
 
-extern NSString *const MUXSDKPlaybackEventType;
+extern NSString * _Nonnull const MUXSDKPlaybackEventType;
 
 @interface MUXSDKPlaybackEvent : MUXSDKBaseEvent <MUXSDKEventTyping>
 

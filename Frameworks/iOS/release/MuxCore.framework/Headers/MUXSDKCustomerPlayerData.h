@@ -4,7 +4,7 @@
 #import "MUXSDKQueryData.h"
 #import <Foundation/Foundation.h>
 
-extern NSString *ENV_KEY;
+extern NSString * _Nonnull ENV_KEY;
 
 @interface MUXSDKCustomerPlayerData : MUXSDKQueryData
 

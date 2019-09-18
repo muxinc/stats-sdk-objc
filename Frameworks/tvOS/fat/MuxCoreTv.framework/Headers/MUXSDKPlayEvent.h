@@ -4,7 +4,7 @@
 #import "MUXSDKPlaybackEvent.h"
 #import <Foundation/Foundation.h>
 
-extern NSString *const MUXSDKPlaybackEventPlayEventType;
+extern NSString * _Nonnull const MUXSDKPlaybackEventPlayEventType;
 
 @interface MUXSDKPlayEvent : MUXSDKPlaybackEvent
 @end

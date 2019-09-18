@@ -9,7 +9,7 @@
 #import "MUXSDKCustomerVideoData.h"
 #import "MUXSDKCustomerPlayerData.h"
 
-extern NSString *const MUXSDKDataEventType;
+extern NSString * _Nonnull const MUXSDKDataEventType;
 
 @interface MUXSDKDataEvent : MUXSDKBaseEvent <MUXSDKEventTyping>
 

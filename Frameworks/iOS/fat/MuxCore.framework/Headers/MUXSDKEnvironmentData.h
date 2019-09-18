@@ -4,7 +4,7 @@
 #import "MUXSDKQueryData.h"
 #import <Foundation/Foundation.h>
 
-extern NSString *MUX_API_VERSION;
+extern NSString * _Nonnull MUX_API_VERSION;
 
 @interface MUXSDKEnvironmentData : MUXSDKQueryData
 

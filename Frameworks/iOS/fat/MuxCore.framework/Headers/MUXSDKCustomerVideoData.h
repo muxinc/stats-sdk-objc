@@ -4,7 +4,7 @@
 #import "MUXSDKQueryData.h"
 #import <Foundation/Foundation.h>
 
-extern NSString *VIDEO_ID;
+extern NSString * _Nonnull VIDEO_ID;
 
 @interface MUXSDKCustomerVideoData : MUXSDKQueryData
 
