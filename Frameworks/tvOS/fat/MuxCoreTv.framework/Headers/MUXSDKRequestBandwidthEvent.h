@@ -4,9 +4,9 @@
 #import "MUXSDKPlaybackEvent.h"
 #import <Foundation/Foundation.h>
 
-extern NSString *const MUXSDKPlaybackEventRequestBandwidthEventErrorType;
-extern NSString *const MUXSDKPlaybackEventRequestBandwidthEventCancelType;
-extern NSString *const MUXSDKPlaybackEventRequestBandwidthEventCompleteType;
+extern NSString *__nullable const MUXSDKPlaybackEventRequestBandwidthEventErrorType;
+extern NSString *__nullable const MUXSDKPlaybackEventRequestBandwidthEventCancelType;
+extern NSString *__nullable const MUXSDKPlaybackEventRequestBandwidthEventCompleteType;
 
 @interface MUXSDKRequestBandwidthEvent : MUXSDKPlaybackEvent
 @property (nullable) NSString *type;

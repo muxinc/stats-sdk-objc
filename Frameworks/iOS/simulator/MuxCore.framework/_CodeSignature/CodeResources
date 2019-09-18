@@ -130,7 +130,7 @@
 		</data>
 		<key>Headers/MUXSDKRequestBandwidthEvent.h</key>
 		<data>
-		2x+vfSMwEkiCDCwETpPVENiA/es=
+		wwYFVDeF5AVC9RN47S/29ph62YA=
 		</data>
 		<key>Headers/MUXSDKSeekedEvent.h</key>
 		<data>
@@ -170,7 +170,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		NZbrIC2JkeqBWQvqDBcwXvzAkOU=
+		TcQF6wX4mNxMM+jtr6cPnFxCWEw=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -524,11 +524,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			2x+vfSMwEkiCDCwETpPVENiA/es=
+			wwYFVDeF5AVC9RN47S/29ph62YA=
 			</data>
 			<key>hash2</key>
 			<data>
-			1D0QggLEUYXWU7SEiubLm9MCHsaMeQiEHwWJPqBqHrg=
+			eOwji4q6qHposvqeGHotpsVHu1k6NqEufl+8XxVU2xY=
 			</data>
 		</dict>
 		<key>Headers/MUXSDKSeekedEvent.h</key>
