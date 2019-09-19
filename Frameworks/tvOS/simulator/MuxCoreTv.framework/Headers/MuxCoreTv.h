@@ -7,7 +7,6 @@ FOUNDATION_EXPORT double MuxCoreTvVersionNumber;
 FOUNDATION_EXPORT const unsigned char MuxCoreTvVersionString[];
 
 // In this header, you should import all the public headers of your framework using statements like #import <MuxCoreTv/PublicHeader.h>
-
 #import "MUXSDKCore.h"
 #import "MUXSDKDispatcher.h"
 #import "MUXSDKQueryData.h"
@@ -36,3 +35,15 @@ FOUNDATION_EXPORT const unsigned char MuxCoreTvVersionString[];
 #import "MUXSDKViewInitEvent.h"
 #import "MUXSDKViewEndEvent.h"
 #import "MUXSDKRequestBandwidthEvent.h"
+#import "MUXSDKAdBreakEndEvent.h"
+#import "MUXSDKAdBreakStartEvent.h"
+#import "MUXSDKAdEndedEvent.h"
+#import "MUXSDKAdErrorEvent.h"
+#import "MUXSDKAdFirstQuartileEvent.h"
+#import "MUXSDKAdMidpointEvent.h"
+#import "MUXSDKAdPauseEvent.h"
+#import "MUXSDKAdPlayEvent.h"
+#import "MUXSDKAdPlayingEvent.h"
+#import "MUXSDKAdThirdQuartileEvent.h"
+#import "MUXSDKAdRequestEvent.h"
+#import "MUXSDKAdResponseEvent.h"
