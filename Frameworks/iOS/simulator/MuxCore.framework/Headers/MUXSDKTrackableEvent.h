@@ -20,20 +20,20 @@ extern NSString * _Nonnull const MUXSDKTrackableEventType;
     MUXSDKQueryData* query;
 }
 
-- (id)initWithType:(NSString *)type;
+- (_Nullable id)initWithType:(NSString * _Nullable)type;
 - (void)updateAll;
-- (NSDictionary *)getQuery;
-- (void)setQuery: (NSDictionary *) query;
+- (NSDictionary * _Nullable)getQuery;
+- (void)setQuery: (NSDictionary * _Nullable) query;
 
-@property (nonatomic, copy) NSString *eventType;
-@property (nonatomic, retain) MUXSDKViewData *viewData;
-@property (nonatomic, retain) MUXSDKVideoData *videoData;
-@property (nonatomic, retain) MUXSDKCustomerVideoData *customerVideoData;
-@property (nonatomic, retain) MUXSDKPlayerData *playerData;
-@property (nonatomic, retain) MUXSDKCustomerPlayerData *customerPlayerData;
-@property (nonatomic, retain) MUXSDKEnvironmentData *environmentData;
-@property (nonatomic, retain) MUXSDKViewerData *viewerData;
-@property (nonatomic, retain) MUXSDKBandwidthMetricData *bandwidthMetricData;
+@property (nonatomic, copy, nullable) NSString *eventType;
+@property (nonatomic, retain, nullable) MUXSDKViewData *viewData;
+@property (nonatomic, retain, nullable) MUXSDKVideoData *videoData;
+@property (nonatomic, retain, nullable) MUXSDKCustomerVideoData *customerVideoData;
+@property (nonatomic, retain, nullable) MUXSDKPlayerData *playerData;
+@property (nonatomic, retain, nullable) MUXSDKCustomerPlayerData *customerPlayerData;
+@property (nonatomic, retain, nullable) MUXSDKEnvironmentData *environmentData;
+@property (nonatomic, retain, nullable) MUXSDKViewerData *viewerData;
+@property (nonatomic, retain, nullable) MUXSDKBandwidthMetricData *bandwidthMetricData;
 
 @end
 

@@ -5,9 +5,9 @@
 #import <Foundation/Foundation.h>
 
 @interface Rendition : NSObject
-    @property (nonatomic) NSNumber *width;
-    @property (nonatomic) NSNumber *height;
-    @property (nonatomic) NSNumber *bitrate;
+    @property (nonatomic) NSNumber * _Nullable width;
+    @property (nonatomic) NSNumber * _Nullable height;
+    @property (nonatomic) NSNumber * _Nullable bitrate;
 @end
 
 @interface MUXSDKBandwidthMetricData : MUXSDKQueryData

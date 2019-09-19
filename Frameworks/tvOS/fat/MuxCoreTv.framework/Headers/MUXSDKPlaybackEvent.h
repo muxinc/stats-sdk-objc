@@ -12,10 +12,10 @@ extern NSString * _Nonnull const MUXSDKPlaybackEventType;
 
 @interface MUXSDKPlaybackEvent : MUXSDKBaseEvent <MUXSDKEventTyping>
 
-@property (nonatomic, retain) MUXSDKPlayerData *playerData;
-@property (nonatomic, retain) MUXSDKVideoData *videoData;
-@property (nonatomic, retain) MUXSDKViewData *viewData;
-@property (nonatomic, retain) MUXSDKBandwidthMetricData *bandwidthMetricData;
+@property (nonatomic, retain, nullable) MUXSDKPlayerData *playerData;
+@property (nonatomic, retain, nullable) MUXSDKVideoData *videoData;
+@property (nonatomic, retain, nullable) MUXSDKViewData *viewData;
+@property (nonatomic, retain, nullable) MUXSDKBandwidthMetricData *bandwidthMetricData;
 
 @end
 
