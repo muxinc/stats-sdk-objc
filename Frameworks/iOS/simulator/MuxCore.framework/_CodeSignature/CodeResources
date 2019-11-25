@@ -114,7 +114,7 @@
 		</data>
 		<key>Headers/MUXSDKPlayerData.h</key>
 		<data>
-		nFiFyjPx0wHN3h4f7iJx744Vub0=
+		SHzJkxL+stBZcyTY3bA8swjjuFE=
 		</data>
 		<key>Headers/MUXSDKPlayerReadyEvent.h</key>
 		<data>
@@ -170,7 +170,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		6BzNZ5j/EfCgjUhnUrNjw5DbKyc=
+		0ge01USk4jjwoNIJnyOTOGwx1cQ=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -480,11 +480,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			nFiFyjPx0wHN3h4f7iJx744Vub0=
+			SHzJkxL+stBZcyTY3bA8swjjuFE=
 			</data>
 			<key>hash2</key>
 			<data>
-			n9d8fxykG7KA5QWPQOgcyRhSIThO1JJU/pBbt9ny3Yk=
+			f9mTF1AXdPFIANuZ//LhwTWcTxB6jAlh1rWkARUHtPU=
 			</data>
 		</dict>
 		<key>Headers/MUXSDKPlayerReadyEvent.h</key>
@@ -644,7 +644,7 @@
 	</dict>
 	<key>rules</key>
 	<dict>
-		<key>^</key>
+		<key>^.*</key>
 		<true/>
 		<key>^.*\.lproj/</key>
 		<dict>
@@ -675,24 +675,12 @@
 			<key>weight</key>
 			<real>11</real>
 		</dict>
-		<key>^</key>
-		<dict>
-			<key>weight</key>
-			<real>20</real>
-		</dict>
 		<key>^(.*/)?\.DS_Store$</key>
 		<dict>
 			<key>omit</key>
 			<true/>
 			<key>weight</key>
 			<real>2000</real>
-		</dict>
-		<key>^(Frameworks|SharedFrameworks|PlugIns|Plug-ins|XPCServices|Helpers|MacOS|Library/(Automator|Spotlight|LoginItems))/</key>
-		<dict>
-			<key>nested</key>
-			<true/>
-			<key>weight</key>
-			<real>10</real>
 		</dict>
 		<key>^.*</key>
 		<true/>
@@ -728,13 +716,6 @@
 			<true/>
 			<key>weight</key>
 			<real>20</real>
-		</dict>
-		<key>^[^/]+$</key>
-		<dict>
-			<key>nested</key>
-			<true/>
-			<key>weight</key>
-			<real>10</real>
 		</dict>
 		<key>^embedded\.provisionprofile$</key>
 		<dict>
