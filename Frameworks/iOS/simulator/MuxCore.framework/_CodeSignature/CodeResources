@@ -100,6 +100,10 @@
 		<data>
 		S08tQN3dPxaxkhOA0m4R9RZMFmo=
 		</data>
+		<key>Headers/MUXSDKOrientationChangeEvent.h</key>
+		<data>
+		l+SJuSyUHBE5IkZW0sphmKY4joA=
+		</data>
 		<key>Headers/MUXSDKPauseEvent.h</key>
 		<data>
 		DnA32l4jz//neUMNUe6buy+3/1M=
@@ -150,7 +154,11 @@
 		</data>
 		<key>Headers/MUXSDKViewData.h</key>
 		<data>
-		urq2TNIhPyMPSf9yfE6ZEpkkkO0=
+		jG5qsFDr0RkNzOidrEVl6zw21Ik=
+		</data>
+		<key>Headers/MUXSDKViewDeviceOrientationData.h</key>
+		<data>
+		m/vbacWZBDsg/oIqPqpo6N8HrQs=
 		</data>
 		<key>Headers/MUXSDKViewEndEvent.h</key>
 		<data>
@@ -166,7 +174,7 @@
 		</data>
 		<key>Headers/MuxCore.h</key>
 		<data>
-		XryRydrvcoUvjlgIfupTFqEmjWk=
+		O/WtdnL6ZTFfLmMbFACrDVVyAXE=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -443,6 +451,17 @@
 			b9pB2grIcFqLm1YfAV+ZTH6IDFt/MwVlPmYjOAGY+FQ=
 			</data>
 		</dict>
+		<key>Headers/MUXSDKOrientationChangeEvent.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			l+SJuSyUHBE5IkZW0sphmKY4joA=
+			</data>
+			<key>hash2</key>
+			<data>
+			qxYwBjw9lUq20+DfuYFt9D3Iwni90cdSK5SCv85HWZI=
+			</data>
+		</dict>
 		<key>Headers/MUXSDKPauseEvent.h</key>
 		<dict>
 			<key>hash</key>
@@ -579,11 +598,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			urq2TNIhPyMPSf9yfE6ZEpkkkO0=
+			jG5qsFDr0RkNzOidrEVl6zw21Ik=
 			</data>
 			<key>hash2</key>
 			<data>
-			kbrVONInAhrJJiU/zHoHhaefVmYgPAuZVwi6nk66Vw4=
+			AiP8LMfHKI8orjUy5xeMqKK10Ua65pJN0121shWI33U=
+			</data>
+		</dict>
+		<key>Headers/MUXSDKViewDeviceOrientationData.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			m/vbacWZBDsg/oIqPqpo6N8HrQs=
+			</data>
+			<key>hash2</key>
+			<data>
+			WKnNbJRujiilbVdctTZP1Ge8ZAgynwBwdcWbr+2nq7U=
 			</data>
 		</dict>
 		<key>Headers/MUXSDKViewEndEvent.h</key>
@@ -623,11 +653,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			XryRydrvcoUvjlgIfupTFqEmjWk=
+			O/WtdnL6ZTFfLmMbFACrDVVyAXE=
 			</data>
 			<key>hash2</key>
 			<data>
-			fb9PPKpN822lbFI/xhNS6IIjD1aaQms2S22evf4ftmo=
+			6O0VlZc+cBqCNlvaNyl0Y1b43Mi6I9YoxckzQ2JKS/0=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

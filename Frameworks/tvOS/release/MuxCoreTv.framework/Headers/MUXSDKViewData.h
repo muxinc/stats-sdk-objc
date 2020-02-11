@@ -2,6 +2,7 @@
 #define MUXSDKViewData_h
 
 #import "MUXSDKQueryData.h"
+#import "MUXSDKViewDeviceOrientationData.h"
 #import <Foundation/Foundation.h>
 
 extern NSString * _Nonnull VIEW_SEQUENCE_NUMBER;
@@ -55,6 +56,7 @@ extern NSString * _Nonnull VIEWER_TIME;
 @property (nullable) NSString *viewPrerollAdTagDomain;
 @property (nullable) NSString *vviewPrerollAdAssetHostname;
 @property (nullable) NSString *viewPrerollAdAssetDomain;
+@property (nonatomic, nullable) MUXSDKViewDeviceOrientationData *viewDeviceOrientationData;
 @end
 
 #endif
