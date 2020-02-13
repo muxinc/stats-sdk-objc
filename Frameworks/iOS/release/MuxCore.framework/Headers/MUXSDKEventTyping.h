@@ -12,6 +12,7 @@
 - (BOOL)isError;
 - (BOOL)isViewMetric;
 - (BOOL)isDebug;
+- (NSSet *) requiredProperties;
 
 @end
 

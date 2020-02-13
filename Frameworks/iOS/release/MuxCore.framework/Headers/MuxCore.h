@@ -49,3 +49,4 @@ FOUNDATION_EXPORT const unsigned char MuxCoreVersionString[];
 #import "MUXSDKAdRequestEvent.h"
 #import "MUXSDKAdResponseEvent.h"
 #import "MUXSDKOrientationChangeEvent.h"
+#import "MUXSDKRenditionChangeEvent.h"
