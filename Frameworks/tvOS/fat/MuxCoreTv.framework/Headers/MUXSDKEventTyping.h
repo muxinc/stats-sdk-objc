@@ -13,7 +13,6 @@
 - (BOOL)isViewMetric;
 - (BOOL)isDebug;
 - (NSSet *) requiredProperties;
-
 @end
 
 #endif

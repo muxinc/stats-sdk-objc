@@ -24,5 +24,4 @@ extern NSString * _Nonnull VIDEO_SOURCE_WIDTH;
 @property (nullable) NSNumber *videoSourceAdvertisedFrameRate;
 
 @end
-
 #endif
