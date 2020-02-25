@@ -21,6 +21,7 @@ extern NSString * _Nonnull const MUXSDKTrackableEventType;
 }
 
 - (_Nullable id)initWithType:(NSString * _Nullable)type;
+- (_Nullable id)initWithType:(NSString * _Nullable)type requiredProperties:(NSSet *_Nullable) requiredProperties;
 - (void)updateAll;
 - (NSDictionary * _Nullable)getQuery;
 - (void)setQuery: (NSDictionary * _Nullable) query;
