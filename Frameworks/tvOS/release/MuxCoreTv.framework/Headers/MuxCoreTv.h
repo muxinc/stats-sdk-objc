@@ -18,6 +18,7 @@ FOUNDATION_EXPORT const unsigned char MuxCoreTvVersionString[];
 #import "MUXSDKPlayerData.h"
 #import "MUXSDKVideoData.h"
 #import "MUXSDKViewData.h"
+#import "MUXSDKViewDeviceOrientationData.h"
 #import "MUXSDKViewerData.h"
 #import "MUXSDKBaseEvent.h"
 #import "MUXSDKEventTyping.h"
@@ -47,3 +48,5 @@ FOUNDATION_EXPORT const unsigned char MuxCoreTvVersionString[];
 #import "MUXSDKAdThirdQuartileEvent.h"
 #import "MUXSDKAdRequestEvent.h"
 #import "MUXSDKAdResponseEvent.h"
+#import "MUXSDKOrientationChangeEvent.h"
+#import "MUXSDKRenditionChangeEvent.h"
