@@ -15,6 +15,7 @@
 @property (nullable) NSString *viewerOsArchitecture;
 @property (nullable) NSString *viewerOsFamily;
 @property (nullable) NSString *viewerOsVersion;
+@property (nullable) NSString *viewerConnectionType;
 
 @end
 
