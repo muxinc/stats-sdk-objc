@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
   s.name             = 'Mux-Stats-Core'
 
-  s.version          = '2.3.0'
+  s.version          = '2.3.0-beta.0'
   s.source           = { :git => 'https://github.com/muxinc/stats-sdk-objc.git',
                          :tag => "v#{s.version}" }
 
@@ -14,7 +14,7 @@ Pod::Spec.new do |s|
   s.license          = 'Apache 2.0'
   s.author           = { 'Mux' => 'ios-sdk@mux.com' }
 
-  s.ios.deployment_target = '8.0'
+  s.ios.deployment_target = '9.0'
   s.ios.vendored_frameworks = 'Frameworks/iOS/fat/MuxCore.framework'
   s.ios.frameworks = 'AVKit', 'AVFoundation'
 
