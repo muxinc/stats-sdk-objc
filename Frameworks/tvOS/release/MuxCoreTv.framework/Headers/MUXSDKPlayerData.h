@@ -26,6 +26,7 @@ extern NSString * _Nonnull PLAYER_INSTANCE_ID;
 @property (nullable) NSString *playerMuxPluginVersion;
 @property (nullable) NSNumber *playerPlayheadTime;
 @property (nullable) NSString *playerPreloadOn;
+@property (nullable) NSNumber *playerRemotePlayed;
 @property (nullable) NSNumber *playerSequenceNumber;
 @property (nullable) NSString *playerSoftwareName;
 @property (nullable) NSString *playerSoftwareVersion;

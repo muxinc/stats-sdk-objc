@@ -4,6 +4,7 @@
 #import "MUXSDKBaseEvent.h"
 #import "MUXSDKCustomerVideoData.h"
 #import "MUXSDKCustomerPlayerData.h"
+#import "MUXSDKCustomerViewData.h"
 #import "MUXSDKEnvironmentData.h"
 #import "MUXSDKEventTyping.h"
 #import "MUXSDKPlayerData.h"
@@ -28,6 +29,7 @@ extern NSString * _Nonnull const MUXSDKTrackableEventType;
 
 @property (nonatomic, copy, nullable) NSString *eventType;
 @property (nonatomic, retain, nullable) MUXSDKViewData *viewData;
+@property (nonatomic, retain, nullable) MUXSDKCustomerViewData *customerViewData;
 @property (nonatomic, retain, nullable) MUXSDKVideoData *videoData;
 @property (nonatomic, retain, nullable) MUXSDKCustomerVideoData *customerVideoData;
 @property (nonatomic, retain, nullable) MUXSDKPlayerData *playerData;
