@@ -14,6 +14,7 @@ FOUNDATION_EXPORT const unsigned char MuxCoreVersionString[];
 #import "MUXSDKBandwidthMetricData.h"
 #import "MUXSDKCustomerPlayerData.h"
 #import "MUXSDKCustomerVideoData.h"
+#import "MUXSDKCustomerViewData.h"
 #import "MUXSDKEnvironmentData.h"
 #import "MUXSDKPlayerData.h"
 #import "MUXSDKVideoData.h"
