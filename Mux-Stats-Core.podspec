@@ -22,5 +22,5 @@ Pod::Spec.new do |s|
   s.tvos.deployment_target = '10.0'
   s.tvos.frameworks = 'AVKit', 'AVFoundation'
   s.tvos.vendored_frameworks = 'XCFramework/MuxCore.xcframework'
-  # s.tvos.pod_target_xcconfig = { 'OTHER_LDFLAGS' => '-framework MuxCoreTv' }
+  s.tvos.user_target_xcconfig = { 'OTHER_LDFLAGS' => '-framework MuxCoreTv' }
 end
