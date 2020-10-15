@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
   s.name             = 'Mux-Stats-Core'
 
-  s.version          = '2.3.0'
+  s.version          = '2.4.0'
   s.source           = { :git => 'https://github.com/muxinc/stats-sdk-objc.git',
                          :tag => "v#{s.version}" }
 
@@ -22,4 +22,13 @@ Pod::Spec.new do |s|
   s.tvos.deployment_target = '10.0'
   s.tvos.frameworks = 'AVKit', 'AVFoundation'
   s.tvos.vendored_frameworks = 'XCFramework/MuxCore.xcframework'
+
+  s.pod_target_xcconfig = {
+    'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64',
+    'EXCLUDED_ARCHS[sdk=appletvsimulator*]' => 'arm64'
+  }
+  s.user_target_xcconfig = {
+    'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64',
+    'EXCLUDED_ARCHS[sdk=appletvsimulator*]' => 'arm64'
+  }
 end
