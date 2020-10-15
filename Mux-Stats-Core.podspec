@@ -23,12 +23,5 @@ Pod::Spec.new do |s|
   s.tvos.frameworks = 'AVKit', 'AVFoundation'
   s.tvos.vendored_frameworks = 'XCFramework/MuxCore.xcframework'
 
-  s.pod_target_xcconfig = {
-    'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64',
-    'EXCLUDED_ARCHS[sdk=appletvsimulator*]' => 'arm64'
-  }
-  s.user_target_xcconfig = {
-    'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64',
-    'EXCLUDED_ARCHS[sdk=appletvsimulator*]' => 'arm64'
-  }
+  s.tvos.pod_target_xcconfig = { 'OTHER_LDFLAGS' => '-framework MuxCoreTv' }
 end
