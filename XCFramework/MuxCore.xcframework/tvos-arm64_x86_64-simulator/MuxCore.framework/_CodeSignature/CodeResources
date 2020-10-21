@@ -188,6 +188,10 @@
 		<data>
 		kDggvwbHmdCvzMLng8GRYGFUjUY=
 		</data>
+		<key>Modules/module.modulemap</key>
+		<data>
+		SIM3fYADxG9ve9JtOsTztj94NGc=
+		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
@@ -684,6 +688,17 @@
 			<key>hash2</key>
 			<data>
 			al5vcOod3+lJC3RA3/Q+wSHJRrFG+K4/HtQg1FSrWVA=
+			</data>
+		</dict>
+		<key>Modules/module.modulemap</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			SIM3fYADxG9ve9JtOsTztj94NGc=
+			</data>
+			<key>hash2</key>
+			<data>
+			BX9eHAztgKeTp2rrz68DLypEdzueRtteijYQZEN9rjM=
 			</data>
 		</dict>
 	</dict>
