@@ -186,7 +186,13 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
+<<<<<<< HEAD:XCFramework/MuxCore.xcframework/tvos-arm64_x86_64-simulator/MuxCore.framework/_CodeSignature/CodeResources
 		fmI0JhxYnpjbL+4QqYVpyIdaHTc=
+||||||| 8423516:Frameworks/tvOS/simulator/MuxCoreTv.framework/_CodeSignature/CodeResources
+		lP7s+qYv6dS+t+7haW/vGShMr4A=
+=======
+		quC1fWAIWc2aCMTwKJ4QGyorMNM=
+>>>>>>> master:Frameworks/tvOS/simulator/MuxCoreTv.framework/_CodeSignature/CodeResources
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
