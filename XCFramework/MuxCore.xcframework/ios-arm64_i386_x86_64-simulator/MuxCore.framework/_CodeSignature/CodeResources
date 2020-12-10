@@ -186,13 +186,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-<<<<<<< HEAD:XCFramework/MuxCore.xcframework/ios-arm64_i386_x86_64-simulator/MuxCore.framework/_CodeSignature/CodeResources
 		2Fc3yOE3v+q4ie4RtvMUgslLxxE=
-||||||| 8423516:Frameworks/iOS/simulator/MuxCore.framework/_CodeSignature/CodeResources
-		VQDs1sWeBask8IB/1VgdoscneyE=
-=======
-		AWSyk8hMw3j6BDsy3Lp8wPJmFN8=
->>>>>>> master:Frameworks/iOS/simulator/MuxCore.framework/_CodeSignature/CodeResources
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
