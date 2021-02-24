@@ -16,10 +16,7 @@
 
 extern NSString * _Nonnull const MUXSDKTrackableEventType;
 
-@interface MUXSDKTrackableEvent : MUXSDKBaseEvent <MUXSDKEventTyping> {
-    @private
-    MUXSDKQueryData* query;
-}
+@interface MUXSDKTrackableEvent : MUXSDKBaseEvent <MUXSDKEventTyping>
 
 - (_Nullable id)initWithType:(NSString * _Nullable)type;
 - (_Nullable id)initWithType:(NSString * _Nullable)type requiredProperties:(NSSet *_Nullable) requiredProperties;
