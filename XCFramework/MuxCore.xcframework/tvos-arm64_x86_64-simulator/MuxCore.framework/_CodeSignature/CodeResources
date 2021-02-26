@@ -180,7 +180,7 @@
 		<data>
 		auTAY+y9INksr8TCk5MJ9ltNrCI=
 		</data>
-		<key>Headers/MuxCoreTv.h</key>
+		<key>Headers/MuxCore.h</key>
 		<data>
 		C4h3lwNCSAfXy0ncuMBAIWeI+Y0=
 		</data>
@@ -679,7 +679,7 @@
 			yyhCqXmWE9kDp08fK+n6QCgbM62qpwYUPDOAUMc801c=
 			</data>
 		</dict>
-		<key>Headers/MuxCoreTv.h</key>
+		<key>Headers/MuxCore.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
