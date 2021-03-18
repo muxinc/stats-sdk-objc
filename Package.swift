@@ -3,15 +3,15 @@
 import PackageDescription
 
 let package = Package(
-    name: "Mux-Stats-Core",
+    name: "MuxCore",
     platforms: [
         .iOS(.v9),
         .tvOS(.v9)
     ],
     products: [
-        .library(name: "Mux-Stats-Core", targets: ["Mux-Stats-Core"])
+        .library(name: "MuxCore", targets: ["MuxCore"])
     ],
     targets: [
-        .binaryTarget(name: "Mux-Stats-Core", path: "XCFramework/MuxCore.xcframework")
+        .binaryTarget(name: "MuxCore", path: "XCFramework/MuxCore.xcframework")
     ]
 )
