@@ -14,7 +14,7 @@ extern NSString * _Nonnull MUX_API_VERSION;
 @property (nullable) NSNumber *sessionExpires;
 @property (nullable) NSString *sessionId;
 @property (nullable) NSNumber *sessionStart;
-
+@property (nullable) NSString *muxEmbed;
 @end
 
 #endif
