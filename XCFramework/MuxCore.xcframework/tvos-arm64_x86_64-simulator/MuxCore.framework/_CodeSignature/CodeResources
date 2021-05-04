@@ -162,7 +162,7 @@
 		</data>
 		<key>Headers/MUXSDKViewData.h</key>
 		<data>
-		1sJGeR9PiuPhyl+L4FqMkqlQ+qg=
+		FDavQBfFNbADuN6iEteH145V1bs=
 		</data>
 		<key>Headers/MUXSDKViewDeviceOrientationData.h</key>
 		<data>
@@ -186,7 +186,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		764JA2jCPL1jlwDMn6bDBi82qSc=
+		5oBt2ePnY00q2pkw16Q9/Hz68W4=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -628,11 +628,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			1sJGeR9PiuPhyl+L4FqMkqlQ+qg=
+			FDavQBfFNbADuN6iEteH145V1bs=
 			</data>
 			<key>hash2</key>
 			<data>
-			t1h4Zf3smNiKIyPP4rxwVEhp0QFyMJUZG5BMWCnbk64=
+			iEQ8JyP4LzQvjULmFHutEJ7ZBJbsyC4hNfidI1QjzBY=
 			</data>
 		</dict>
 		<key>Headers/MUXSDKViewDeviceOrientationData.h</key>
