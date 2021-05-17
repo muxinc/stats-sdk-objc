@@ -1,3 +1,5 @@
+#import <Foundation/Foundation.h>
+
 //! Project version number for MuxCoreTv.
 FOUNDATION_EXPORT double MuxCoreTvVersionNumber;
 
