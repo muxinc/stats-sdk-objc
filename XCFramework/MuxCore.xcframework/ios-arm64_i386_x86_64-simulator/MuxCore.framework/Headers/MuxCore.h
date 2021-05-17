@@ -1,5 +1,4 @@
-#import <UIKit/UIKit.h>
-
+#import <Foundation/Foundation.h>
 //! Project version number for MuxCore.
 FOUNDATION_EXPORT double MuxCoreVersionNumber;
 
