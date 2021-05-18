@@ -30,3 +30,5 @@ xcuserdata/
 
 ## SPM
 .swiftpm
+
+*.DS_Store
