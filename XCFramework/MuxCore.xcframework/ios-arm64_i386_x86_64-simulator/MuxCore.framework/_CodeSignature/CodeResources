@@ -64,6 +64,10 @@
 		<data>
 		G6e1CjnQHzWB8+GCtZay+VHe3Wc=
 		</data>
+		<key>Headers/MUXSDKCustomerData.h</key>
+		<data>
+		6+detcU+07OZCkCKnoadCZqfHCM=
+		</data>
 		<key>Headers/MUXSDKCustomerPlayerData.h</key>
 		<data>
 		i31bZqkGxG1E22b8WsYtrnDjIFE=
@@ -182,7 +186,7 @@
 		</data>
 		<key>Headers/MuxCore.h</key>
 		<data>
-		q+jD56qqpo7vQCsucZgRwp1ShjE=
+		fu1syipGxwYBIVFj98C4RQz3LM8=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -358,6 +362,17 @@
 			<key>hash2</key>
 			<data>
 			r4nzEhUs3pwLYEkkUnsq7HEJetHrHjmyJ19oXU/fm9A=
+			</data>
+		</dict>
+		<key>Headers/MUXSDKCustomerData.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			6+detcU+07OZCkCKnoadCZqfHCM=
+			</data>
+			<key>hash2</key>
+			<data>
+			LKzPpm8enbqOL+fsnKAAruoN+UKs8kxun9zTQ59q0NY=
 			</data>
 		</dict>
 		<key>Headers/MUXSDKCustomerPlayerData.h</key>
@@ -683,11 +698,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			q+jD56qqpo7vQCsucZgRwp1ShjE=
+			fu1syipGxwYBIVFj98C4RQz3LM8=
 			</data>
 			<key>hash2</key>
 			<data>
-			GGwKxB2+wMcyFqzBUEju9cfS99IizNVGN6L0+V5bVOw=
+			aDznkPC8F2ri9XFqpm/2OYRmaYJ34pjs/BZ+lk0uLj0=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
