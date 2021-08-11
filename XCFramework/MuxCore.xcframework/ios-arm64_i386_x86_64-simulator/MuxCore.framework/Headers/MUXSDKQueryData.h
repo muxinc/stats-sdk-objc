@@ -7,6 +7,7 @@
 
 - (void)update:(nonnull NSDictionary *)query;
 - (void)remove:(nonnull NSString *)key;
+- (void)removeAll:(nonnull NSDictionary *)query;
 - (nullable id)get:(nonnull NSString *)key;
 - (nonnull NSDictionary *)toQuery;
 - (void)setQuery: (nonnull NSDictionary *)query;
