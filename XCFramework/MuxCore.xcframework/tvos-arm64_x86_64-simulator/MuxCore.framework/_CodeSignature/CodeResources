@@ -80,6 +80,10 @@
 		<data>
 		Qax/n2voJ3dPUhepOSfLpP3P0xU=
 		</data>
+		<key>Headers/MUXSDKCustomerViewerData.h</key>
+		<data>
+		EmbHcMwDweolepYi3YoGmJhtkJE=
+		</data>
 		<key>Headers/MUXSDKDataEvent.h</key>
 		<data>
 		aEaebFUvB3wqYDy63/eRBkL2bxk=
@@ -406,6 +410,17 @@
 			<key>hash2</key>
 			<data>
 			yHqKoKsxGqylslr5YCy/HfzPIu8MMcTG1Hh6PG0gj6E=
+			</data>
+		</dict>
+		<key>Headers/MUXSDKCustomerViewerData.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			EmbHcMwDweolepYi3YoGmJhtkJE=
+			</data>
+			<key>hash2</key>
+			<data>
+			UYo+ndjxm+HoFbqdDw7Xbmrip9aI2UC+DJRvZbCAOek=
 			</data>
 		</dict>
 		<key>Headers/MUXSDKDataEvent.h</key>
