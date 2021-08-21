@@ -9,6 +9,7 @@
 #import "MUXSDKCustomerVideoData.h"
 #import "MUXSDKCustomerPlayerData.h"
 #import "MUXSDKCustomerViewData.h"
+#import "MUXSDKCustomData.h"
 
 extern NSString * _Nonnull const MUXSDKDataEventType;
 
@@ -21,6 +22,7 @@ extern NSString * _Nonnull const MUXSDKDataEventType;
 @property (nonatomic, retain) MUXSDKCustomerPlayerData * _Nullable customerPlayerData;
 @property (nonatomic, retain) MUXSDKCustomerViewData * _Nullable customerViewData;
 @property BOOL videoChange;
+@property (nonatomic, retain) MUXSDKCustomData * _Nullable customData;
 
 @end
 
