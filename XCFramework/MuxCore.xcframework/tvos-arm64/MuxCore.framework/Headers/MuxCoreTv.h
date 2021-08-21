@@ -52,3 +52,4 @@ FOUNDATION_EXPORT const unsigned char MuxCoreTvVersionString[];
 #import "MUXSDKOrientationChangeEvent.h"
 #import "MUXSDKRenditionChangeEvent.h"
 #import "MUXSDKCustomerData.h"
+#import "MUXSDKCustomData.h"
