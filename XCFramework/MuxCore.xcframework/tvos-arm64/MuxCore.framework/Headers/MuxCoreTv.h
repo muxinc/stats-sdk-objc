@@ -15,6 +15,7 @@ FOUNDATION_EXPORT const unsigned char MuxCoreTvVersionString[];
 #import "MUXSDKCustomerViewData.h"
 #import "MUXSDKCustomerPlayerData.h"
 #import "MUXSDKCustomerVideoData.h"
+#import "MUXSDKCustomerViewerData.h"
 #import "MUXSDKEnvironmentData.h"
 #import "MUXSDKPlayerData.h"
 #import "MUXSDKVideoData.h"
