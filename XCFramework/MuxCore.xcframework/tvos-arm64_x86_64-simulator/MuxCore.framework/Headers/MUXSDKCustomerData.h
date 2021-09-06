@@ -19,16 +19,16 @@
 
 - (id _Nonnull) initWithCustomerPlayerData:(nonnull MUXSDKCustomerPlayerData *) playerData
                         videoData:(nonnull MUXSDKCustomerVideoData *) videoData
-                         viewData:(nonnull MUXSDKCustomerViewData *) viewData;
+                         viewData:(nullable MUXSDKCustomerViewData *) viewData;
 
 - (id _Nonnull) initWithCustomerPlayerData:(nonnull MUXSDKCustomerPlayerData *) playerData
                         videoData:(nonnull MUXSDKCustomerVideoData *) videoData
-                         viewData:(nonnull MUXSDKCustomerViewData *) viewData
+                         viewData:(nullable MUXSDKCustomerViewData *) viewData
                        customData:(nullable MUXSDKCustomData *) customData;
 
 - (id _Nonnull) initWithCustomerPlayerData:(nonnull MUXSDKCustomerPlayerData *) playerData
                         videoData:(nonnull MUXSDKCustomerVideoData *) videoData
-                         viewData:(nonnull MUXSDKCustomerViewData *) viewData
+                         viewData:(nullable MUXSDKCustomerViewData *) viewData
                        customData:(nullable MUXSDKCustomData *) customData
                        viewerData:(nullable MUXSDKCustomerViewerData *) viewerData;
 @end
