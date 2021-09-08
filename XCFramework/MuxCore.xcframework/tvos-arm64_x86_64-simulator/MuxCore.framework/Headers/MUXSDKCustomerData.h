@@ -18,16 +18,16 @@
 @property (strong, nonatomic, nullable) MUXSDKCustomData *customData;
 
 - (id _Nullable) initWithCustomerPlayerData:(nullable MUXSDKCustomerPlayerData *) playerData
-                                  videoData:(nonnull MUXSDKCustomerVideoData *) videoData
+                                  videoData:(nullable MUXSDKCustomerVideoData *) videoData
                                    viewData:(nullable MUXSDKCustomerViewData *) viewData;
 
 - (id _Nullable) initWithCustomerPlayerData:(nullable MUXSDKCustomerPlayerData *) playerData
-                                  videoData:(nonnull MUXSDKCustomerVideoData *) videoData
+                                  videoData:(nullable MUXSDKCustomerVideoData *) videoData
                                    viewData:(nullable MUXSDKCustomerViewData *) viewData
                                  customData:(nullable MUXSDKCustomData *) customData;
 
 - (id _Nullable) initWithCustomerPlayerData:(nullable MUXSDKCustomerPlayerData *) playerData
-                                  videoData:(nonnull MUXSDKCustomerVideoData *) videoData
+                                  videoData:(nullable MUXSDKCustomerVideoData *) videoData
                                    viewData:(nullable MUXSDKCustomerViewData *) viewData
                                  customData:(nullable MUXSDKCustomData *) customData
                                  viewerData:(nullable MUXSDKCustomerViewerData *) viewerData;
