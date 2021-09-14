@@ -11,21 +11,26 @@
 
 @interface MUXSDKCustomerData : MUXSDKQueryData
 
-@property (strong, nonatomic) MUXSDKCustomerPlayerData *customerPlayerData;
-@property (strong, nonatomic) MUXSDKCustomerVideoData *customerVideoData;
-@property (strong, nonatomic) MUXSDKCustomerViewData *customerViewData;
-@property (strong, nonatomic) MUXSDKCustomerViewerData *customerViewerData;
-@property (strong, nonatomic) MUXSDKCustomData *customData;
+@property (strong, nonatomic, nullable) MUXSDKCustomerPlayerData *customerPlayerData;
+@property (strong, nonatomic, nullable) MUXSDKCustomerVideoData *customerVideoData;
+@property (strong, nonatomic, nullable) MUXSDKCustomerViewData *customerViewData;
+@property (strong, nonatomic, nullable) MUXSDKCustomerViewerData *customerViewerData;
+@property (strong, nonatomic, nullable) MUXSDKCustomData *customData;
 
-- (id) initWithCustomerPlayerData:(MUXSDKCustomerPlayerData *) playerData videoData:(MUXSDKCustomerVideoData *) videoData viewData:(MUXSDKCustomerViewData *) viewData;
+- (id _Nullable) initWithCustomerPlayerData:(nullable MUXSDKCustomerPlayerData *) playerData
+                                  videoData:(nullable MUXSDKCustomerVideoData *) videoData
+                                   viewData:(nullable MUXSDKCustomerViewData *) viewData;
 
-- (id) initWithCustomerPlayerData:(MUXSDKCustomerPlayerData *) playerData videoData:(MUXSDKCustomerVideoData *) videoData viewData:(MUXSDKCustomerViewData *) viewData customData:(MUXSDKCustomData *) customData;
+- (id _Nullable) initWithCustomerPlayerData:(nullable MUXSDKCustomerPlayerData *) playerData
+                                  videoData:(nullable MUXSDKCustomerVideoData *) videoData
+                                   viewData:(nullable MUXSDKCustomerViewData *) viewData
+                                 customData:(nullable MUXSDKCustomData *) customData;
 
-- (id) initWithCustomerPlayerData:(MUXSDKCustomerPlayerData *) playerData
-                        videoData:(MUXSDKCustomerVideoData *) videoData
-                         viewData:(MUXSDKCustomerViewData *) viewData
-                       customData:(MUXSDKCustomData *) customData
-                       viewerData:(MUXSDKCustomerViewerData *) viewerData;
+- (id _Nullable) initWithCustomerPlayerData:(nullable MUXSDKCustomerPlayerData *) playerData
+                                  videoData:(nullable MUXSDKCustomerVideoData *) videoData
+                                   viewData:(nullable MUXSDKCustomerViewData *) viewData
+                                 customData:(nullable MUXSDKCustomData *) customData
+                                 viewerData:(nullable MUXSDKCustomerViewerData *) viewerData;
 @end
 
 #endif
