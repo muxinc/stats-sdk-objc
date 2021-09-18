@@ -14,6 +14,7 @@
 + (void)dispatchEvent:(id<MUXSDKEventTyping>)event forPlayer:(NSString *)playerId;
 + (void)destroyPlayer:(NSString *)playerId;
 + (void)setSentryEnabled:(BOOL)enabled;
++ (void)setBeaconDomain:(NSString *)domain forPlayer:(NSString *)playerId;
 
 @end
 

@@ -17,9 +17,13 @@
 @interface MUXSDKDispatcher : NSObject<MUXSDKEventHandling> {
 }
 
-- (void)handle:(id<MUXSDKEventTyping>)event;
-- (void)handleBatch:(NSString *)envKey osFamily:(NSString *)os withJson: (NSData *)json withCallback: (id<MUXSDKNetworkRequestsCompletion>) callback;
+- (void)handleBatch:(NSString *)envKey domain:(NSString *)domain osFamily:(NSString *)os withJson: (NSData *)json withCallback: (id<MUXSDKNetworkRequestsCompletion>) callback;
 + (void)handleException:(NSDictionary *)json pluginName:(NSString *)pluginName pluginVersion:(NSString *)pluginVerison;
+
+#pragma mark Deprecated
+
+- (void)handle:(id<MUXSDKEventTyping>)event __attribute__((deprecated("Please migrate to handleBatch:domain:osFamily:withJson:withCallback:")));
+- (void)handleBatch:(NSString *)envKey osFamily:(NSString *)os withJson: (NSData *)json withCallback: (id<MUXSDKNetworkRequestsCompletion>) callback __attribute__((deprecated("Please migrate to handleBatch:domain:osFamily:withJson:withCallback:")));
 
 @end
 
