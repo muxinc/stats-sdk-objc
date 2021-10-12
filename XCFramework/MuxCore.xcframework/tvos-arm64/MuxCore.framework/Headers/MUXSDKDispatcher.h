@@ -14,7 +14,11 @@
 - (void)onComplete: (bool)result;
 @end
 
-@interface MUXSDKDispatcher : NSObject<MUXSDKEventHandling> {
+@protocol MUXSDKNetworkRequestBuilding
+- (NSMutableURLRequest *) buildRequestFromURL:(NSURL *) url eventsJsonDict:(NSMutableDictionary *) dict error:(NSError **) error;
+@end
+
+@interface MUXSDKDispatcher : NSObject<MUXSDKEventHandling, MUXSDKNetworkRequestBuilding> {
 }
 - (void)handleBatch:(NSString *)envKey domain:(NSString *)domain osFamily:(NSString *)os jsonDict: (NSMutableDictionary *)jsonDict callback: (id<MUXSDKNetworkRequestsCompletion>) callback;
 
