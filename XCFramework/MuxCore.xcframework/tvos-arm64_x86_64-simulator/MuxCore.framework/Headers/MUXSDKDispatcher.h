@@ -15,7 +15,7 @@
 @end
 
 @protocol MUXSDKNetworkRequestBuilding
-- (NSMutableURLRequest *) buildRequestFromURL:(NSURL *) url eventsJsonDict:(NSMutableDictionary *) dict error:(NSError **) error;
+- (NSMutableURLRequest *) buildRequestFromURL:(NSURL *) url eventsJsonDict:(NSDictionary *) dict error:(NSError **) error;
 @end
 
 @interface MUXSDKDispatcher : NSObject<MUXSDKEventHandling, MUXSDKNetworkRequestBuilding> {
