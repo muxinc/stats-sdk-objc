@@ -14,17 +14,21 @@
 - (void)onComplete: (bool)result;
 @end
 
-@interface MUXSDKDispatcher : NSObject<MUXSDKEventHandling> {
-}
+@protocol MUXSDKNetworkRequestBuilding
+- (NSMutableURLRequest *) buildRequestFromURL:(NSURL *) url eventsJsonDict:(NSDictionary *) dict error:(NSError **) error;
+@end
 
-- (void)handleBatch:(NSString *)envKey domain:(NSString *)domain osFamily:(NSString *)os withJson: (NSData *)json withCallback: (id<MUXSDKNetworkRequestsCompletion>) callback;
+@interface MUXSDKDispatcher : NSObject<MUXSDKEventHandling, MUXSDKNetworkRequestBuilding> {
+}
+- (void)handleBatch:(NSString *)envKey domain:(NSString *)domain osFamily:(NSString *)os jsonDict: (NSMutableDictionary *)jsonDict callback: (id<MUXSDKNetworkRequestsCompletion>) callback;
+
 + (void)handleException:(NSDictionary *)json pluginName:(NSString *)pluginName pluginVersion:(NSString *)pluginVerison;
 
 #pragma mark Deprecated
 
-- (void)handle:(id<MUXSDKEventTyping>)event __attribute__((deprecated("Please migrate to handleBatch:domain:osFamily:withJson:withCallback:")));
-- (void)handleBatch:(NSString *)envKey osFamily:(NSString *)os withJson: (NSData *)json withCallback: (id<MUXSDKNetworkRequestsCompletion>) callback __attribute__((deprecated("Please migrate to handleBatch:domain:osFamily:withJson:withCallback:")));
-
+- (void)handle:(id<MUXSDKEventTyping>)event __attribute__((deprecated("Please migrate to handleBatch:domain:osFamily:jsonDict:withCallback:")));
+- (void)handleBatch:(NSString *)envKey osFamily:(NSString *)os withJson: (NSData *)json withCallback: (id<MUXSDKNetworkRequestsCompletion>) callback __attribute__((deprecated("Please migrate to handleBatch:domain:osFamily:jsonDict:withCallback:")));
+- (void)handleBatch:(NSString *)envKey domain:(NSString *)domain osFamily:(NSString *)os withJson: (NSData *)json withCallback: (id<MUXSDKNetworkRequestsCompletion>) callback __attribute__((deprecated("Please migrate to handleBatch:domain:osFamily:jsonDict:withCallback:")));
 @end
 
 #endif
