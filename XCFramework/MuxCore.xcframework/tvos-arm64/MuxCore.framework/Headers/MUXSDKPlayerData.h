@@ -33,8 +33,6 @@ extern NSString * _Nonnull PLAYER_INSTANCE_ID;
 @property (nullable) NSNumber *playerStartupTime;
 @property (nullable) NSNumber *playerViewCount;
 @property (nullable) NSNumber *playerWidth;
-@property (nullable) NSNumber *playerProgramTime;
-@property (nullable) NSNumber *playerManifestNewestProgramTime;
 
 @end
 

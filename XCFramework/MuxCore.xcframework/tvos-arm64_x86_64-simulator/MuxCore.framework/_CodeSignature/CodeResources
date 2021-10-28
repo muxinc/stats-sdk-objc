@@ -110,7 +110,7 @@
 		</data>
 		<key>Headers/MUXSDKEventTyping.h</key>
 		<data>
-		df3Vv9OgcEDB4gC7LhMB2ziz/dI=
+		iXjSP2CJT2TQL1NuWIPZSTxqv+0=
 		</data>
 		<key>Headers/MUXSDKInternalSeekingEvent.h</key>
 		<data>
@@ -134,7 +134,7 @@
 		</data>
 		<key>Headers/MUXSDKPlayerData.h</key>
 		<data>
-		DFSL5+OpU4JuEdxAkbB05vJ0FwA=
+		h+dsWbDV9+a1v6VzMDDTQ4fMm8U=
 		</data>
 		<key>Headers/MUXSDKPlayerReadyEvent.h</key>
 		<data>
@@ -497,11 +497,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			df3Vv9OgcEDB4gC7LhMB2ziz/dI=
+			iXjSP2CJT2TQL1NuWIPZSTxqv+0=
 			</data>
 			<key>hash2</key>
 			<data>
-			QYl1uBkol7kgM0wubRCfK2EXL2AUfCLy8YQ4ezddBvk=
+			UJG7IB8sSIpfumWaIW/Yo7E3GiwBmWn1DySCFyJcVKI=
 			</data>
 		</dict>
 		<key>Headers/MUXSDKInternalSeekingEvent.h</key>
@@ -563,11 +563,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			DFSL5+OpU4JuEdxAkbB05vJ0FwA=
+			h+dsWbDV9+a1v6VzMDDTQ4fMm8U=
 			</data>
 			<key>hash2</key>
 			<data>
-			1ouknpXlv4/cqONDpHAsCQvT5ExuxWofVVzQOUhUSOs=
+			ewobzQERLlt8ZNiyhbsMZDiL8BPgZhrOwQAVbSHmgPo=
 			</data>
 		</dict>
 		<key>Headers/MUXSDKPlayerReadyEvent.h</key>
