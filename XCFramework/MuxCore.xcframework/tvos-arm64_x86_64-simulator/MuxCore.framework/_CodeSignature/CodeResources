@@ -156,6 +156,10 @@
 		<data>
 		MRe0BciG8Px01w1ph9OaS5Kc9QI=
 		</data>
+		<key>Headers/MUXSDKSamplingData.h</key>
+		<data>
+		RwqBW8moNHkJcHrTwK7AsoO5efU=
+		</data>
 		<key>Headers/MUXSDKSeekedEvent.h</key>
 		<data>
 		FEjNZK8Ot/6f9Tq+0wyXga6Gu74=
@@ -623,6 +627,17 @@
 			<key>hash2</key>
 			<data>
 			H41ju/HpCB3E9MPxOEj2aTka5UyyRQ5/VBlxWYu9nVQ=
+			</data>
+		</dict>
+		<key>Headers/MUXSDKSamplingData.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			RwqBW8moNHkJcHrTwK7AsoO5efU=
+			</data>
+			<key>hash2</key>
+			<data>
+			BrRKJplE/SFaTe9AwML3IarUdfUSUq/o9YC10wTCYZM=
 			</data>
 		</dict>
 		<key>Headers/MUXSDKSeekedEvent.h</key>
