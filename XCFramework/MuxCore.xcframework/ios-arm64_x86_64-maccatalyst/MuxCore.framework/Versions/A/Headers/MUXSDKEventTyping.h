@@ -11,7 +11,6 @@
 - (BOOL)isData;
 - (BOOL)isError;
 - (BOOL)isViewMetric;
-- (BOOL)isSampling;
 - (BOOL)isDebug;
 - (NSSet *) requiredProperties;
 @end

@@ -110,7 +110,7 @@
 		</data>
 		<key>Headers/MUXSDKEventTyping.h</key>
 		<data>
-		iXjSP2CJT2TQL1NuWIPZSTxqv+0=
+		df3Vv9OgcEDB4gC7LhMB2ziz/dI=
 		</data>
 		<key>Headers/MUXSDKInternalSeekingEvent.h</key>
 		<data>
@@ -134,7 +134,7 @@
 		</data>
 		<key>Headers/MUXSDKPlayerData.h</key>
 		<data>
-		h+dsWbDV9+a1v6VzMDDTQ4fMm8U=
+		DFSL5+OpU4JuEdxAkbB05vJ0FwA=
 		</data>
 		<key>Headers/MUXSDKPlayerReadyEvent.h</key>
 		<data>
@@ -155,14 +155,6 @@
 		<key>Headers/MUXSDKRequestBandwidthEvent.h</key>
 		<data>
 		MRe0BciG8Px01w1ph9OaS5Kc9QI=
-		</data>
-		<key>Headers/MUXSDKSamplingData.h</key>
-		<data>
-		RwqBW8moNHkJcHrTwK7AsoO5efU=
-		</data>
-		<key>Headers/MUXSDKSamplingEvent.h</key>
-		<data>
-		cdl4xo+vue+dzYCgtHA/yVu6W5I=
 		</data>
 		<key>Headers/MUXSDKSeekedEvent.h</key>
 		<data>
@@ -202,7 +194,7 @@
 		</data>
 		<key>Headers/MuxCore.h</key>
 		<data>
-		mabiEnkYCrGXgJZ/OiZi5Od9Tds=
+		kzBCpXonDyuRXyUDRDDt0xdFxFc=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -505,11 +497,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			iXjSP2CJT2TQL1NuWIPZSTxqv+0=
+			df3Vv9OgcEDB4gC7LhMB2ziz/dI=
 			</data>
 			<key>hash2</key>
 			<data>
-			UJG7IB8sSIpfumWaIW/Yo7E3GiwBmWn1DySCFyJcVKI=
+			QYl1uBkol7kgM0wubRCfK2EXL2AUfCLy8YQ4ezddBvk=
 			</data>
 		</dict>
 		<key>Headers/MUXSDKInternalSeekingEvent.h</key>
@@ -571,11 +563,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			h+dsWbDV9+a1v6VzMDDTQ4fMm8U=
+			DFSL5+OpU4JuEdxAkbB05vJ0FwA=
 			</data>
 			<key>hash2</key>
 			<data>
-			ewobzQERLlt8ZNiyhbsMZDiL8BPgZhrOwQAVbSHmgPo=
+			1ouknpXlv4/cqONDpHAsCQvT5ExuxWofVVzQOUhUSOs=
 			</data>
 		</dict>
 		<key>Headers/MUXSDKPlayerReadyEvent.h</key>
@@ -631,28 +623,6 @@
 			<key>hash2</key>
 			<data>
 			H41ju/HpCB3E9MPxOEj2aTka5UyyRQ5/VBlxWYu9nVQ=
-			</data>
-		</dict>
-		<key>Headers/MUXSDKSamplingData.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			RwqBW8moNHkJcHrTwK7AsoO5efU=
-			</data>
-			<key>hash2</key>
-			<data>
-			BrRKJplE/SFaTe9AwML3IarUdfUSUq/o9YC10wTCYZM=
-			</data>
-		</dict>
-		<key>Headers/MUXSDKSamplingEvent.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			cdl4xo+vue+dzYCgtHA/yVu6W5I=
-			</data>
-			<key>hash2</key>
-			<data>
-			bPetntBMXFBq/lS2zYrzaiq31pZQjwI72IKmFEVHxkY=
 			</data>
 		</dict>
 		<key>Headers/MUXSDKSeekedEvent.h</key>
@@ -758,11 +728,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			mabiEnkYCrGXgJZ/OiZi5Od9Tds=
+			kzBCpXonDyuRXyUDRDDt0xdFxFc=
 			</data>
 			<key>hash2</key>
 			<data>
-			4HAqMo0CY54tNTsdMoztEbiZt+sJZXqPeBNugE/JJN8=
+			TRMTimLexFcx741uY0OUX0Esdauji9pl8Z7WTH39rRE=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
