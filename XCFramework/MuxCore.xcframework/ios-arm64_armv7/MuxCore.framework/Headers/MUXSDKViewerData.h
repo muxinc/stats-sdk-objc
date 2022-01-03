@@ -17,12 +17,12 @@
 @property (nullable) NSString *viewerOsVersion;
 @property (nullable) NSString *viewerConnectionType;
 @property (nullable) NSString *viewerDeviceModel;
-@property (nullable) NSString *MUXViewerDeviceCategory;
-@property (nullable) NSString *MUXViewerDeviceManufacturer;
-@property (nullable) NSString *MUXViewerDeviceName;
-@property (nullable) NSString *MUXViewerOsFamily;
-@property (nullable) NSString *MUXViewerOsVersion;
-@property (nullable) NSString *MUXViewerDeviceModel;
+@property (nullable) NSString *MuxViewerDeviceCategory;
+@property (nullable) NSString *MuxViewerDeviceManufacturer;
+@property (nullable) NSString *MuxViewerDeviceName;
+@property (nullable) NSString *MuxViewerOsFamily;
+@property (nullable) NSString *MuxViewerOsVersion;
+@property (nullable) NSString *MuxViewerDeviceModel;
 
 @end
 
