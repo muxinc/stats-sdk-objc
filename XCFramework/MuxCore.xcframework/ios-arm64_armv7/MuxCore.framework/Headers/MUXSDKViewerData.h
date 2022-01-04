@@ -17,6 +17,12 @@
 @property (nullable) NSString *viewerOsVersion;
 @property (nullable) NSString *viewerConnectionType;
 @property (nullable) NSString *viewerDeviceModel;
+@property (nullable) NSString *muxViewerDeviceCategory;
+@property (nullable) NSString *muxViewerDeviceManufacturer;
+@property (nullable) NSString *muxViewerDeviceName;
+@property (nullable) NSString *muxViewerOsFamily;
+@property (nullable) NSString *muxViewerOsVersion;
+@property (nullable) NSString *muxViewerDeviceModel;
 
 @end
 
