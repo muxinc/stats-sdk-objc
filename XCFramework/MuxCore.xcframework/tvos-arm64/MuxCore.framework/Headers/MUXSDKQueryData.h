@@ -6,6 +6,7 @@
 @interface MUXSDKQueryData : NSObject
 
 - (void)update:(nonnull NSDictionary *)query;
+- (void)updateIfNull:(nonnull NSDictionary *)query;
 - (void)remove:(nonnull NSString *)key;
 - (void)removeAll:(nonnull NSDictionary *)query;
 - (nullable id)get:(nonnull NSString *)key;
