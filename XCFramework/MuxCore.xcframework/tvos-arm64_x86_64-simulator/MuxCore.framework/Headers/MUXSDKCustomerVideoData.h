@@ -22,6 +22,7 @@ extern NSString * _Nonnull VIDEO_ID;
 @property (nullable) NSString *videoVariantId;
 @property (nullable) NSString *videoVariantName;
 @property (nullable) NSString *videoSourceUrl;
+@property (nullable) NSString *videoExperiments;
 
 @end
 

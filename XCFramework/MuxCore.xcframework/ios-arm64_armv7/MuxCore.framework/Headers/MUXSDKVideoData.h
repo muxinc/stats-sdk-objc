@@ -22,6 +22,7 @@ extern NSString * _Nonnull VIDEO_SOURCE_WIDTH;
 @property (nullable) NSNumber *videoSourceWidth;
 @property (nullable) NSNumber *videoSourceAdvertisedBitrate;
 @property (nullable) NSNumber *videoSourceAdvertisedFrameRate;
+@property (nullable) NSString *internalVideoExperiments;
 
 @end
 #endif
