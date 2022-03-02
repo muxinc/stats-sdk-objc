@@ -4,8 +4,6 @@
 
 #import "MUXSDKBaseEvent.h"
 #import "MUXSDKEventTyping.h"
-#import "MUXSDKViewerData.h"
-#import "MUXSDKPlayerData.h"
 #import "MUXSDKVideoData.h"
 #import "MUXSDKViewData.h"
 #import "MUXSDKCustomerVideoData.h"
@@ -18,10 +16,8 @@ extern NSString * _Nonnull const MUXSDKSessionDataEventType;
 @interface MUXSDKSessionDataEvent : MUXSDKBaseEvent <MUXSDKEventTyping>
 
 @property (nonatomic, retain) NSDictionary * _Nullable sessionData;
-@property (nonatomic, retain) MUXSDKViewerData * _Nullable viewerData;
 @property (nonatomic, retain) MUXSDKViewData * _Nullable viewData;
 @property (nonatomic, retain) MUXSDKVideoData * _Nullable videoData;
-@property (nonatomic, retain) MUXSDKPlayerData * _Nullable playerData;
 @property (nonatomic, retain) MUXSDKCustomerVideoData * _Nullable customerVideoData;
 @property (nonatomic, retain) MUXSDKCustomerPlayerData * _Nullable customerPlayerData;
 @property (nonatomic, retain) MUXSDKCustomerViewData * _Nullable customerViewData;

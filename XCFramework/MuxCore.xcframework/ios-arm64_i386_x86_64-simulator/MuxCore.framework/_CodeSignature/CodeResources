@@ -162,7 +162,7 @@
 		</data>
 		<key>Headers/MUXSDKSessionDataEvent.h</key>
 		<data>
-		VOpTNsQ+qYBo7xXKdyaLnszU5yw=
+		bRv76Jv3iTjZNFCA9C6/ifjs2zo=
 		</data>
 		<key>Headers/MUXSDKTimeUpdateEvent.h</key>
 		<data>
@@ -202,7 +202,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		JylwThavkry8md2CNMBIp0R1wxM=
+		Bp7kCvtQb+v6/ZdtKtw5/MMnR+E=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -644,11 +644,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			VOpTNsQ+qYBo7xXKdyaLnszU5yw=
+			bRv76Jv3iTjZNFCA9C6/ifjs2zo=
 			</data>
 			<key>hash2</key>
 			<data>
-			70pI99RvXeDPMTRlhsJMAyu3D8jIsTvFiYVCMgRCz9k=
+			w8X2/99/s2PLyukZfmoQNaYfXL035kcirLPWjtbaniw=
 			</data>
 		</dict>
 		<key>Headers/MUXSDKTimeUpdateEvent.h</key>
