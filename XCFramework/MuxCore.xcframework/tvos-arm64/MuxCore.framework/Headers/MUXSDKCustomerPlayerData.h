@@ -3,10 +3,11 @@
 
 #import "MUXSDKQueryData.h"
 #import <Foundation/Foundation.h>
+#import "MUXSDKUpsertable.h"
 
 extern NSString * _Nonnull ENV_KEY;
 
-@interface MUXSDKCustomerPlayerData : MUXSDKQueryData
+@interface MUXSDKCustomerPlayerData : MUXSDKQueryData<MUXSDKUpsertable>
 
 - (_Null_unspecified instancetype)init NS_UNAVAILABLE;
 + (_Null_unspecified instancetype)new NS_UNAVAILABLE;
