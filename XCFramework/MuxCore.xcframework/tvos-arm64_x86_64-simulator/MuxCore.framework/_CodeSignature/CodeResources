@@ -172,6 +172,10 @@
 		<data>
 		VRfcC7fKYHV/G6X9pB6M5Lrnono=
 		</data>
+		<key>Headers/MUXSDKUpsertable.h</key>
+		<data>
+		Pz/7usY7QU1XcU4/HW6uwy3pJTA=
+		</data>
 		<key>Headers/MUXSDKVideoData.h</key>
 		<data>
 		MGkW0g6ISLQi0VOJm9OuOhJHXKQ=
@@ -671,6 +675,17 @@
 			<key>hash2</key>
 			<data>
 			nGPejgKuzerKlq/dikKyUNzQ0zZohr/nmNCT7KipWNk=
+			</data>
+		</dict>
+		<key>Headers/MUXSDKUpsertable.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Pz/7usY7QU1XcU4/HW6uwy3pJTA=
+			</data>
+			<key>hash2</key>
+			<data>
+			K5Qqwc8P1HoLseH+U6cAmKKKexBaXYOHWcKYwrk0Njc=
 			</data>
 		</dict>
 		<key>Headers/MUXSDKVideoData.h</key>
