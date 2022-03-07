@@ -3,8 +3,9 @@
 
 #import "MUXSDKQueryData.h"
 #import <Foundation/Foundation.h>
+#import "MUXSDKUpsertable.h"
 
-@interface MUXSDKCustomData : MUXSDKQueryData
+@interface MUXSDKCustomData : MUXSDKQueryData<MUXSDKUpsertable>
 
 @property (nullable) NSString *customData1;
 @property (nullable) NSString *customData2;

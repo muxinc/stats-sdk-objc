@@ -26,6 +26,7 @@ FOUNDATION_EXPORT const unsigned char MuxCoreTvVersionString[];
 #import "MUXSDKEventTyping.h"
 #import "MUXSDKEventHandling.h"
 #import "MUXSDKPlaybackEvent.h"
+#import "MUXSDKSessionDataEvent.h"
 #import "MUXSDKDataEvent.h"
 #import "MUXSDKErrorEvent.h"
 #import "MUXSDKInternalSeekingEvent.h"
