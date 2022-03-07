@@ -9,6 +9,9 @@ extern NSString * _Nonnull ENV_KEY;
 
 @interface MUXSDKCustomerPlayerData : MUXSDKQueryData<MUXSDKUpsertable>
 
+- (_Null_unspecified instancetype)init NS_UNAVAILABLE;
++ (_Null_unspecified instancetype)new NS_UNAVAILABLE;
+
 - (nullable instancetype)initWithPropertyKey:(nonnull NSString *)propertyKey;
 - (nullable instancetype)initWithEnvironmentKey:(nonnull NSString *)envKey;
 
