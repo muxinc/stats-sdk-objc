@@ -3,13 +3,14 @@
 
 #import "MUXSDKQueryData.h"
 #import <Foundation/Foundation.h>
+#import "MUXSDKUpsertable.h"
 
 extern NSString * _Nonnull VIDEO_SOURCE_ADVERTISED_BITRATE;
 extern NSString * _Nonnull VIDEO_SOURCE_ADVERTISED_FRAMERATE;
 extern NSString * _Nonnull VIDEO_SOURCE_HEIGHT;
 extern NSString * _Nonnull VIDEO_SOURCE_WIDTH;
 
-@interface MUXSDKVideoData : MUXSDKQueryData
+@interface MUXSDKVideoData : MUXSDKQueryData<MUXSDKUpsertable>
 
 @property (nullable) NSString *videoPosterUrl;
 @property (nullable) NSString *videoSourceDomain;

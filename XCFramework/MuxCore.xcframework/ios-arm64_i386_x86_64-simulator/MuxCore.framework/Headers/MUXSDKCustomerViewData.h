@@ -3,8 +3,9 @@
 
 #import "MUXSDKQueryData.h"
 #import <Foundation/Foundation.h>
+#import "MUXSDKUpsertable.h"
 
-@interface MUXSDKCustomerViewData : MUXSDKQueryData
+@interface MUXSDKCustomerViewData : MUXSDKQueryData<MUXSDKUpsertable>
 
 @property (nullable) NSString *viewSessionId;
 
