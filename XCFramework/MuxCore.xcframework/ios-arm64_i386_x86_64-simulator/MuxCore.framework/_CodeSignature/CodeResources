@@ -62,7 +62,7 @@
 		</data>
 		<key>Headers/MUXSDKCore.h</key>
 		<data>
-		jpcrdTVgohEbwqFXsVBqndHo9po=
+		a4xnQMA2zwcULSF5NX1JMJRuKck=
 		</data>
 		<key>Headers/MUXSDKCustomData.h</key>
 		<data>
@@ -94,7 +94,7 @@
 		</data>
 		<key>Headers/MUXSDKDispatcher.h</key>
 		<data>
-		O9GO+ljup2vjLJB5TG4P+cxX038=
+		sLgiBrq/GUWoEpEJIS0Sjb+GqPI=
 		</data>
 		<key>Headers/MUXSDKEndedEvent.h</key>
 		<data>
@@ -210,7 +210,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		MKQHOYKdehWHntoDe0u0fa7gSkc=
+		aBIf6PQzGLLzONgr+WKGY7PV8dM=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -377,11 +377,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			jpcrdTVgohEbwqFXsVBqndHo9po=
+			a4xnQMA2zwcULSF5NX1JMJRuKck=
 			</data>
 			<key>hash2</key>
 			<data>
-			V4Pe47HkeiqoHRQRSe0cv63dHqCm+Ni7+sjf3TYCY+c=
+			ZQur4DMI83VLmFnH5LbNKYwS2zYWZWuVq6FEwSjqizA=
 			</data>
 		</dict>
 		<key>Headers/MUXSDKCustomData.h</key>
@@ -465,11 +465,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			O9GO+ljup2vjLJB5TG4P+cxX038=
+			sLgiBrq/GUWoEpEJIS0Sjb+GqPI=
 			</data>
 			<key>hash2</key>
 			<data>
-			bxWY4AUoAgzxDv/vfIjF0zz4/hiuEp/RO2p98huRp90=
+			KYFkUanymyn4wb9lYdO44WW6ZUwFqwtrTakMafDX94g=
 			</data>
 		</dict>
 		<key>Headers/MUXSDKEndedEvent.h</key>
