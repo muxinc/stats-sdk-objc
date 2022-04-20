@@ -14,7 +14,8 @@
 + (void)dispatchEvent:(id<MUXSDKEventTyping>)event forPlayer:(NSString *)playerId;
 + (void)destroyPlayer:(NSString *)playerId;
 + (void)setSentryEnabled:(BOOL)enabled;
-+ (void)setBeaconDomain:(NSString *)domain forPlayer:(NSString *)playerId;
++ (void)setBeaconCollectionDomain:(NSString *)collectionDomain forPlayer:(NSString *)playerId;
++ (void)setBeaconDomain:(NSString *)domain forPlayer:(NSString *)playerId __attribute__((deprecated("Please migrate to setBeaconCollectionDomain:forPlayer")));;
 
 @end
 
