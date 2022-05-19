@@ -22,7 +22,7 @@ extern NSString * _Nonnull ENV_KEY;
 @property (nullable) NSString *environmentKey;
 @property (nullable) NSString *subPropertyId;
 @property (nullable) NSString *viewerUserId;
-@property (nullable) NSString *playerAutoplayOn;
+@property BOOL playerAutoplayOn;
 
 @end
 
