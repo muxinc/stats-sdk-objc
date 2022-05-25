@@ -74,7 +74,7 @@
 		</data>
 		<key>Headers/MUXSDKCustomerPlayerData.h</key>
 		<data>
-		2bsRR38NqFjH+90n7uKZ79tInu0=
+		T8MjVDzqc28Rvfbs2IXWZ7qQz64=
 		</data>
 		<key>Headers/MUXSDKCustomerVideoData.h</key>
 		<data>
@@ -210,7 +210,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		qVKBBmEeHOgQ9CRxJY/+2zR91PM=
+		VJ5h4oCSicEpkQNgwc11bGKyLD8=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -410,11 +410,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			2bsRR38NqFjH+90n7uKZ79tInu0=
+			T8MjVDzqc28Rvfbs2IXWZ7qQz64=
 			</data>
 			<key>hash2</key>
 			<data>
-			Fqg7XneYeJlDcfb/sFvgfK9S7XLDKlQs7vagNgKxG1M=
+			kMjiD2ngQcZqMF/5l2zygc2JsvLkLhINJoxSnWyyGdk=
 			</data>
 		</dict>
 		<key>Headers/MUXSDKCustomerVideoData.h</key>
