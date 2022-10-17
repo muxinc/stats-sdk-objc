@@ -54,7 +54,7 @@
 		</data>
 		<key>Headers/MUXSDKBandwidthMetricData.h</key>
 		<data>
-		idrjJePh4+OZByfgysIg0bvK4z4=
+		ogDbxZ6Tmh9vtGEBq2yBDJnM28w=
 		</data>
 		<key>Headers/MUXSDKBaseEvent.h</key>
 		<data>
@@ -86,7 +86,7 @@
 		</data>
 		<key>Headers/MUXSDKCustomerViewerData.h</key>
 		<data>
-		EmbHcMwDweolepYi3YoGmJhtkJE=
+		jhNIntPAkUssjMKsKCf4QDIqTVQ=
 		</data>
 		<key>Headers/MUXSDKDataEvent.h</key>
 		<data>
@@ -210,7 +210,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		vbxCkeTHf0hrrSc/zn/FM9FBC1U=
+		9EredjZlVMwCze4QfbQv2jvNWOM=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -355,11 +355,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			idrjJePh4+OZByfgysIg0bvK4z4=
+			ogDbxZ6Tmh9vtGEBq2yBDJnM28w=
 			</data>
 			<key>hash2</key>
 			<data>
-			kYgDY8A4OKNSLftn5kvFlUFCYxIXcbQpYUBGu+DcLHw=
+			AiVrsVtgcVneT6xWlPJPlWjAl4I1K+iP70LA5UW/C+U=
 			</data>
 		</dict>
 		<key>Headers/MUXSDKBaseEvent.h</key>
@@ -443,11 +443,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			EmbHcMwDweolepYi3YoGmJhtkJE=
+			jhNIntPAkUssjMKsKCf4QDIqTVQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			UYo+ndjxm+HoFbqdDw7Xbmrip9aI2UC+DJRvZbCAOek=
+			rR6kpS79wsYCSOq/fGMZCQGNzS8Vs+1hSS4abDjUzLc=
 			</data>
 		</dict>
 		<key>Headers/MUXSDKDataEvent.h</key>
