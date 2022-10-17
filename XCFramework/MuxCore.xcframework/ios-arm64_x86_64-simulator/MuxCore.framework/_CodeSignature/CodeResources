@@ -204,17 +204,17 @@
 		<data>
 		p2g2YKyLEIwo/5HFdSHkdcXcf8c=
 		</data>
-		<key>Headers/MuxCoreTv.h</key>
+		<key>Headers/MuxCore.h</key>
 		<data>
-		RZnE00UgpnbHUI/6zFWPzbkaSPU=
+		OTDw15akmp0zodYBSgKrh+pJloU=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		uZqmnoXMVbDCBnypJCqplqLKylQ=
+		2WWXiot9Hc82MeiqrUn4V5jtXfE=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		SIM3fYADxG9ve9JtOsTztj94NGc=
+		8dQNPv79RnOMTeYuDS3zf91Bdh0=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -569,18 +569,18 @@
 			lOe6Bq46S2Rfy9KNwiOj/t2pbBvZpdyJcKC9ANlW6+o=
 			</data>
 		</dict>
-		<key>Headers/MuxCoreTv.h</key>
+		<key>Headers/MuxCore.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			2I/Y+QjkQttztGdx+Auo9dq/rE6vAV10Gk4dCb63wmM=
+			NJ5WL3R4xQsDqDWUF+BYlJuDhtvwIXJfT3j45NQ5cNk=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			BX9eHAztgKeTp2rrz68DLypEdzueRtteijYQZEN9rjM=
+			KkOggp7Cd9rhlNCj+pTDs9aAJRxLxJN3q4m34LV5eLw=
 			</data>
 		</dict>
 	</dict>
