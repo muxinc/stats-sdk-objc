@@ -32,6 +32,7 @@
 @property (nullable) NSNumber *requestLabeledBitrate;
 @property (nullable) NSString *requestCancel;
 @property (nullable) NSArray *requestRenditionLists;
+@property (nullable) NSString *requestId;
 @end
 
 #endif
