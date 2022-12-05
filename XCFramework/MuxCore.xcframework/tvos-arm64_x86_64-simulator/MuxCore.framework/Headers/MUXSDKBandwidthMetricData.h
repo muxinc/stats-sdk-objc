@@ -8,6 +8,9 @@
     @property (nonatomic) NSNumber * _Nullable width;
     @property (nonatomic) NSNumber * _Nullable height;
     @property (nonatomic) NSNumber * _Nullable bitrate;
+    @property (nonatomic) NSNumber * _Nullable framerate;
+    @property (nonatomic) NSString * _Nullable codec;
+    @property (nonatomic) NSString * _Nullable name;
 @end
 
 @interface MUXSDKBandwidthMetricData : MUXSDKQueryData
