@@ -4,217 +4,9 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>Headers/MUXSDKAdBreakEndEvent.h</key>
+		<key>Resources/Info.plist</key>
 		<data>
-		zsXDkqAAFqjWVgrMMAb5sOYQ9yg=
-		</data>
-		<key>Headers/MUXSDKAdBreakStartEvent.h</key>
-		<data>
-		6NYcADVgVAToORVwuefGtyoKhlM=
-		</data>
-		<key>Headers/MUXSDKAdEndedEvent.h</key>
-		<data>
-		ob2gBhN/J7ucgb6iZ4PU5joB2f8=
-		</data>
-		<key>Headers/MUXSDKAdErrorEvent.h</key>
-		<data>
-		Mn2RGwG6XCGrWHUBPHNlF+cAn9Y=
-		</data>
-		<key>Headers/MUXSDKAdFirstQuartileEvent.h</key>
-		<data>
-		PzeXPsd8zHglSyIbS64XEUtl7b0=
-		</data>
-		<key>Headers/MUXSDKAdMidpointEvent.h</key>
-		<data>
-		Pn8WS3KZyyiyBqroMhRVE/Qx2Qc=
-		</data>
-		<key>Headers/MUXSDKAdPauseEvent.h</key>
-		<data>
-		budKb2ywRfvGy2UOOzf7hxOdaHE=
-		</data>
-		<key>Headers/MUXSDKAdPlayEvent.h</key>
-		<data>
-		sD1hrTK35ckhnUoHPSNWCwku0no=
-		</data>
-		<key>Headers/MUXSDKAdPlayingEvent.h</key>
-		<data>
-		mC6RpHfYBm/pnSk7mGqwe6G8ZN4=
-		</data>
-		<key>Headers/MUXSDKAdRequestEvent.h</key>
-		<data>
-		kroXNhw6E8cgwSg2UiVl5dhWTLs=
-		</data>
-		<key>Headers/MUXSDKAdResponseEvent.h</key>
-		<data>
-		rB+3TwzLW8BcDBKqexDga2ity3Q=
-		</data>
-		<key>Headers/MUXSDKAdThirdQuartileEvent.h</key>
-		<data>
-		iAI6o200hh91iE3jmvvbei4p0YM=
-		</data>
-		<key>Headers/MUXSDKBandwidthMetricData.h</key>
-		<data>
-		bW8ciee9L1KvyTayzIUOll131hk=
-		</data>
-		<key>Headers/MUXSDKBaseEvent.h</key>
-		<data>
-		l70ODNI/obBB7GwDTD0AB2k9sq0=
-		</data>
-		<key>Headers/MUXSDKCore.h</key>
-		<data>
-		a4xnQMA2zwcULSF5NX1JMJRuKck=
-		</data>
-		<key>Headers/MUXSDKCustomData.h</key>
-		<data>
-		Q+kKD0lmSKET4LgK909BRiXnd00=
-		</data>
-		<key>Headers/MUXSDKCustomerData.h</key>
-		<data>
-		haaxqTpfNIka8FF06llRQ0SfGdg=
-		</data>
-		<key>Headers/MUXSDKCustomerPlayerData.h</key>
-		<data>
-		T8MjVDzqc28Rvfbs2IXWZ7qQz64=
-		</data>
-		<key>Headers/MUXSDKCustomerVideoData.h</key>
-		<data>
-		bH2l9vnlnO6I1Pgwhr32WhjL4sk=
-		</data>
-		<key>Headers/MUXSDKCustomerViewData.h</key>
-		<data>
-		f+U2dHVue/nHZMA5nk6XX5vnscE=
-		</data>
-		<key>Headers/MUXSDKCustomerViewerData.h</key>
-		<data>
-		jhNIntPAkUssjMKsKCf4QDIqTVQ=
-		</data>
-		<key>Headers/MUXSDKDataEvent.h</key>
-		<data>
-		TkN4MvwfpHgD4kVF3PiGrf6AcuI=
-		</data>
-		<key>Headers/MUXSDKDispatcher.h</key>
-		<data>
-		sLgiBrq/GUWoEpEJIS0Sjb+GqPI=
-		</data>
-		<key>Headers/MUXSDKEndedEvent.h</key>
-		<data>
-		2TCqhJzlBS4Pka7Y4iM3DsIaNPA=
-		</data>
-		<key>Headers/MUXSDKEnvironmentData.h</key>
-		<data>
-		iXqcbk1mVsqK05slLUe5w6w/b/Y=
-		</data>
-		<key>Headers/MUXSDKErrorEvent.h</key>
-		<data>
-		g5lUVJ9G2QUbxfMDxSJeTQlGxTA=
-		</data>
-		<key>Headers/MUXSDKEventHandling.h</key>
-		<data>
-		ygnDjwFHdeCMEse64wSigXd5Pqc=
-		</data>
-		<key>Headers/MUXSDKEventTyping.h</key>
-		<data>
-		df3Vv9OgcEDB4gC7LhMB2ziz/dI=
-		</data>
-		<key>Headers/MUXSDKInternalSeekingEvent.h</key>
-		<data>
-		S08tQN3dPxaxkhOA0m4R9RZMFmo=
-		</data>
-		<key>Headers/MUXSDKOrientationChangeEvent.h</key>
-		<data>
-		l+SJuSyUHBE5IkZW0sphmKY4joA=
-		</data>
-		<key>Headers/MUXSDKPauseEvent.h</key>
-		<data>
-		DnA32l4jz//neUMNUe6buy+3/1M=
-		</data>
-		<key>Headers/MUXSDKPlayEvent.h</key>
-		<data>
-		RCy4nlRiatdsyRSV6TaAZuL9G1k=
-		</data>
-		<key>Headers/MUXSDKPlaybackEvent.h</key>
-		<data>
-		Tuy3hfLOQDWhQIs1kfbkRzxyy9k=
-		</data>
-		<key>Headers/MUXSDKPlayerData.h</key>
-		<data>
-		TF0qF3W3GB3+w09E6ir6isFTcCI=
-		</data>
-		<key>Headers/MUXSDKPlayerReadyEvent.h</key>
-		<data>
-		iPI4ROfqrt1yVw4jWV1s0YkP7HY=
-		</data>
-		<key>Headers/MUXSDKPlayingEvent.h</key>
-		<data>
-		vv0BCHAeUwX1zwVj800T5yK1wE8=
-		</data>
-		<key>Headers/MUXSDKQueryData.h</key>
-		<data>
-		razRu6rWkx6RLGBCOK/nNcSqJGk=
-		</data>
-		<key>Headers/MUXSDKRenditionChangeEvent.h</key>
-		<data>
-		g9eIkVMlUajvTYC0z0Hm42IKlN8=
-		</data>
-		<key>Headers/MUXSDKRequestBandwidthEvent.h</key>
-		<data>
-		MRe0BciG8Px01w1ph9OaS5Kc9QI=
-		</data>
-		<key>Headers/MUXSDKSeekedEvent.h</key>
-		<data>
-		FEjNZK8Ot/6f9Tq+0wyXga6Gu74=
-		</data>
-		<key>Headers/MUXSDKSessionDataEvent.h</key>
-		<data>
-		bRv76Jv3iTjZNFCA9C6/ifjs2zo=
-		</data>
-		<key>Headers/MUXSDKTimeUpdateEvent.h</key>
-		<data>
-		0u/FEVUfci58PUH8COIn71VsW70=
-		</data>
-		<key>Headers/MUXSDKTrackableEvent.h</key>
-		<data>
-		VRfcC7fKYHV/G6X9pB6M5Lrnono=
-		</data>
-		<key>Headers/MUXSDKUpsertable.h</key>
-		<data>
-		Pz/7usY7QU1XcU4/HW6uwy3pJTA=
-		</data>
-		<key>Headers/MUXSDKVideoData.h</key>
-		<data>
-		EBEU80NOJJ5+En1vk1JkuG/kdAY=
-		</data>
-		<key>Headers/MUXSDKViewData.h</key>
-		<data>
-		JjoKKIlaLMVr5QJ1YhhwzIeHrGU=
-		</data>
-		<key>Headers/MUXSDKViewDeviceOrientationData.h</key>
-		<data>
-		m/vbacWZBDsg/oIqPqpo6N8HrQs=
-		</data>
-		<key>Headers/MUXSDKViewEndEvent.h</key>
-		<data>
-		RaaaEwjm4VThfT7eYbjePpv9774=
-		</data>
-		<key>Headers/MUXSDKViewInitEvent.h</key>
-		<data>
-		T9lnulXwq2e3oinrJvL4wLMmU0M=
-		</data>
-		<key>Headers/MUXSDKViewerData.h</key>
-		<data>
-		p2g2YKyLEIwo/5HFdSHkdcXcf8c=
-		</data>
-		<key>Headers/MuxCoreTv.h</key>
-		<data>
-		RZnE00UgpnbHUI/6zFWPzbkaSPU=
-		</data>
-		<key>Info.plist</key>
-		<data>
-		ZIEDbAbmwPZnrFfrCACgPnpl+FM=
-		</data>
-		<key>Modules/module.modulemap</key>
-		<data>
-		SIM3fYADxG9ve9JtOsTztj94NGc=
+		JhQV0punP+p1+98PeaevmSdCGp4=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -569,40 +361,47 @@
 			lOe6Bq46S2Rfy9KNwiOj/t2pbBvZpdyJcKC9ANlW6+o=
 			</data>
 		</dict>
-		<key>Headers/MuxCoreTv.h</key>
+		<key>Headers/MuxCore.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			2I/Y+QjkQttztGdx+Auo9dq/rE6vAV10Gk4dCb63wmM=
+			NJ5WL3R4xQsDqDWUF+BYlJuDhtvwIXJfT3j45NQ5cNk=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			BX9eHAztgKeTp2rrz68DLypEdzueRtteijYQZEN9rjM=
+			KkOggp7Cd9rhlNCj+pTDs9aAJRxLxJN3q4m34LV5eLw=
+			</data>
+		</dict>
+		<key>Resources/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Ua7saXyFmMRySLkTurz5C3F+QFDHajuHW5fFJgWh154=
 			</data>
 		</dict>
 	</dict>
 	<key>rules</key>
 	<dict>
-		<key>^.*</key>
+		<key>^Resources/</key>
 		<true/>
-		<key>^.*\.lproj/</key>
+		<key>^Resources/.*\.lproj/</key>
 		<dict>
 			<key>optional</key>
 			<true/>
 			<key>weight</key>
 			<real>1000</real>
 		</dict>
-		<key>^.*\.lproj/locversion.plist$</key>
+		<key>^Resources/.*\.lproj/locversion.plist$</key>
 		<dict>
 			<key>omit</key>
 			<true/>
 			<key>weight</key>
 			<real>1100</real>
 		</dict>
-		<key>^Base\.lproj/</key>
+		<key>^Resources/Base\.lproj/</key>
 		<dict>
 			<key>weight</key>
 			<real>1010</real>
@@ -624,27 +423,15 @@
 			<key>weight</key>
 			<real>2000</real>
 		</dict>
+		<key>^(Frameworks|SharedFrameworks|PlugIns|Plug-ins|XPCServices|Helpers|MacOS|Library/(Automator|Spotlight|LoginItems))/</key>
+		<dict>
+			<key>nested</key>
+			<true/>
+			<key>weight</key>
+			<real>10</real>
+		</dict>
 		<key>^.*</key>
 		<true/>
-		<key>^.*\.lproj/</key>
-		<dict>
-			<key>optional</key>
-			<true/>
-			<key>weight</key>
-			<real>1000</real>
-		</dict>
-		<key>^.*\.lproj/locversion.plist$</key>
-		<dict>
-			<key>omit</key>
-			<true/>
-			<key>weight</key>
-			<real>1100</real>
-		</dict>
-		<key>^Base\.lproj/</key>
-		<dict>
-			<key>weight</key>
-			<real>1010</real>
-		</dict>
 		<key>^Info\.plist$</key>
 		<dict>
 			<key>omit</key>
@@ -658,6 +445,37 @@
 			<true/>
 			<key>weight</key>
 			<real>20</real>
+		</dict>
+		<key>^Resources/</key>
+		<dict>
+			<key>weight</key>
+			<real>20</real>
+		</dict>
+		<key>^Resources/.*\.lproj/</key>
+		<dict>
+			<key>optional</key>
+			<true/>
+			<key>weight</key>
+			<real>1000</real>
+		</dict>
+		<key>^Resources/.*\.lproj/locversion.plist$</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>1100</real>
+		</dict>
+		<key>^Resources/Base\.lproj/</key>
+		<dict>
+			<key>weight</key>
+			<real>1010</real>
+		</dict>
+		<key>^[^/]+$</key>
+		<dict>
+			<key>nested</key>
+			<true/>
+			<key>weight</key>
+			<real>10</real>
 		</dict>
 		<key>^embedded\.provisionprofile$</key>
 		<dict>
