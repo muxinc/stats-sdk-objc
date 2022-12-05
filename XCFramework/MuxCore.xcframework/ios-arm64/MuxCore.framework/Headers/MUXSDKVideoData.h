@@ -13,7 +13,6 @@ extern NSString * _Nonnull VIDEO_SOURCE_WIDTH;
 @interface MUXSDKVideoData : MUXSDKQueryData<MUXSDKUpsertable>
 
 @property (nullable) NSString *videoPosterUrl;
-@property (nullable) NSNumber *videoSourceFrameDrops;
 @property (nullable) NSString *videoSourceDomain;
 @property (nullable) NSNumber *videoSourceDuration;
 @property (nullable) NSNumber *videoSourceHeight;
