@@ -12,6 +12,11 @@
 @property (nullable) NSString *customData3;
 @property (nullable) NSString *customData4;
 @property (nullable) NSString *customData5;
+@property (nullable) NSString *customData6;
+@property (nullable) NSString *customData7;
+@property (nullable) NSString *customData8;
+@property (nullable) NSString *customData9;
+@property (nullable) NSString *customData10;
 
 @end
 #endif
