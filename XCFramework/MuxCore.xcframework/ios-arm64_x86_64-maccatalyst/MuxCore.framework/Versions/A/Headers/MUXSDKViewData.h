@@ -64,8 +64,10 @@ extern NSString * _Nonnull VIEWER_TIME;
 @property (nullable) NSString *vviewPrerollAdAssetHostname;
 @property (nullable) NSString *viewPrerollAdAssetDomain;
 @property (nonatomic, nullable) MUXSDKViewDeviceOrientationData *viewDeviceOrientationData;
+@property (nullable) NSNumber *viewDroppedFramesCount;
 @property (nullable) NSNumber *viewMaxPlayheadPosition;
 @property (nullable) NSString *internalViewSessionId;
+@property (nullable) NSString *viewDRMType;
 @end
 
 #endif
