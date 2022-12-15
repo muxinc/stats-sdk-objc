@@ -35,6 +35,7 @@ extern NSString * _Nonnull PLAYER_INSTANCE_ID;
 @property (nullable) NSNumber *playerWidth;
 @property (nullable) NSNumber *playerProgramTime;
 @property (nullable) NSNumber *playerLiveEdgeProgramTime;
+@property (nullable) NSString *playerErrorContext;
 
 @end
 

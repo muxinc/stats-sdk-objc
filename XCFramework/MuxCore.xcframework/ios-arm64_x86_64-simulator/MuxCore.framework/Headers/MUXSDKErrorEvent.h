@@ -7,6 +7,12 @@
 extern NSString * _Nonnull const MUXSDKPlaybackEventErrorEventType;
 
 @interface MUXSDKErrorEvent : MUXSDKPlaybackEvent
+
+@property (nullable) NSString * errorContext;
+
+-(id)init;
+-(id)initWithContext:(NSString *)errorContext;
+
 @end
 
 #endif
