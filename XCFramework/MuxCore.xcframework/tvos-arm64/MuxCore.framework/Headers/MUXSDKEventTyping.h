@@ -6,6 +6,7 @@
 @protocol MUXSDKEventTyping
 
 - (NSString *)getType;
+- (BOOL)isAd;
 - (BOOL)isTrackable;
 - (BOOL)isPlayback;
 - (BOOL)isData;

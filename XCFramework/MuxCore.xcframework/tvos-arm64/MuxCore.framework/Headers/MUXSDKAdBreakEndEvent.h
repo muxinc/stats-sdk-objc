@@ -1,12 +1,12 @@
 #ifndef MUXSDKAdBreakEndEvent_h
 #define MUXSDKAdBreakEndEvent_h
 
-#import "MUXSDKPlaybackEvent.h"
+#import "MUXSDKAdEvent.h"
 #import <Foundation/Foundation.h>
 
 extern NSString * _Nonnull const MUXSDKPlaybackEventAdBreakEndEventType;
 
-@interface MUXSDKAdBreakEndEvent : MUXSDKPlaybackEvent
+@interface MUXSDKAdBreakEndEvent : MUXSDKAdEvent
 @end
 
 #endif

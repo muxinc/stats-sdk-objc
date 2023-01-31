@@ -1,12 +1,12 @@
 #ifndef MUXSDKAdEndedEvent_h
 #define MUXSDKAdEndedEvent_h
 
-#import "MUXSDKPlaybackEvent.h"
+#import "MUXSDKAdEvent.h"
 #import <Foundation/Foundation.h>
 
 extern NSString * _Nonnull const MUXSDKPlaybackEventAdEndedEventType;
 
-@interface MUXSDKAdEndedEvent : MUXSDKPlaybackEvent
+@interface MUXSDKAdEndedEvent : MUXSDKAdEvent
 @end
 
 #endif
