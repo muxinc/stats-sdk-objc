@@ -1,12 +1,12 @@
 #ifndef MUXSDKAdThirdQuartileEvent_h
 #define MUXSDKAdThirdQuartileEvent_h
 
-#import "MUXSDKPlaybackEvent.h"
 #import <Foundation/Foundation.h>
+#import "MUXSDKAdEvent.h"
 
 extern NSString * _Nonnull const MUXSDKPlaybackEventAdThirdQuartileEventType;
 
-@interface MUXSDKAdThirdQuartileEvent : MUXSDKPlaybackEvent
+@interface MUXSDKAdThirdQuartileEvent : MUXSDKAdEvent
 @end
 
 #endif

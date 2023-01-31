@@ -1,12 +1,12 @@
 #ifndef MUXSDKAdMidpointEvent_h
 #define MUXSDKAdMidpointEvent_h
 
-#import "MUXSDKPlaybackEvent.h"
+#import "MUXSDKAdEvent.h"
 #import <Foundation/Foundation.h>
 
 extern NSString * _Nonnull const MUXSDKPlaybackEventAdMidpointEventType;
 
-@interface MUXSDKAdMidpointEvent : MUXSDKPlaybackEvent
+@interface MUXSDKAdMidpointEvent : MUXSDKAdEvent
 @end
 
 #endif

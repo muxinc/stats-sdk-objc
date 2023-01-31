@@ -6,51 +6,59 @@
 	<dict>
 		<key>Headers/MUXSDKAdBreakEndEvent.h</key>
 		<data>
-		zsXDkqAAFqjWVgrMMAb5sOYQ9yg=
+		P9MK8HKRm/oQo+uSoEtACsYUHfM=
 		</data>
 		<key>Headers/MUXSDKAdBreakStartEvent.h</key>
 		<data>
-		6NYcADVgVAToORVwuefGtyoKhlM=
+		qjVUjrHlYN4kS1GZWwGwgcNzxnQ=
+		</data>
+		<key>Headers/MUXSDKAdData.h</key>
+		<data>
+		ImRz/WPHIn3/5cKG/OKXeeKbvVQ=
 		</data>
 		<key>Headers/MUXSDKAdEndedEvent.h</key>
 		<data>
-		ob2gBhN/J7ucgb6iZ4PU5joB2f8=
+		dlSUrJWF4Q9mDCTvc5L58aL5pqI=
 		</data>
 		<key>Headers/MUXSDKAdErrorEvent.h</key>
 		<data>
-		Mn2RGwG6XCGrWHUBPHNlF+cAn9Y=
+		lTcyWzd3fK8aMUwuPA8O14Ap+Oo=
+		</data>
+		<key>Headers/MUXSDKAdEvent.h</key>
+		<data>
+		S0qwvzUAwEQ7ZaclCIBPR84Qpkg=
 		</data>
 		<key>Headers/MUXSDKAdFirstQuartileEvent.h</key>
 		<data>
-		PzeXPsd8zHglSyIbS64XEUtl7b0=
+		mcm6a3xdlLF+Uq/PPYMr1nmxXIk=
 		</data>
 		<key>Headers/MUXSDKAdMidpointEvent.h</key>
 		<data>
-		Pn8WS3KZyyiyBqroMhRVE/Qx2Qc=
+		07AQDifx0UZxXWVPiOtCjPNyd+k=
 		</data>
 		<key>Headers/MUXSDKAdPauseEvent.h</key>
 		<data>
-		budKb2ywRfvGy2UOOzf7hxOdaHE=
+		BNULWM7x2+kd1gW1ChL6cA445G8=
 		</data>
 		<key>Headers/MUXSDKAdPlayEvent.h</key>
 		<data>
-		sD1hrTK35ckhnUoHPSNWCwku0no=
+		EDGVRTZcslvhjhtl8MlrT5mOCnk=
 		</data>
 		<key>Headers/MUXSDKAdPlayingEvent.h</key>
 		<data>
-		mC6RpHfYBm/pnSk7mGqwe6G8ZN4=
+		/Jn4A2gHH4ltj6vwmvynhEO0pjE=
 		</data>
 		<key>Headers/MUXSDKAdRequestEvent.h</key>
 		<data>
-		kroXNhw6E8cgwSg2UiVl5dhWTLs=
+		vxx62sEFwH21K1HyeuGBdg4MKwU=
 		</data>
 		<key>Headers/MUXSDKAdResponseEvent.h</key>
 		<data>
-		rB+3TwzLW8BcDBKqexDga2ity3Q=
+		EWo+fhzs7Cloy7lNW6/wJZ8uGsE=
 		</data>
 		<key>Headers/MUXSDKAdThirdQuartileEvent.h</key>
 		<data>
-		iAI6o200hh91iE3jmvvbei4p0YM=
+		JjUheSXdocTK/SjuJYNMFyiw5IA=
 		</data>
 		<key>Headers/MUXSDKBandwidthMetricData.h</key>
 		<data>
@@ -114,7 +122,7 @@
 		</data>
 		<key>Headers/MUXSDKEventTyping.h</key>
 		<data>
-		df3Vv9OgcEDB4gC7LhMB2ziz/dI=
+		lvSJen7JPk65jXhsWi4UpmxZAxA=
 		</data>
 		<key>Headers/MUXSDKInternalSeekingEvent.h</key>
 		<data>
@@ -174,7 +182,7 @@
 		</data>
 		<key>Headers/MUXSDKTrackableEvent.h</key>
 		<data>
-		VRfcC7fKYHV/G6X9pB6M5Lrnono=
+		fDrbsIPDa4bIbL8eAPjps3EjfKo=
 		</data>
 		<key>Headers/MUXSDKUpsertable.h</key>
 		<data>
@@ -210,7 +218,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		URDfL5HA1h9a0hmMgyw61GV5qx4=
+		4aEwJSVmkOnraPzFtyFOE3y12VY=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -223,84 +231,98 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Ur9Vr1WFzGFzPoSHX6CUf17Feqt7AR1BpV3N+3uYnGw=
+			F/AUixwp/k34kcZI/008Dzl/CApADr1rPFQ4FIcMejw=
 			</data>
 		</dict>
 		<key>Headers/MUXSDKAdBreakStartEvent.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			gDvPmuuaROWal4OBX4zvw3c0CwylQWRIsSRcR0JgRwM=
+			5FP2IWPTXVtxbM+GtbycWZkb5/hYa6CX7ePJbNKaMFM=
+			</data>
+		</dict>
+		<key>Headers/MUXSDKAdData.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			C+tg/oYU+sWyQ0D7XPbL5NvCn0qRFngUmpzRwPkVIus=
 			</data>
 		</dict>
 		<key>Headers/MUXSDKAdEndedEvent.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			psog7ouwG5TUqPjv+JLHkduk0bm6bh66Bk74LXgc8zc=
+			0q3uSMZ/CXobso8q9KeYO5rIIo+ulcuuAxo7A+RqwC0=
 			</data>
 		</dict>
 		<key>Headers/MUXSDKAdErrorEvent.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			1JG/BN5/erVY9vlxQ7PAKR9gYwlXqwTSMACUseRpDYg=
+			jlAJu9ObIbEodP6kS//W30b+6r86GN3Q6UfZ5piVSVU=
+			</data>
+		</dict>
+		<key>Headers/MUXSDKAdEvent.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ctZB6lY3TWktz/Grt1NFnNhwMW68g/XVOaRynibp2yg=
 			</data>
 		</dict>
 		<key>Headers/MUXSDKAdFirstQuartileEvent.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			sT3P1yl2DDNorqcJ7xDEXolG4N8tAYNLCmXuUwbnPJQ=
+			Wo5tZRQ0whm/cS7/hokQVccvPYtLj1CSlCojig+7S+Y=
 			</data>
 		</dict>
 		<key>Headers/MUXSDKAdMidpointEvent.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Fl4hn2xpYu+FCM+QoBhQyunhaYFJ2jLvjtzSJzOoGwI=
+			Py6rlenLHTyUTz+SwDu06YZdH9uKJsMtv4zKvw/5gzk=
 			</data>
 		</dict>
 		<key>Headers/MUXSDKAdPauseEvent.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			AcOiqfP2Fpds5IDMoFnMXYTiqZFmIDE02J5ZBChKL+I=
+			xFmdDQwCkxrWyoF4m+kVZXrhIHALuUdepNar7Dl996c=
 			</data>
 		</dict>
 		<key>Headers/MUXSDKAdPlayEvent.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			lnwd/myOXZmAKUSzazqWrhjlr03DHG4Ywxyn6Q5LVHc=
+			PPht0yGWSIZ87Jl+1U1Q1dyqoYPxPqKEuEcZGs67RPM=
 			</data>
 		</dict>
 		<key>Headers/MUXSDKAdPlayingEvent.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			T47eZRvyXY67Dmvcx11t45v14z7rrY118NYmYJUlCCU=
+			08aPd9VR1ge0q5e3Aeh3fSqkRX0/EXRyiyklivnTHBU=
 			</data>
 		</dict>
 		<key>Headers/MUXSDKAdRequestEvent.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			cW2siDLSvbWxaVXcbRgsxWKY6OjVxSbbfUKgHu8c0Ac=
+			2EIHxOVf6wHADVwibj/0f+Yd1mif0JQn6m45nJ4N/Bc=
 			</data>
 		</dict>
 		<key>Headers/MUXSDKAdResponseEvent.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			GTNJyShVCA7GYP6ImmbgLKiPDFaMHvGj0JSGABmCSng=
+			ucH6E3xKSznB6n7rMJK1dFdH+62J+I78+f0TNlbrXw0=
 			</data>
 		</dict>
 		<key>Headers/MUXSDKAdThirdQuartileEvent.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			u6tDb3O55aTDI+ByOfHUt/iGCFTxJZWA7CZ8VuY8PpU=
+			1xdWyj/9uDuVLMthZVYPjf266PGYJ68Tp/u1m9NCtfo=
 			</data>
 		</dict>
 		<key>Headers/MUXSDKBandwidthMetricData.h</key>
@@ -412,7 +434,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			QYl1uBkol7kgM0wubRCfK2EXL2AUfCLy8YQ4ezddBvk=
+			aqCRnhM++7TUpGrg8n1yYC4LFZYEzwnQxgkob9AR5YA=
 			</data>
 		</dict>
 		<key>Headers/MUXSDKInternalSeekingEvent.h</key>
@@ -517,7 +539,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			nGPejgKuzerKlq/dikKyUNzQ0zZohr/nmNCT7KipWNk=
+			mP8w1Pu0WC86vkELuaIufB8+CK4L47uaZwANIEoYKLw=
 			</data>
 		</dict>
 		<key>Headers/MUXSDKUpsertable.h</key>
