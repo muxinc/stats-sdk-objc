@@ -23,6 +23,8 @@
 @property (nullable) NSString *adTagUrl;
 @property (nullable) NSString *adUniversalId;
 
++ (NSSet *_Nonnull)requiredKeys;
+
 @end
 
 #endif /* MUXSDKAdData_h */
