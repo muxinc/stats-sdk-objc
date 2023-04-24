@@ -8,6 +8,7 @@
 @interface MUXSDKCustomerViewData : MUXSDKQueryData<MUXSDKUpsertable>
 
 @property (nullable) NSString *viewSessionId;
+@property (nullable) NSString *viewDrmType;
 
 @end
 
