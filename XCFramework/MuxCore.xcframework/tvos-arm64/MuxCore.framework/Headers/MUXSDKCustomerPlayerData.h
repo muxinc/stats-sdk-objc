@@ -18,6 +18,8 @@ extern NSString * _Nonnull ENV_KEY;
 @property (nullable) NSNumber *playerInitTime;
 @property (nullable) NSString *playerName;
 @property (nullable) NSString *playerVersion;
+@property (nullable) NSString *playerSoftwareName;
+@property (nullable) NSString *playerSoftwareVersion;
 @property (nullable) NSString *propertyKey;
 @property (nullable) NSString *environmentKey;
 @property (nullable) NSString *subPropertyId;
