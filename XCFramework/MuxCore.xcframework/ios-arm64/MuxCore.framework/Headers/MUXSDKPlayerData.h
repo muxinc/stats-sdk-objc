@@ -4,10 +4,6 @@
 #import "MUXSDKQueryData.h"
 #import <Foundation/Foundation.h>
 
-extern NSString * _Nonnull PLAYER_SEQUENCE_NUMBER;
-extern NSString * _Nonnull PLAYER_PLAYHEAD_TIME;
-extern NSString * _Nonnull PLAYER_INSTANCE_ID;
-
 @interface MUXSDKPlayerData : MUXSDKQueryData
 
 @property (nullable) NSNumber *pageLoadTime;

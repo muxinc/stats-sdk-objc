@@ -7,6 +7,9 @@
 
 #import <Foundation/Foundation.h>
 
+@class MUXSDKErrorEvent;
+@protocol MUXSDKErrorEventTranslating;
+
 @interface MUXSDKCore : NSObject
 
 + (void)setClientHandler:(id<MUXSDKEventHandling>)handler;
@@ -17,6 +20,7 @@
 + (void)setSentryEnabled:(BOOL)enabled;
 + (void)setBeaconCollectionDomain:(NSString *)collectionDomain forPlayer:(NSString *)playerId;
 + (void)setBeaconDomain:(NSString *)domain forPlayer:(NSString *)playerId __attribute__((deprecated("Please migrate to setBeaconCollectionDomain:forPlayer")));;
++ (void)setErrorTranslator:(id<MUXSDKErrorEventTranslating>)customErrorTranslator;
 
 @end
 

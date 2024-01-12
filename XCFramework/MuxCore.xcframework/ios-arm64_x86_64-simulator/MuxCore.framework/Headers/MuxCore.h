@@ -55,3 +55,4 @@ FOUNDATION_EXPORT const unsigned char MuxCoreVersionString[];
 #import "MUXSDKEndedEvent.h"
 #import "MUXSDKCustomerData.h"
 #import "MUXSDKCustomData.h"
+#import "MUXSDKErrorEventTranslating.h"
