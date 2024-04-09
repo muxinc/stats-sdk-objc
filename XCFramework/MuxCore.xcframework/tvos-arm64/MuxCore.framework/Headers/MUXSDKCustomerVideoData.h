@@ -5,8 +5,6 @@
 #import <Foundation/Foundation.h>
 #import "MUXSDKUpsertable.h"
 
-extern NSString * _Nonnull VIDEO_ID;
-
 @interface MUXSDKCustomerVideoData : MUXSDKQueryData<MUXSDKUpsertable>
 
 @property (nullable) NSString *videoCdn;

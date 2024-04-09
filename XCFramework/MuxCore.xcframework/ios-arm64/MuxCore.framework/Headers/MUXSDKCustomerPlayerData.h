@@ -5,8 +5,6 @@
 #import <Foundation/Foundation.h>
 #import "MUXSDKUpsertable.h"
 
-extern NSString * _Nonnull ENV_KEY;
-
 @interface MUXSDKCustomerPlayerData : MUXSDKQueryData<MUXSDKUpsertable>
 
 - (nullable instancetype)initWithPropertyKey:(nonnull NSString *)propertyKey;
