@@ -214,15 +214,19 @@
 		</data>
 		<key>Headers/MuxCoreVision.h</key>
 		<data>
-		nuJNGXjOs4aWEZon/AWgdutsYrE=
+		/c5NFKyK3sKYkL4lTaBfT0yDX/U=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		fbBNWvVV5F6+hzUTcapedmA0e0A=
+		Mqdbr5+ZXzgKDQ6aRg/SyL3Mpic=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
 		hxMEQObOjz6PxuJ2Rcvg8x+CCr0=
+		</data>
+		<key>PrivacyInfo.xcprivacy</key>
+		<data>
+		qG+x1wRos/+uvCmC6D41ZHN6IRE=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -595,7 +599,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			repKIzMd5aYn7TjisVoj5C+Py2at+h2rvjlo5PDb9Hs=
+			3opskWHRDk+fIL2v8SUrFq/WHSmVeSQeD06I+JB+X5k=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -603,6 +607,13 @@
 			<key>hash2</key>
 			<data>
 			TTaKOF/3oRYrneQGQCOcPiVyC8BFB7guvoJwFc6xAQw=
+			</data>
+		</dict>
+		<key>PrivacyInfo.xcprivacy</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			4/1MwQOPF/GKDK9mvMpXllAUFIw5hIbBk2BLJbY9IAE=
 			</data>
 		</dict>
 	</dict>
