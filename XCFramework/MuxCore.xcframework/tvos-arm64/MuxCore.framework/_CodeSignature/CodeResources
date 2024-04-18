@@ -216,17 +216,17 @@
 		<data>
 		p2g2YKyLEIwo/5HFdSHkdcXcf8c=
 		</data>
-		<key>Headers/MuxCore.h</key>
+		<key>Headers/MuxCoreTv.h</key>
 		<data>
-		ifWpOJ6ULgVWuILKjGNNltH+F7g=
+		93hY3fnsR7YdpCx5OYMGoDfgIZc=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		MiMvksZp6n7MuXemKkq2PF6qI2Q=
+		7f7wyVcffNQOINp183X4hCuo4qs=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		VN4UPYcRAMIeq857JiGsChkxa6U=
+		SIM3fYADxG9ve9JtOsTztj94NGc=
 		</data>
 		<key>PrivacyInfo.xcprivacy</key>
 		<data>
@@ -606,18 +606,18 @@
 			lOe6Bq46S2Rfy9KNwiOj/t2pbBvZpdyJcKC9ANlW6+o=
 			</data>
 		</dict>
-		<key>Headers/MuxCore.h</key>
+		<key>Headers/MuxCoreTv.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Sxa2//ZYVLc1V4bmarxrFXhGZNRgKhh5plm8v5tTGFc=
+			6rvYZWUwQDovSYmCdfFtkmsMVGJt/2gz7zLzpKKeutM=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			p0pQfmlFLaDJqrO5iah9GeedvE3K3JzipfCItkizhg8=
+			BX9eHAztgKeTp2rrz68DLypEdzueRtteijYQZEN9rjM=
 			</data>
 		</dict>
 		<key>PrivacyInfo.xcprivacy</key>
