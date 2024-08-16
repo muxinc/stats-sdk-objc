@@ -19,6 +19,8 @@
 @property (nullable) NSNumber *videoSourceWidth;
 @property (nullable) NSNumber *videoSourceAdvertisedBitrate;
 @property (nullable) NSNumber *videoSourceAdvertisedFrameRate;
+@property (nullable) NSString *videoSourceAdvertisedRenditionName;
+@property (nullable) NSString *videoSourceAdvertisedCodec;
 @property (nullable) NSString *internalVideoExperiments;
 
 @end
