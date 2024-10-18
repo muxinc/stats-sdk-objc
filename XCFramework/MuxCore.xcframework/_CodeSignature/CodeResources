@@ -222,7 +222,7 @@
 		</data>
 		<key>ios-arm64/MuxCore.framework/Info.plist</key>
 		<data>
-		aQQ6p/xLy9ChsZDdNA0ddHpxhYg=
+		sLDjG57v3MZT2+4dbEg/FAedc2U=
 		</data>
 		<key>ios-arm64/MuxCore.framework/Modules/module.modulemap</key>
 		<data>
@@ -230,7 +230,23 @@
 		</data>
 		<key>ios-arm64/MuxCore.framework/MuxCore</key>
 		<data>
-		hPAz2V+HolKqNxnTCCWGhrQMzt0=
+		VeZ1H7xw4j6afBEJMTR6olanI34=
+		</data>
+		<key>ios-arm64/MuxCore.framework/MuxCore.xcconfig</key>
+		<data>
+		RvazXmtOTTFBJ68tMN4i6daD2dA=
+		</data>
+		<key>ios-arm64/MuxCore.framework/MuxCoreBase.xcconfig</key>
+		<data>
+		SwUW8uc9xkxywxYBC7nAt+MpN2E=
+		</data>
+		<key>ios-arm64/MuxCore.framework/MuxCoreTv.xcconfig</key>
+		<data>
+		CKBukayjmCz4jMGP2WSzFxnTAWs=
+		</data>
+		<key>ios-arm64/MuxCore.framework/MuxCoreVision.xcconfig</key>
+		<data>
+		++74OtK4aDCS6jRwT3P98IFt8vM=
 		</data>
 		<key>ios-arm64/MuxCore.framework/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -238,7 +254,7 @@
 		</data>
 		<key>ios-arm64/MuxCore.framework/_CodeSignature/CodeResources</key>
 		<data>
-		/PwfLV6ybQYzlEp/cTk9CncuJhY=
+		eQOeO7b7RODzBLRWAnu61mQJLw8=
 		</data>
 		<key>ios-arm64_x86_64-maccatalyst/MuxCore.framework/Versions/A/Headers/MUXSDKAdBreakEndEvent.h</key>
 		<data>
@@ -462,11 +478,27 @@
 		</data>
 		<key>ios-arm64_x86_64-maccatalyst/MuxCore.framework/Versions/A/MuxCore</key>
 		<data>
-		F/fua7bwAWYK6x1RozxeM/UYYDU=
+		jz/hnhqPpexupZpo0ty1KR9w4WU=
 		</data>
 		<key>ios-arm64_x86_64-maccatalyst/MuxCore.framework/Versions/A/Resources/Info.plist</key>
 		<data>
-		WhvngKrmuQTUqVOUKU4kbXHAbs4=
+		fi/2BfAwv8wv8VA+VHcCFiASTy8=
+		</data>
+		<key>ios-arm64_x86_64-maccatalyst/MuxCore.framework/Versions/A/Resources/MuxCore.xcconfig</key>
+		<data>
+		RvazXmtOTTFBJ68tMN4i6daD2dA=
+		</data>
+		<key>ios-arm64_x86_64-maccatalyst/MuxCore.framework/Versions/A/Resources/MuxCoreBase.xcconfig</key>
+		<data>
+		SwUW8uc9xkxywxYBC7nAt+MpN2E=
+		</data>
+		<key>ios-arm64_x86_64-maccatalyst/MuxCore.framework/Versions/A/Resources/MuxCoreTv.xcconfig</key>
+		<data>
+		CKBukayjmCz4jMGP2WSzFxnTAWs=
+		</data>
+		<key>ios-arm64_x86_64-maccatalyst/MuxCore.framework/Versions/A/Resources/MuxCoreVision.xcconfig</key>
+		<data>
+		++74OtK4aDCS6jRwT3P98IFt8vM=
 		</data>
 		<key>ios-arm64_x86_64-maccatalyst/MuxCore.framework/Versions/A/Resources/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -474,7 +506,7 @@
 		</data>
 		<key>ios-arm64_x86_64-maccatalyst/MuxCore.framework/Versions/A/_CodeSignature/CodeResources</key>
 		<data>
-		qSarZ3BHsqQVab1xCsTH86xBqn0=
+		Myufmn+xqhkNoNdReBp8KaImIvE=
 		</data>
 		<key>ios-arm64_x86_64-simulator/MuxCore.framework/Headers/MUXSDKAdBreakEndEvent.h</key>
 		<data>
@@ -694,7 +726,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/MuxCore.framework/Info.plist</key>
 		<data>
-		RDsylZzeG/pqGIDv7Gzgbiyhxto=
+		n4B/pUCjf0CTC8tJ4XZlT0LsTSA=
 		</data>
 		<key>ios-arm64_x86_64-simulator/MuxCore.framework/Modules/module.modulemap</key>
 		<data>
@@ -702,7 +734,23 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/MuxCore.framework/MuxCore</key>
 		<data>
-		XI3myUB/Lpoxklk3cm2ApJ1dzAI=
+		/cKHONEKYsgwkG/qv3xZH5B6zRY=
+		</data>
+		<key>ios-arm64_x86_64-simulator/MuxCore.framework/MuxCore.xcconfig</key>
+		<data>
+		RvazXmtOTTFBJ68tMN4i6daD2dA=
+		</data>
+		<key>ios-arm64_x86_64-simulator/MuxCore.framework/MuxCoreBase.xcconfig</key>
+		<data>
+		SwUW8uc9xkxywxYBC7nAt+MpN2E=
+		</data>
+		<key>ios-arm64_x86_64-simulator/MuxCore.framework/MuxCoreTv.xcconfig</key>
+		<data>
+		CKBukayjmCz4jMGP2WSzFxnTAWs=
+		</data>
+		<key>ios-arm64_x86_64-simulator/MuxCore.framework/MuxCoreVision.xcconfig</key>
+		<data>
+		++74OtK4aDCS6jRwT3P98IFt8vM=
 		</data>
 		<key>ios-arm64_x86_64-simulator/MuxCore.framework/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -710,7 +758,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/MuxCore.framework/_CodeSignature/CodeResources</key>
 		<data>
-		+lKxRBbVo6KKLHsp3myLaFHGNlQ=
+		QbeLZvgve4ddJKL+sGwJBN4O6f0=
 		</data>
 		<key>tvos-arm64/MuxCore.framework/Headers/MUXSDKAdBreakEndEvent.h</key>
 		<data>
@@ -930,7 +978,7 @@
 		</data>
 		<key>tvos-arm64/MuxCore.framework/Info.plist</key>
 		<data>
-		Jk8xQ67YwTLd6UJsO13h51POeEc=
+		PU996OjmDYc8ssHJjDU6vk37jpk=
 		</data>
 		<key>tvos-arm64/MuxCore.framework/Modules/module.modulemap</key>
 		<data>
@@ -938,7 +986,23 @@
 		</data>
 		<key>tvos-arm64/MuxCore.framework/MuxCore</key>
 		<data>
-		kXnF5NUeFDoHzKztw6R3STHnZCQ=
+		b3qWFIF/uxPUEfSb0xG8xj1hWLw=
+		</data>
+		<key>tvos-arm64/MuxCore.framework/MuxCore.xcconfig</key>
+		<data>
+		RvazXmtOTTFBJ68tMN4i6daD2dA=
+		</data>
+		<key>tvos-arm64/MuxCore.framework/MuxCoreBase.xcconfig</key>
+		<data>
+		SwUW8uc9xkxywxYBC7nAt+MpN2E=
+		</data>
+		<key>tvos-arm64/MuxCore.framework/MuxCoreTv.xcconfig</key>
+		<data>
+		CKBukayjmCz4jMGP2WSzFxnTAWs=
+		</data>
+		<key>tvos-arm64/MuxCore.framework/MuxCoreVision.xcconfig</key>
+		<data>
+		++74OtK4aDCS6jRwT3P98IFt8vM=
 		</data>
 		<key>tvos-arm64/MuxCore.framework/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -946,7 +1010,7 @@
 		</data>
 		<key>tvos-arm64/MuxCore.framework/_CodeSignature/CodeResources</key>
 		<data>
-		P9TSppDZsWVwsURTDv1NXOmdDuM=
+		/qk+WW4i0OJ5eCTxRDe5pynf55E=
 		</data>
 		<key>tvos-arm64_x86_64-simulator/MuxCore.framework/Headers/MUXSDKAdBreakEndEvent.h</key>
 		<data>
@@ -1166,7 +1230,7 @@
 		</data>
 		<key>tvos-arm64_x86_64-simulator/MuxCore.framework/Info.plist</key>
 		<data>
-		gglyZZS47tqnU8ViEKOJCh/ZOmg=
+		MWTxbBpm37Sf31wx02NDzo78e20=
 		</data>
 		<key>tvos-arm64_x86_64-simulator/MuxCore.framework/Modules/module.modulemap</key>
 		<data>
@@ -1174,7 +1238,23 @@
 		</data>
 		<key>tvos-arm64_x86_64-simulator/MuxCore.framework/MuxCore</key>
 		<data>
-		hsvANSTMuwpH1XNmPl7lNFmGROo=
+		F3uaeDpZAoyhhPNIaIlI8bccilw=
+		</data>
+		<key>tvos-arm64_x86_64-simulator/MuxCore.framework/MuxCore.xcconfig</key>
+		<data>
+		RvazXmtOTTFBJ68tMN4i6daD2dA=
+		</data>
+		<key>tvos-arm64_x86_64-simulator/MuxCore.framework/MuxCoreBase.xcconfig</key>
+		<data>
+		SwUW8uc9xkxywxYBC7nAt+MpN2E=
+		</data>
+		<key>tvos-arm64_x86_64-simulator/MuxCore.framework/MuxCoreTv.xcconfig</key>
+		<data>
+		CKBukayjmCz4jMGP2WSzFxnTAWs=
+		</data>
+		<key>tvos-arm64_x86_64-simulator/MuxCore.framework/MuxCoreVision.xcconfig</key>
+		<data>
+		++74OtK4aDCS6jRwT3P98IFt8vM=
 		</data>
 		<key>tvos-arm64_x86_64-simulator/MuxCore.framework/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -1182,7 +1262,7 @@
 		</data>
 		<key>tvos-arm64_x86_64-simulator/MuxCore.framework/_CodeSignature/CodeResources</key>
 		<data>
-		D+Ph3Cvgv+5wz1CocIn24RM7HAA=
+		r9JQxGIzkpGPFlCJqvN+G8RqkKc=
 		</data>
 		<key>xros-arm64/MuxCore.framework/Headers/MUXSDKAdBreakEndEvent.h</key>
 		<data>
@@ -1402,7 +1482,7 @@
 		</data>
 		<key>xros-arm64/MuxCore.framework/Info.plist</key>
 		<data>
-		m+pHaLv4oZs20bSOJFlWcwTL2Bs=
+		rWnfg3faX3GDp1vSFMII1ws/9+s=
 		</data>
 		<key>xros-arm64/MuxCore.framework/Modules/module.modulemap</key>
 		<data>
@@ -1410,7 +1490,23 @@
 		</data>
 		<key>xros-arm64/MuxCore.framework/MuxCore</key>
 		<data>
-		eb25E52ncBcvbnU1fVPr7h9vkg4=
+		BUPh14g9Ut7ZKqrzin5cWuM0TaQ=
+		</data>
+		<key>xros-arm64/MuxCore.framework/MuxCore.xcconfig</key>
+		<data>
+		RvazXmtOTTFBJ68tMN4i6daD2dA=
+		</data>
+		<key>xros-arm64/MuxCore.framework/MuxCoreBase.xcconfig</key>
+		<data>
+		SwUW8uc9xkxywxYBC7nAt+MpN2E=
+		</data>
+		<key>xros-arm64/MuxCore.framework/MuxCoreTv.xcconfig</key>
+		<data>
+		CKBukayjmCz4jMGP2WSzFxnTAWs=
+		</data>
+		<key>xros-arm64/MuxCore.framework/MuxCoreVision.xcconfig</key>
+		<data>
+		++74OtK4aDCS6jRwT3P98IFt8vM=
 		</data>
 		<key>xros-arm64/MuxCore.framework/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -1418,7 +1514,7 @@
 		</data>
 		<key>xros-arm64/MuxCore.framework/_CodeSignature/CodeResources</key>
 		<data>
-		YbrTVwwV/r3H1tAoRMvqN441dxk=
+		384Gd0o/h9t7QQoSvyzvvXoInUI=
 		</data>
 		<key>xros-arm64_x86_64-simulator/MuxCore.framework/Headers/MUXSDKAdBreakEndEvent.h</key>
 		<data>
@@ -1638,7 +1734,7 @@
 		</data>
 		<key>xros-arm64_x86_64-simulator/MuxCore.framework/Info.plist</key>
 		<data>
-		UmsDo3ANZUIgypy4B9sR/a1B3LU=
+		CGXQ/0R8P5G8xAHbKdEdzApf+Sk=
 		</data>
 		<key>xros-arm64_x86_64-simulator/MuxCore.framework/Modules/module.modulemap</key>
 		<data>
@@ -1646,7 +1742,23 @@
 		</data>
 		<key>xros-arm64_x86_64-simulator/MuxCore.framework/MuxCore</key>
 		<data>
-		cOew/RZWasLlR9lMWEFjG9KLsjU=
+		N4bY9QbQ/o0tFyruF1CBIvXthuk=
+		</data>
+		<key>xros-arm64_x86_64-simulator/MuxCore.framework/MuxCore.xcconfig</key>
+		<data>
+		RvazXmtOTTFBJ68tMN4i6daD2dA=
+		</data>
+		<key>xros-arm64_x86_64-simulator/MuxCore.framework/MuxCoreBase.xcconfig</key>
+		<data>
+		SwUW8uc9xkxywxYBC7nAt+MpN2E=
+		</data>
+		<key>xros-arm64_x86_64-simulator/MuxCore.framework/MuxCoreTv.xcconfig</key>
+		<data>
+		CKBukayjmCz4jMGP2WSzFxnTAWs=
+		</data>
+		<key>xros-arm64_x86_64-simulator/MuxCore.framework/MuxCoreVision.xcconfig</key>
+		<data>
+		++74OtK4aDCS6jRwT3P98IFt8vM=
 		</data>
 		<key>xros-arm64_x86_64-simulator/MuxCore.framework/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -1654,7 +1766,7 @@
 		</data>
 		<key>xros-arm64_x86_64-simulator/MuxCore.framework/_CodeSignature/CodeResources</key>
 		<data>
-		o5LbOE71Qp9aQbBjIckQ9s4fbb8=
+		FTFbuWfQ5Fyz2dI/Wr/GwWdBSB8=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -2257,11 +2369,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			aQQ6p/xLy9ChsZDdNA0ddHpxhYg=
+			sLDjG57v3MZT2+4dbEg/FAedc2U=
 			</data>
 			<key>hash2</key>
 			<data>
-			rKcwKbK7gPcsi8SQgdJj/Mf/BuIcet15/XL98ZOwjrw=
+			1SXz0ti86/Mm/QvB0hSjik8pHtE5laa6eRDVteVS/eA=
 			</data>
 		</dict>
 		<key>ios-arm64/MuxCore.framework/Modules/module.modulemap</key>
@@ -2279,11 +2391,55 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			hPAz2V+HolKqNxnTCCWGhrQMzt0=
+			VeZ1H7xw4j6afBEJMTR6olanI34=
 			</data>
 			<key>hash2</key>
 			<data>
-			o8/o6S1KNvlPMUaV2FuLaDDD9VkVII7VkhNsZZAKG9g=
+			zToOElV1d4aDqzOnUig2JPuS/eCSr2olumsSs02eVkY=
+			</data>
+		</dict>
+		<key>ios-arm64/MuxCore.framework/MuxCore.xcconfig</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			RvazXmtOTTFBJ68tMN4i6daD2dA=
+			</data>
+			<key>hash2</key>
+			<data>
+			GY1dnpT50ClDhaQVwwHtscao9e3/SVMivpFoWtdn1hQ=
+			</data>
+		</dict>
+		<key>ios-arm64/MuxCore.framework/MuxCoreBase.xcconfig</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			SwUW8uc9xkxywxYBC7nAt+MpN2E=
+			</data>
+			<key>hash2</key>
+			<data>
+			HtKdHrB8/SZRK9aP+ol4k0fZDQxtPkw+CudzWZMsbpA=
+			</data>
+		</dict>
+		<key>ios-arm64/MuxCore.framework/MuxCoreTv.xcconfig</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			CKBukayjmCz4jMGP2WSzFxnTAWs=
+			</data>
+			<key>hash2</key>
+			<data>
+			5+P5pIoKboS8bjJat3hm99jHsi5HnjV2y+NJcPIpgCo=
+			</data>
+		</dict>
+		<key>ios-arm64/MuxCore.framework/MuxCoreVision.xcconfig</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			++74OtK4aDCS6jRwT3P98IFt8vM=
+			</data>
+			<key>hash2</key>
+			<data>
+			7sAB6hTVCNgha7DHhqmUgrRACYWZYE5adBklD0ZKKjo=
 			</data>
 		</dict>
 		<key>ios-arm64/MuxCore.framework/PrivacyInfo.xcprivacy</key>
@@ -2301,11 +2457,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			/PwfLV6ybQYzlEp/cTk9CncuJhY=
+			eQOeO7b7RODzBLRWAnu61mQJLw8=
 			</data>
 			<key>hash2</key>
 			<data>
-			Rbl0qhyqfnW1BQnt3BOsGz7rR7mfu89Bn/qaA8EvwD8=
+			xm5MHvXvFMAXTtx9zLZVV2C/Go+roWqDoBLS65Oc4dY=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-maccatalyst/MuxCore.framework/Headers</key>
@@ -2937,22 +3093,66 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			F/fua7bwAWYK6x1RozxeM/UYYDU=
+			jz/hnhqPpexupZpo0ty1KR9w4WU=
 			</data>
 			<key>hash2</key>
 			<data>
-			1FrC3JAw+7isdBXOv2GpXBiv5TdWVj32z558gorZ/N4=
+			0v1geZLZ2M7PbMF4mK34xf64VrJZTBmhf65z6liF3+w=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-maccatalyst/MuxCore.framework/Versions/A/Resources/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			WhvngKrmuQTUqVOUKU4kbXHAbs4=
+			fi/2BfAwv8wv8VA+VHcCFiASTy8=
 			</data>
 			<key>hash2</key>
 			<data>
-			PkNHHkVihxyXW7yx18QI4kCA5mDe6UnXNNhSSVXFATE=
+			PQlpfqsFWVZ9ekwCaWF9TYD3rq3q5ImDd5B/AqOp3lY=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-maccatalyst/MuxCore.framework/Versions/A/Resources/MuxCore.xcconfig</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			RvazXmtOTTFBJ68tMN4i6daD2dA=
+			</data>
+			<key>hash2</key>
+			<data>
+			GY1dnpT50ClDhaQVwwHtscao9e3/SVMivpFoWtdn1hQ=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-maccatalyst/MuxCore.framework/Versions/A/Resources/MuxCoreBase.xcconfig</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			SwUW8uc9xkxywxYBC7nAt+MpN2E=
+			</data>
+			<key>hash2</key>
+			<data>
+			HtKdHrB8/SZRK9aP+ol4k0fZDQxtPkw+CudzWZMsbpA=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-maccatalyst/MuxCore.framework/Versions/A/Resources/MuxCoreTv.xcconfig</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			CKBukayjmCz4jMGP2WSzFxnTAWs=
+			</data>
+			<key>hash2</key>
+			<data>
+			5+P5pIoKboS8bjJat3hm99jHsi5HnjV2y+NJcPIpgCo=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-maccatalyst/MuxCore.framework/Versions/A/Resources/MuxCoreVision.xcconfig</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			++74OtK4aDCS6jRwT3P98IFt8vM=
+			</data>
+			<key>hash2</key>
+			<data>
+			7sAB6hTVCNgha7DHhqmUgrRACYWZYE5adBklD0ZKKjo=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-maccatalyst/MuxCore.framework/Versions/A/Resources/PrivacyInfo.xcprivacy</key>
@@ -2970,11 +3170,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			qSarZ3BHsqQVab1xCsTH86xBqn0=
+			Myufmn+xqhkNoNdReBp8KaImIvE=
 			</data>
 			<key>hash2</key>
 			<data>
-			B1p0zMF4zPC6hxREjjEGu/+WjDwH0OlAl5L0AQui/Z8=
+			gCr92mpzUL45t2JQ0lli2pDVCLC5DVjkaUpOuQTeZlQ=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-maccatalyst/MuxCore.framework/Versions/Current</key>
@@ -3580,11 +3780,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			RDsylZzeG/pqGIDv7Gzgbiyhxto=
+			n4B/pUCjf0CTC8tJ4XZlT0LsTSA=
 			</data>
 			<key>hash2</key>
 			<data>
-			7acvDJb1tbYjRNh0vVpz3ui6bQq/dmyNI6X2spN8PcA=
+			NkU6HMnfQnU+LZ2C5PJ+wz9lppHJzeer7uPbVRTPEOI=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/MuxCore.framework/Modules/module.modulemap</key>
@@ -3602,11 +3802,55 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			XI3myUB/Lpoxklk3cm2ApJ1dzAI=
+			/cKHONEKYsgwkG/qv3xZH5B6zRY=
 			</data>
 			<key>hash2</key>
 			<data>
-			47uu59GoRP+FnXe8UowdFzPQx3Iz5nyFnqyZCBvMT3M=
+			wFbGrzl0vxLiFv6V9ytrifHf7x+OjuW0wSTRVtDCktg=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/MuxCore.framework/MuxCore.xcconfig</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			RvazXmtOTTFBJ68tMN4i6daD2dA=
+			</data>
+			<key>hash2</key>
+			<data>
+			GY1dnpT50ClDhaQVwwHtscao9e3/SVMivpFoWtdn1hQ=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/MuxCore.framework/MuxCoreBase.xcconfig</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			SwUW8uc9xkxywxYBC7nAt+MpN2E=
+			</data>
+			<key>hash2</key>
+			<data>
+			HtKdHrB8/SZRK9aP+ol4k0fZDQxtPkw+CudzWZMsbpA=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/MuxCore.framework/MuxCoreTv.xcconfig</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			CKBukayjmCz4jMGP2WSzFxnTAWs=
+			</data>
+			<key>hash2</key>
+			<data>
+			5+P5pIoKboS8bjJat3hm99jHsi5HnjV2y+NJcPIpgCo=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/MuxCore.framework/MuxCoreVision.xcconfig</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			++74OtK4aDCS6jRwT3P98IFt8vM=
+			</data>
+			<key>hash2</key>
+			<data>
+			7sAB6hTVCNgha7DHhqmUgrRACYWZYE5adBklD0ZKKjo=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/MuxCore.framework/PrivacyInfo.xcprivacy</key>
@@ -3624,11 +3868,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			+lKxRBbVo6KKLHsp3myLaFHGNlQ=
+			QbeLZvgve4ddJKL+sGwJBN4O6f0=
 			</data>
 			<key>hash2</key>
 			<data>
-			6k4AlQjsI7ae91mzfmE0pPtnyx+sGWQf4QQQCfNRCjk=
+			iyTMaE/AUZIjHYDmvLlnxZn17OwaoRn7uFfsNL44iP4=
 			</data>
 		</dict>
 		<key>tvos-arm64/MuxCore.framework/Headers/MUXSDKAdBreakEndEvent.h</key>
@@ -4229,11 +4473,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Jk8xQ67YwTLd6UJsO13h51POeEc=
+			PU996OjmDYc8ssHJjDU6vk37jpk=
 			</data>
 			<key>hash2</key>
 			<data>
-			xm4dX9dDWyUq26zX/olM/RGU1dANzjJlIkrUsIE9D9Y=
+			ZPd+KaUJ4VDPE+IK7yRN4/Hj4+3FRID8tv9pP11szG4=
 			</data>
 		</dict>
 		<key>tvos-arm64/MuxCore.framework/Modules/module.modulemap</key>
@@ -4251,11 +4495,55 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			kXnF5NUeFDoHzKztw6R3STHnZCQ=
+			b3qWFIF/uxPUEfSb0xG8xj1hWLw=
 			</data>
 			<key>hash2</key>
 			<data>
-			eWBMpA7X02Hw2QDmI6cp5jI97xFVf7SaGIurjzUQjT8=
+			spvpBND7XDxU9402W2pVW2dBE2k+Ho7LCvXGhMm1cGo=
+			</data>
+		</dict>
+		<key>tvos-arm64/MuxCore.framework/MuxCore.xcconfig</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			RvazXmtOTTFBJ68tMN4i6daD2dA=
+			</data>
+			<key>hash2</key>
+			<data>
+			GY1dnpT50ClDhaQVwwHtscao9e3/SVMivpFoWtdn1hQ=
+			</data>
+		</dict>
+		<key>tvos-arm64/MuxCore.framework/MuxCoreBase.xcconfig</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			SwUW8uc9xkxywxYBC7nAt+MpN2E=
+			</data>
+			<key>hash2</key>
+			<data>
+			HtKdHrB8/SZRK9aP+ol4k0fZDQxtPkw+CudzWZMsbpA=
+			</data>
+		</dict>
+		<key>tvos-arm64/MuxCore.framework/MuxCoreTv.xcconfig</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			CKBukayjmCz4jMGP2WSzFxnTAWs=
+			</data>
+			<key>hash2</key>
+			<data>
+			5+P5pIoKboS8bjJat3hm99jHsi5HnjV2y+NJcPIpgCo=
+			</data>
+		</dict>
+		<key>tvos-arm64/MuxCore.framework/MuxCoreVision.xcconfig</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			++74OtK4aDCS6jRwT3P98IFt8vM=
+			</data>
+			<key>hash2</key>
+			<data>
+			7sAB6hTVCNgha7DHhqmUgrRACYWZYE5adBklD0ZKKjo=
 			</data>
 		</dict>
 		<key>tvos-arm64/MuxCore.framework/PrivacyInfo.xcprivacy</key>
@@ -4273,11 +4561,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			P9TSppDZsWVwsURTDv1NXOmdDuM=
+			/qk+WW4i0OJ5eCTxRDe5pynf55E=
 			</data>
 			<key>hash2</key>
 			<data>
-			O2KgTtdnE/JmvTfVupUvpLHhheXicNcocxHKzU0I/QA=
+			fCuIyORdd+54Mvra8Ng1saBDYb3BmzRZwRtzdfarzms=
 			</data>
 		</dict>
 		<key>tvos-arm64_x86_64-simulator/MuxCore.framework/Headers/MUXSDKAdBreakEndEvent.h</key>
@@ -4878,11 +5166,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			gglyZZS47tqnU8ViEKOJCh/ZOmg=
+			MWTxbBpm37Sf31wx02NDzo78e20=
 			</data>
 			<key>hash2</key>
 			<data>
-			0K67+rHkEMOSXQE6qbqd/0MOVGE+30JN4py90dWfzWo=
+			3Mee1kCjd5YHrIj3udONyNQoS0ouJHrUa8o4g7s8Nb8=
 			</data>
 		</dict>
 		<key>tvos-arm64_x86_64-simulator/MuxCore.framework/Modules/module.modulemap</key>
@@ -4900,11 +5188,55 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			hsvANSTMuwpH1XNmPl7lNFmGROo=
+			F3uaeDpZAoyhhPNIaIlI8bccilw=
 			</data>
 			<key>hash2</key>
 			<data>
-			98S+INklsd3XDYQMU4FndtQLP8goLuHlTl8ohjorSbQ=
+			wOMTODKAwjU6A/qgE7MP0IprrcnOIZcVxRNTa5Hx/zM=
+			</data>
+		</dict>
+		<key>tvos-arm64_x86_64-simulator/MuxCore.framework/MuxCore.xcconfig</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			RvazXmtOTTFBJ68tMN4i6daD2dA=
+			</data>
+			<key>hash2</key>
+			<data>
+			GY1dnpT50ClDhaQVwwHtscao9e3/SVMivpFoWtdn1hQ=
+			</data>
+		</dict>
+		<key>tvos-arm64_x86_64-simulator/MuxCore.framework/MuxCoreBase.xcconfig</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			SwUW8uc9xkxywxYBC7nAt+MpN2E=
+			</data>
+			<key>hash2</key>
+			<data>
+			HtKdHrB8/SZRK9aP+ol4k0fZDQxtPkw+CudzWZMsbpA=
+			</data>
+		</dict>
+		<key>tvos-arm64_x86_64-simulator/MuxCore.framework/MuxCoreTv.xcconfig</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			CKBukayjmCz4jMGP2WSzFxnTAWs=
+			</data>
+			<key>hash2</key>
+			<data>
+			5+P5pIoKboS8bjJat3hm99jHsi5HnjV2y+NJcPIpgCo=
+			</data>
+		</dict>
+		<key>tvos-arm64_x86_64-simulator/MuxCore.framework/MuxCoreVision.xcconfig</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			++74OtK4aDCS6jRwT3P98IFt8vM=
+			</data>
+			<key>hash2</key>
+			<data>
+			7sAB6hTVCNgha7DHhqmUgrRACYWZYE5adBklD0ZKKjo=
 			</data>
 		</dict>
 		<key>tvos-arm64_x86_64-simulator/MuxCore.framework/PrivacyInfo.xcprivacy</key>
@@ -4922,11 +5254,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			D+Ph3Cvgv+5wz1CocIn24RM7HAA=
+			r9JQxGIzkpGPFlCJqvN+G8RqkKc=
 			</data>
 			<key>hash2</key>
 			<data>
-			1XyRwAfiPdbxPurYnNUUeSAAI6gGxUBirh1joVZo8Y0=
+			6vbLmAdH2cO8nLN/zkcSGg4YckbouXztL3BX38WQUUg=
 			</data>
 		</dict>
 		<key>xros-arm64/MuxCore.framework/Headers/MUXSDKAdBreakEndEvent.h</key>
@@ -5527,11 +5859,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			m+pHaLv4oZs20bSOJFlWcwTL2Bs=
+			rWnfg3faX3GDp1vSFMII1ws/9+s=
 			</data>
 			<key>hash2</key>
 			<data>
-			AUcdQySjTmFSeKqH1emZIAzf8XAAa30UoNaMKXIwXg0=
+			BKV+9hgoL9Nn2HXgos9EQH70yFMQtlpBwk7r7bJ0QHo=
 			</data>
 		</dict>
 		<key>xros-arm64/MuxCore.framework/Modules/module.modulemap</key>
@@ -5549,11 +5881,55 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			eb25E52ncBcvbnU1fVPr7h9vkg4=
+			BUPh14g9Ut7ZKqrzin5cWuM0TaQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			AUhrcOy+hT6xGLcryXF+C2aQkGbGVccEfp6fQ6zStIw=
+			FuJzNibMWz/75sJqTFwdKd8Zl/ApaMimXbw+9Li119g=
+			</data>
+		</dict>
+		<key>xros-arm64/MuxCore.framework/MuxCore.xcconfig</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			RvazXmtOTTFBJ68tMN4i6daD2dA=
+			</data>
+			<key>hash2</key>
+			<data>
+			GY1dnpT50ClDhaQVwwHtscao9e3/SVMivpFoWtdn1hQ=
+			</data>
+		</dict>
+		<key>xros-arm64/MuxCore.framework/MuxCoreBase.xcconfig</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			SwUW8uc9xkxywxYBC7nAt+MpN2E=
+			</data>
+			<key>hash2</key>
+			<data>
+			HtKdHrB8/SZRK9aP+ol4k0fZDQxtPkw+CudzWZMsbpA=
+			</data>
+		</dict>
+		<key>xros-arm64/MuxCore.framework/MuxCoreTv.xcconfig</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			CKBukayjmCz4jMGP2WSzFxnTAWs=
+			</data>
+			<key>hash2</key>
+			<data>
+			5+P5pIoKboS8bjJat3hm99jHsi5HnjV2y+NJcPIpgCo=
+			</data>
+		</dict>
+		<key>xros-arm64/MuxCore.framework/MuxCoreVision.xcconfig</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			++74OtK4aDCS6jRwT3P98IFt8vM=
+			</data>
+			<key>hash2</key>
+			<data>
+			7sAB6hTVCNgha7DHhqmUgrRACYWZYE5adBklD0ZKKjo=
 			</data>
 		</dict>
 		<key>xros-arm64/MuxCore.framework/PrivacyInfo.xcprivacy</key>
@@ -5571,11 +5947,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			YbrTVwwV/r3H1tAoRMvqN441dxk=
+			384Gd0o/h9t7QQoSvyzvvXoInUI=
 			</data>
 			<key>hash2</key>
 			<data>
-			mxP9iisnUwwhCDLVF3I6gbN55VKG4AsFJF+mBUn9hho=
+			KuEskj0rcutnfGWXZqIs6Puwr+p1czjY4zJLqRWIH3E=
 			</data>
 		</dict>
 		<key>xros-arm64_x86_64-simulator/MuxCore.framework/Headers/MUXSDKAdBreakEndEvent.h</key>
@@ -6176,11 +6552,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			UmsDo3ANZUIgypy4B9sR/a1B3LU=
+			CGXQ/0R8P5G8xAHbKdEdzApf+Sk=
 			</data>
 			<key>hash2</key>
 			<data>
-			Upc7ZBvuyRR64wW/ghtfBNQGFtM/RyCiDxWQyXmSa6s=
+			DqrmKeUrHXIgqKtP7hUBb8I+WWoH3czmofTiA+ocDig=
 			</data>
 		</dict>
 		<key>xros-arm64_x86_64-simulator/MuxCore.framework/Modules/module.modulemap</key>
@@ -6198,11 +6574,55 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			cOew/RZWasLlR9lMWEFjG9KLsjU=
+			N4bY9QbQ/o0tFyruF1CBIvXthuk=
 			</data>
 			<key>hash2</key>
 			<data>
-			LgIBdcjG2kHsD26pZQpronxgo3YNdTgI0GGcE0WgDwU=
+			Knvmmwp+a1QeRUThMgEHwiDzZWd4h9abXZHbpnXz9B8=
+			</data>
+		</dict>
+		<key>xros-arm64_x86_64-simulator/MuxCore.framework/MuxCore.xcconfig</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			RvazXmtOTTFBJ68tMN4i6daD2dA=
+			</data>
+			<key>hash2</key>
+			<data>
+			GY1dnpT50ClDhaQVwwHtscao9e3/SVMivpFoWtdn1hQ=
+			</data>
+		</dict>
+		<key>xros-arm64_x86_64-simulator/MuxCore.framework/MuxCoreBase.xcconfig</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			SwUW8uc9xkxywxYBC7nAt+MpN2E=
+			</data>
+			<key>hash2</key>
+			<data>
+			HtKdHrB8/SZRK9aP+ol4k0fZDQxtPkw+CudzWZMsbpA=
+			</data>
+		</dict>
+		<key>xros-arm64_x86_64-simulator/MuxCore.framework/MuxCoreTv.xcconfig</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			CKBukayjmCz4jMGP2WSzFxnTAWs=
+			</data>
+			<key>hash2</key>
+			<data>
+			5+P5pIoKboS8bjJat3hm99jHsi5HnjV2y+NJcPIpgCo=
+			</data>
+		</dict>
+		<key>xros-arm64_x86_64-simulator/MuxCore.framework/MuxCoreVision.xcconfig</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			++74OtK4aDCS6jRwT3P98IFt8vM=
+			</data>
+			<key>hash2</key>
+			<data>
+			7sAB6hTVCNgha7DHhqmUgrRACYWZYE5adBklD0ZKKjo=
 			</data>
 		</dict>
 		<key>xros-arm64_x86_64-simulator/MuxCore.framework/PrivacyInfo.xcprivacy</key>
@@ -6220,11 +6640,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			o5LbOE71Qp9aQbBjIckQ9s4fbb8=
+			FTFbuWfQ5Fyz2dI/Wr/GwWdBSB8=
 			</data>
 			<key>hash2</key>
 			<data>
-			xn/7nvniaWV0Jx1sz/SQfd1mFAe20nJ+w0/NtaCkRjE=
+			w0uM4YOoxmM+aKo8iinTmLRU3+bTL6LQTY+J8/x5a8Y=
 			</data>
 		</dict>
 	</dict>

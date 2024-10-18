@@ -222,11 +222,27 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		m+pHaLv4oZs20bSOJFlWcwTL2Bs=
+		rWnfg3faX3GDp1vSFMII1ws/9+s=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
 		hxMEQObOjz6PxuJ2Rcvg8x+CCr0=
+		</data>
+		<key>MuxCore.xcconfig</key>
+		<data>
+		RvazXmtOTTFBJ68tMN4i6daD2dA=
+		</data>
+		<key>MuxCoreBase.xcconfig</key>
+		<data>
+		SwUW8uc9xkxywxYBC7nAt+MpN2E=
+		</data>
+		<key>MuxCoreTv.xcconfig</key>
+		<data>
+		CKBukayjmCz4jMGP2WSzFxnTAWs=
+		</data>
+		<key>MuxCoreVision.xcconfig</key>
+		<data>
+		++74OtK4aDCS6jRwT3P98IFt8vM=
 		</data>
 		<key>PrivacyInfo.xcprivacy</key>
 		<data>
@@ -618,6 +634,34 @@
 			<key>hash2</key>
 			<data>
 			TTaKOF/3oRYrneQGQCOcPiVyC8BFB7guvoJwFc6xAQw=
+			</data>
+		</dict>
+		<key>MuxCore.xcconfig</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			GY1dnpT50ClDhaQVwwHtscao9e3/SVMivpFoWtdn1hQ=
+			</data>
+		</dict>
+		<key>MuxCoreBase.xcconfig</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			HtKdHrB8/SZRK9aP+ol4k0fZDQxtPkw+CudzWZMsbpA=
+			</data>
+		</dict>
+		<key>MuxCoreTv.xcconfig</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			5+P5pIoKboS8bjJat3hm99jHsi5HnjV2y+NJcPIpgCo=
+			</data>
+		</dict>
+		<key>MuxCoreVision.xcconfig</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			7sAB6hTVCNgha7DHhqmUgrRACYWZYE5adBklD0ZKKjo=
 			</data>
 		</dict>
 		<key>PrivacyInfo.xcprivacy</key>
