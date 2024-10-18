@@ -8,22 +8,6 @@
 		<data>
 		fi/2BfAwv8wv8VA+VHcCFiASTy8=
 		</data>
-		<key>Resources/MuxCore.xcconfig</key>
-		<data>
-		RvazXmtOTTFBJ68tMN4i6daD2dA=
-		</data>
-		<key>Resources/MuxCoreBase.xcconfig</key>
-		<data>
-		SwUW8uc9xkxywxYBC7nAt+MpN2E=
-		</data>
-		<key>Resources/MuxCoreTv.xcconfig</key>
-		<data>
-		CKBukayjmCz4jMGP2WSzFxnTAWs=
-		</data>
-		<key>Resources/MuxCoreVision.xcconfig</key>
-		<data>
-		++74OtK4aDCS6jRwT3P98IFt8vM=
-		</data>
 		<key>Resources/PrivacyInfo.xcprivacy</key>
 		<data>
 		qG+x1wRos/+uvCmC6D41ZHN6IRE=
@@ -421,34 +405,6 @@
 			<key>hash2</key>
 			<data>
 			PQlpfqsFWVZ9ekwCaWF9TYD3rq3q5ImDd5B/AqOp3lY=
-			</data>
-		</dict>
-		<key>Resources/MuxCore.xcconfig</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			GY1dnpT50ClDhaQVwwHtscao9e3/SVMivpFoWtdn1hQ=
-			</data>
-		</dict>
-		<key>Resources/MuxCoreBase.xcconfig</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			HtKdHrB8/SZRK9aP+ol4k0fZDQxtPkw+CudzWZMsbpA=
-			</data>
-		</dict>
-		<key>Resources/MuxCoreTv.xcconfig</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			5+P5pIoKboS8bjJat3hm99jHsi5HnjV2y+NJcPIpgCo=
-			</data>
-		</dict>
-		<key>Resources/MuxCoreVision.xcconfig</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			7sAB6hTVCNgha7DHhqmUgrRACYWZYE5adBklD0ZKKjo=
 			</data>
 		</dict>
 		<key>Resources/PrivacyInfo.xcprivacy</key>
