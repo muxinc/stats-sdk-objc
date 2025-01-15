@@ -1,0 +1,6 @@
+agents:
+  queue: "macOS-Monterey-12-4"
+
+steps:
+  - command: "./scripts/soundness-check.sh"
+    label: ":xcode_simulator: Baseline Unit Test Pass"
