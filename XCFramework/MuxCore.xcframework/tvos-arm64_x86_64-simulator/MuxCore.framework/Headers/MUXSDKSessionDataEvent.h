@@ -9,6 +9,7 @@
 #import "MUXSDKCustomerVideoData.h"
 #import "MUXSDKCustomerPlayerData.h"
 #import "MUXSDKCustomerViewData.h"
+#import "MUXSDKCustomerViewerData.h"
 #import "MUXSDKCustomData.h"
 
 extern NSString * _Nonnull const MUXSDKSessionDataEventType;
@@ -21,6 +22,7 @@ extern NSString * _Nonnull const MUXSDKSessionDataEventType;
 @property (nonatomic, retain) MUXSDKCustomerVideoData * _Nullable customerVideoData;
 @property (nonatomic, retain) MUXSDKCustomerPlayerData * _Nullable customerPlayerData;
 @property (nonatomic, retain) MUXSDKCustomerViewData * _Nullable customerViewData;
+@property (nonatomic, retain) MUXSDKCustomerViewerData * _Nullable customerViewerData;
 @property (nonatomic, retain) MUXSDKCustomData * _Nullable customData;
 
 @end

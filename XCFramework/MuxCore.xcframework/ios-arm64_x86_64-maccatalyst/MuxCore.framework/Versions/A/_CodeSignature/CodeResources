@@ -6,7 +6,7 @@
 	<dict>
 		<key>Resources/Info.plist</key>
 		<data>
-		ILxKPDY+2E67pVHxX5d7AwwwcQQ=
+		ePFSIcY3BOf86yN03T0bhzCVOAM=
 		</data>
 		<key>Resources/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -152,28 +152,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			MrBHSiGJVH+HukpI2JRabHr5tjC0qacOD5BIKlQ56/0=
+			za2lmoNz5aLvxhx8pisWGlQXHOTGMebT+Dkq1rdM9QQ=
 			</data>
 		</dict>
 		<key>Headers/MUXSDKCustomerVideoData.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			n1wJUTGlzIEpOECmC84dHV6/GWMmROXvIvxgS5+cwlY=
+			rnLPhBJS73fnU2Y/Pk3DrqMMIpTBUQE1PJo5kc1enyE=
 			</data>
 		</dict>
 		<key>Headers/MUXSDKCustomerViewData.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			M4Vp+UlIbOfuKOET7HZONKTWYAOMhCWZKooB8JCJOCM=
+			hs/TsmYlLgcgxq4t58odUJu5gNfvwBjkvC/4knKSuzk=
 			</data>
 		</dict>
 		<key>Headers/MUXSDKCustomerViewerData.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			rR6kpS79wsYCSOq/fGMZCQGNzS8Vs+1hSS4abDjUzLc=
+			3SAp5m32HdPUr7QWJzpLSgK2l1vU7Saqj9V1F5FLk1I=
 			</data>
 		</dict>
 		<key>Headers/MUXSDKDataEvent.h</key>
@@ -320,7 +320,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			w8X2/99/s2PLyukZfmoQNaYfXL035kcirLPWjtbaniw=
+			eVSOWXJ1GovQjoDE/uirCM/HTaTK4iUfSSCEYrVc1B0=
 			</data>
 		</dict>
 		<key>Headers/MUXSDKTimeUpdateEvent.h</key>
@@ -404,7 +404,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			xL2JvRdEv0w9hT8/X0JQnlary2IxZfQ3P+KRec1L67Q=
+			HwoFd7pIA4SljkC4ldeSJAJCA895Ht3sujzIN0YKZZA=
 			</data>
 		</dict>
 		<key>Resources/PrivacyInfo.xcprivacy</key>

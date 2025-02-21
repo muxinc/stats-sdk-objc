@@ -82,19 +82,19 @@
 		</data>
 		<key>Headers/MUXSDKCustomerPlayerData.h</key>
 		<data>
-		40XO9uIg9fdGV1d8JbGEPu0e0hw=
+		qwIp2FQCq2CMyovM6HFSGjuGSzs=
 		</data>
 		<key>Headers/MUXSDKCustomerVideoData.h</key>
 		<data>
-		eDCfoXXqehIgJIqqDZ9StrzTH40=
+		6o3oDp2gJ3dlE+bPXxlAKNsp92I=
 		</data>
 		<key>Headers/MUXSDKCustomerViewData.h</key>
 		<data>
-		SygULEWfXr0oNIJFW/T54f5HKx0=
+		5ck8F/ztSrJnq98895bhG0xuBAk=
 		</data>
 		<key>Headers/MUXSDKCustomerViewerData.h</key>
 		<data>
-		jhNIntPAkUssjMKsKCf4QDIqTVQ=
+		ib92UnQQpiSAY4w8+Br3m+vr1x0=
 		</data>
 		<key>Headers/MUXSDKDataEvent.h</key>
 		<data>
@@ -178,7 +178,7 @@
 		</data>
 		<key>Headers/MUXSDKSessionDataEvent.h</key>
 		<data>
-		bRv76Jv3iTjZNFCA9C6/ifjs2zo=
+		ccQzu/dMJasGWVaWDFPIpyC5YHk=
 		</data>
 		<key>Headers/MUXSDKTimeUpdateEvent.h</key>
 		<data>
@@ -222,7 +222,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		vVyC1yYxVKe9eHTcZnuFBswgkl0=
+		VA8GdZezpl6RUN1d4eZlg3/cPis=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -372,28 +372,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			MrBHSiGJVH+HukpI2JRabHr5tjC0qacOD5BIKlQ56/0=
+			za2lmoNz5aLvxhx8pisWGlQXHOTGMebT+Dkq1rdM9QQ=
 			</data>
 		</dict>
 		<key>Headers/MUXSDKCustomerVideoData.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			n1wJUTGlzIEpOECmC84dHV6/GWMmROXvIvxgS5+cwlY=
+			rnLPhBJS73fnU2Y/Pk3DrqMMIpTBUQE1PJo5kc1enyE=
 			</data>
 		</dict>
 		<key>Headers/MUXSDKCustomerViewData.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			M4Vp+UlIbOfuKOET7HZONKTWYAOMhCWZKooB8JCJOCM=
+			hs/TsmYlLgcgxq4t58odUJu5gNfvwBjkvC/4knKSuzk=
 			</data>
 		</dict>
 		<key>Headers/MUXSDKCustomerViewerData.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			rR6kpS79wsYCSOq/fGMZCQGNzS8Vs+1hSS4abDjUzLc=
+			3SAp5m32HdPUr7QWJzpLSgK2l1vU7Saqj9V1F5FLk1I=
 			</data>
 		</dict>
 		<key>Headers/MUXSDKDataEvent.h</key>
@@ -540,7 +540,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			w8X2/99/s2PLyukZfmoQNaYfXL035kcirLPWjtbaniw=
+			eVSOWXJ1GovQjoDE/uirCM/HTaTK4iUfSSCEYrVc1B0=
 			</data>
 		</dict>
 		<key>Headers/MUXSDKTimeUpdateEvent.h</key>
