@@ -14,6 +14,7 @@ NS_REQUIRES_PROPERTY_DEFINITIONS
 @property (nullable) NSString *videoAudioCodec;
 @property (nullable) NSString *videoCdn;
 @property (nullable) NSString *videoContentType;
+@property (nullable) NSString *videoCreatorId;
 @property (nullable) NSNumber *videoDuration;
 @property (nullable) NSString *videoDynamicRangeType;
 @property (nullable) NSString *videoEncodingVariant;
