@@ -98,7 +98,7 @@
 		</data>
 		<key>Headers/MUXSDKDataEvent.h</key>
 		<data>
-		TkN4MvwfpHgD4kVF3PiGrf6AcuI=
+		EEIccI0xpyyXr3WLBhvTvq05hek=
 		</data>
 		<key>Headers/MUXSDKDispatcher.h</key>
 		<data>
@@ -186,7 +186,7 @@
 		</data>
 		<key>Headers/MUXSDKTrackableEvent.h</key>
 		<data>
-		fDrbsIPDa4bIbL8eAPjps3EjfKo=
+		SJNTaYeDnTmeQiwY92e0Og587H0=
 		</data>
 		<key>Headers/MUXSDKUpsertable.h</key>
 		<data>
@@ -222,7 +222,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		KX4ljYk1M5GZf+6DSX4kX5xBjwU=
+		R/911BWFGL2/p0MonKKsHCMUC4I=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -400,7 +400,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			3v3rCIU6Rp76uN0ZvNSWJ7486wwYO+4vGmpYYVxPp/s=
+			Kj2LiDLANDlLRmHMvji277+yeGNE3dyHe7TzAwf6KWY=
 			</data>
 		</dict>
 		<key>Headers/MUXSDKDispatcher.h</key>
@@ -554,7 +554,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			mP8w1Pu0WC86vkELuaIufB8+CK4L47uaZwANIEoYKLw=
+			MnE2o3p0grcB4ubY9pHS+g4ef/USOobuqpphdpjZVzM=
 			</data>
 		</dict>
 		<key>Headers/MUXSDKUpsertable.h</key>
