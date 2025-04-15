@@ -98,7 +98,7 @@
 		</data>
 		<key>Headers/MUXSDKDataEvent.h</key>
 		<data>
-		TkN4MvwfpHgD4kVF3PiGrf6AcuI=
+		EEIccI0xpyyXr3WLBhvTvq05hek=
 		</data>
 		<key>Headers/MUXSDKDispatcher.h</key>
 		<data>
@@ -186,7 +186,7 @@
 		</data>
 		<key>Headers/MUXSDKTrackableEvent.h</key>
 		<data>
-		fDrbsIPDa4bIbL8eAPjps3EjfKo=
+		SJNTaYeDnTmeQiwY92e0Og587H0=
 		</data>
 		<key>Headers/MUXSDKUpsertable.h</key>
 		<data>
@@ -216,17 +216,21 @@
 		<data>
 		p2g2YKyLEIwo/5HFdSHkdcXcf8c=
 		</data>
+		<key>Headers/MuxCore.h</key>
+		<data>
+		jX07sMMyEvQwdUanIaO63Jt2GUI=
+		</data>
 		<key>Headers/MuxCoreVision.h</key>
 		<data>
-		TO3SSaP8IySjysy7dBOu23lHJ9k=
+		Uh+uwOX6GjF1r6viEbA/fAVLS40=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		o1X36u43t59zHGTIQIfxuF4BTUM=
+		5pGvf+Cl1jHZBQDhoJq8jngnzZI=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		hxMEQObOjz6PxuJ2Rcvg8x+CCr0=
+		VN4UPYcRAMIeq857JiGsChkxa6U=
 		</data>
 		<key>PrivacyInfo.xcprivacy</key>
 		<data>
@@ -400,7 +404,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			3v3rCIU6Rp76uN0ZvNSWJ7486wwYO+4vGmpYYVxPp/s=
+			Kj2LiDLANDlLRmHMvji277+yeGNE3dyHe7TzAwf6KWY=
 			</data>
 		</dict>
 		<key>Headers/MUXSDKDispatcher.h</key>
@@ -554,7 +558,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			mP8w1Pu0WC86vkELuaIufB8+CK4L47uaZwANIEoYKLw=
+			MnE2o3p0grcB4ubY9pHS+g4ef/USOobuqpphdpjZVzM=
 			</data>
 		</dict>
 		<key>Headers/MUXSDKUpsertable.h</key>
@@ -606,18 +610,25 @@
 			lOe6Bq46S2Rfy9KNwiOj/t2pbBvZpdyJcKC9ANlW6+o=
 			</data>
 		</dict>
+		<key>Headers/MuxCore.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			6muy5m+ke1oBuOgWIXkB12xKF/hceXn0B0L7VHmKUBE=
+			</data>
+		</dict>
 		<key>Headers/MuxCoreVision.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			/kKdxaVHobans4U5pgaBC4I3y4dyMUbRVsqSifH+T+Q=
+			10wlg7sm0Lf0kW7helMCDvevW+Qqr+UgBhaoh3s+uz8=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			TTaKOF/3oRYrneQGQCOcPiVyC8BFB7guvoJwFc6xAQw=
+			p0pQfmlFLaDJqrO5iah9GeedvE3K3JzipfCItkizhg8=
 			</data>
 		</dict>
 		<key>PrivacyInfo.xcprivacy</key>
