@@ -1,11 +1,11 @@
 #import <Foundation/Foundation.h>
+
 //! Project version number for MuxCore.
 FOUNDATION_EXPORT double MuxCoreVersionNumber;
 
 //! Project version string for MuxCore.
 FOUNDATION_EXPORT const unsigned char MuxCoreVersionString[];
 
-// In this header, you should import all the public headers of your framework using statements like #import <MuxCore/PublicHeader.h>
 #import "MUXSDKCore.h"
 #import "MUXSDKDispatcher.h"
 #import "MUXSDKQueryData.h"
@@ -56,3 +56,11 @@ FOUNDATION_EXPORT const unsigned char MuxCoreVersionString[];
 #import "MUXSDKCustomerData.h"
 #import "MUXSDKCustomData.h"
 #import "MUXSDKErrorEventTranslating.h"
+
+
+// Avoid warnings about these files missing from the umbrella header:
+#if TARGET_OS_TV
+#import "MuxCoreTv.h"
+#elif TARGET_OS_VISION
+#import "MuxCoreVision.h"
+#endif
