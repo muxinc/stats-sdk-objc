@@ -1,6 +1,6 @@
 #!/bin/bash
 
-readonly RELEASE_VERSION="5.4.0"
+readonly RELEASE_VERSION="5.4.1"
 
 readonly PACKAGE_NAME=MuxCore
 readonly PACKAGE="$PACKAGE_NAME.xcframework"
