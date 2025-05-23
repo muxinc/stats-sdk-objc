@@ -230,7 +230,7 @@
 		</data>
 		<key>ios-arm64/MuxCore.framework/MuxCore</key>
 		<data>
-		p+Zamz/6ZE/TzI7VUtxm990Hme8=
+		EnbP6iFvbRwiVrIMTOuzlWK8fLg=
 		</data>
 		<key>ios-arm64/MuxCore.framework/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -462,7 +462,7 @@
 		</data>
 		<key>ios-arm64_x86_64-maccatalyst/MuxCore.framework/Versions/A/MuxCore</key>
 		<data>
-		L2LQgVghQDtm5EOcR6PeZ6MndOY=
+		KOCK5gdMEqil34+jCV5xF3NkvHk=
 		</data>
 		<key>ios-arm64_x86_64-maccatalyst/MuxCore.framework/Versions/A/Resources/Info.plist</key>
 		<data>
@@ -942,7 +942,7 @@
 		</data>
 		<key>tvos-arm64/MuxCore.framework/MuxCore</key>
 		<data>
-		PfamQeiKXsPWsTpmS4erpl3Vpas=
+		6UZjMcvWbpkBuDSmcmFFo2ZY0LE=
 		</data>
 		<key>tvos-arm64/MuxCore.framework/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -1422,7 +1422,7 @@
 		</data>
 		<key>xros-arm64/MuxCore.framework/MuxCore</key>
 		<data>
-		aYMjGpSBOL5JyGmBpEUGR3x9CR4=
+		XhlOx3ldoRLxxj6YAsehSDvhwlU=
 		</data>
 		<key>xros-arm64/MuxCore.framework/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -2295,11 +2295,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			p+Zamz/6ZE/TzI7VUtxm990Hme8=
+			EnbP6iFvbRwiVrIMTOuzlWK8fLg=
 			</data>
 			<key>hash2</key>
 			<data>
-			FIaUb/9WxbolbDfiOIowjazdrkIgLWekm8TupKH3Nqg=
+			7Wjrbh1WcpA1VNvtj0pBYtsm+BtVZO6M+8nbF2PWahU=
 			</data>
 		</dict>
 		<key>ios-arm64/MuxCore.framework/PrivacyInfo.xcprivacy</key>
@@ -2953,11 +2953,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			L2LQgVghQDtm5EOcR6PeZ6MndOY=
+			KOCK5gdMEqil34+jCV5xF3NkvHk=
 			</data>
 			<key>hash2</key>
 			<data>
-			NRyjMPRmZngSbjchEAjSZ9aI/FVtJaysGUBXaMpe2tY=
+			MHwp5WKteY75JclvIf1p9N7Qv9oCp1c28Bb+af8pUVE=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-maccatalyst/MuxCore.framework/Versions/A/Resources/Info.plist</key>
@@ -4278,11 +4278,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			PfamQeiKXsPWsTpmS4erpl3Vpas=
+			6UZjMcvWbpkBuDSmcmFFo2ZY0LE=
 			</data>
 			<key>hash2</key>
 			<data>
-			7Jmp+95pVn1iT5+ffcVEcscMuUGztRdQpa5B1M0MXOg=
+			fhLYugIcNoxNMpxL/28EakfSBvW9Bpo8Kb4tkZILUT0=
 			</data>
 		</dict>
 		<key>tvos-arm64/MuxCore.framework/PrivacyInfo.xcprivacy</key>
@@ -5598,11 +5598,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			aYMjGpSBOL5JyGmBpEUGR3x9CR4=
+			XhlOx3ldoRLxxj6YAsehSDvhwlU=
 			</data>
 			<key>hash2</key>
 			<data>
-			YxnbOX7NKdSiSTwrebQSxgBNwG1tTLcaSMfvXjOUrdg=
+			rD3EvcvMZp0EgLcXVdL4FGlXbwmnFQqNXzcJCWX7TjA=
 			</data>
 		</dict>
 		<key>xros-arm64/MuxCore.framework/PrivacyInfo.xcprivacy</key>
