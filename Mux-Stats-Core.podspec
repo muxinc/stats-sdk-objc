@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'Mux-Stats-Core'
-  s.version          = '5.4.1'
+  s.version          = '5.4.2'
 
   s.source           = { :git => 'https://github.com/muxinc/stats-sdk-objc.git',
                          :tag => "v#{s.version}" }
