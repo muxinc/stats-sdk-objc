@@ -1,14 +1,9 @@
 #ifndef MUXSDKDispatcher_h
 #define MUXSDKDispatcher_h
 
-#import "MUXSDKEventHandling.h"
-#import "MUXSDKEventTyping.h"
-
-#if __has_feature(modules)
-@import Foundation;
-#else
+#import <MuxCore/MUXSDKEventHandling.h>
+#import <MuxCore/MUXSDKEventTyping.h>
 #import <Foundation/Foundation.h>
-#endif
 
 @protocol MUXSDKNetworkRequestsCompletion
 - (void)onComplete: (bool)result;

@@ -10,7 +10,7 @@
 #define MUXSDKViewDeviceOrientationData_h
 
 #import <Foundation/Foundation.h>
-#import "MUXSDKQueryData.h"
+#import <MuxCore/MUXSDKQueryData.h>
 
 @interface MUXSDKViewDeviceOrientationData : MUXSDKQueryData
 

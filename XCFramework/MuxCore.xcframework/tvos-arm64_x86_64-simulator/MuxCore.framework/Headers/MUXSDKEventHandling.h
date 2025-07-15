@@ -1,7 +1,7 @@
 #ifndef MUXSDKEventHandling_h
 #define MUXSDKEventHandling_h
 
-#import "MUXSDKEventTyping.h"
+#import <MuxCore/MUXSDKEventTyping.h>
 #import <Foundation/Foundation.h>
 
 @protocol MUXSDKEventHandling

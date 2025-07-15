@@ -1,7 +1,7 @@
 #ifndef MUXSDKAdBreakStartEvent_h
 #define MUXSDKAdBreakStartEvent_h
 
-#import "MUXSDKAdEvent.h"
+#import <MuxCore/MUXSDKAdEvent.h>
 #import <Foundation/Foundation.h>
 
 extern NSString * _Nonnull const MUXSDKPlaybackEventAdBreakStartEventType;

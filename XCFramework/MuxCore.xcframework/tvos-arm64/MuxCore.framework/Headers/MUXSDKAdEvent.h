@@ -9,9 +9,9 @@
 #ifndef MUXSDKAdEvent_h
 #define MUXSDKAdEvent_h
 
-#import "MUXSDKAdData.h"
-#import "MUXSDKEventTyping.h"
-#import "MUXSDKPlaybackEvent.h"
+#import <MuxCore/MUXSDKAdData.h>
+#import <MuxCore/MUXSDKEventTyping.h>
+#import <MuxCore/MUXSDKPlaybackEvent.h>
 
 @interface MUXSDKAdEvent : MUXSDKPlaybackEvent<MUXSDKEventTyping>
 @property (nonatomic, retain, nullable) MUXSDKAdData *adData;

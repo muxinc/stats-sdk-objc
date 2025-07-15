@@ -1,7 +1,7 @@
 #ifndef MUXSDKViewerData_h
 #define MUXSDKViewerData_h
 
-#import "MUXSDKQueryData.h"
+#import <MuxCore/MUXSDKQueryData.h>
 #import <Foundation/Foundation.h>
 
 @interface MUXSDKViewerData : MUXSDKQueryData

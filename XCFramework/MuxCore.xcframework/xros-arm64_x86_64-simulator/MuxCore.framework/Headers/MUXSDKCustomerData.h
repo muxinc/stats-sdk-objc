@@ -1,12 +1,12 @@
 #ifndef MUXSDKCustomerData_h
 #define MUXSDKCustomerData_h
 
-#import "MUXSDKQueryData.h"
-#import "MUXSDKCustomerPlayerData.h"
-#import "MUXSDKCustomerVideoData.h"
-#import "MUXSDKCustomerViewData.h"
-#import "MUXSDKCustomData.h"
-#import "MUXSDKCustomerViewerData.h"
+#import <MuxCore/MUXSDKQueryData.h>
+#import <MuxCore/MUXSDKCustomerPlayerData.h>
+#import <MuxCore/MUXSDKCustomerVideoData.h>
+#import <MuxCore/MUXSDKCustomerViewData.h>
+#import <MuxCore/MUXSDKCustomerViewerData.h>
+#import <MuxCore/MUXSDKCustomData.h>
 #import <Foundation/Foundation.h>
 
 @interface MUXSDKCustomerData : MUXSDKQueryData

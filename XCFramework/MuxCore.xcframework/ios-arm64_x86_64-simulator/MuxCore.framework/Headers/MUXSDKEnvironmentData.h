@@ -1,7 +1,7 @@
 #ifndef MUXSDKEnvironmentData_h
 #define MUXSDKEnvironmentData_h
 
-#import "MUXSDKQueryData.h"
+#import <MuxCore/MUXSDKQueryData.h>
 #import <Foundation/Foundation.h>
 
 @interface MUXSDKEnvironmentData : MUXSDKQueryData

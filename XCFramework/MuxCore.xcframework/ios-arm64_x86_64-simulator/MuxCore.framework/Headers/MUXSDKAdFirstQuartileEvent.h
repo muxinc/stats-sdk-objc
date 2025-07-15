@@ -1,7 +1,7 @@
 #ifndef MUXSDKAdFirstQuartileEvent_h
 #define MUXSDKAdFirstQuartileEvent_h
 
-#import "MUXSDKAdEvent.h"
+#import <MuxCore/MUXSDKAdEvent.h>
 #import <Foundation/Foundation.h>
 
 extern NSString * _Nonnull const MUXSDKPlaybackEventAdFirstQuartileEventType;

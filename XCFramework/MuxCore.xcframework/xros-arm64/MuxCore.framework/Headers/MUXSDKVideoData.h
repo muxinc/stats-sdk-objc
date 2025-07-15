@@ -1,9 +1,9 @@
 #ifndef MUXSDKVideoData_h
 #define MUXSDKVideoData_h
 
-#import "MUXSDKQueryData.h"
+#import <MuxCore/MUXSDKQueryData.h>
+#import <MuxCore/MUXSDKUpsertable.h>
 #import <Foundation/Foundation.h>
-#import "MUXSDKUpsertable.h"
 
 @interface MUXSDKVideoData : MUXSDKQueryData<MUXSDKUpsertable>
 
@@ -22,6 +22,8 @@
 @property (nullable) NSString *videoSourceAdvertisedRenditionName;
 @property (nullable) NSString *videoSourceAdvertisedCodec;
 @property (nullable) NSString *internalVideoExperiments;
+@property (nullable) NSString *videoCDN;
+@property (nullable) NSString *videoPreviousCDN;
 
 @end
 #endif

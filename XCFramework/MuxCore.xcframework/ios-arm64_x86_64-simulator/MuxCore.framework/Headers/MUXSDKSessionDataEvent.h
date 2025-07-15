@@ -2,15 +2,15 @@
 #ifndef MUXSDKSessionDataEvent_h
 #define MUXSDKSessionDataEvent_h
 
-#import "MUXSDKBaseEvent.h"
-#import "MUXSDKEventTyping.h"
-#import "MUXSDKVideoData.h"
-#import "MUXSDKViewData.h"
-#import "MUXSDKCustomerVideoData.h"
-#import "MUXSDKCustomerPlayerData.h"
-#import "MUXSDKCustomerViewData.h"
-#import "MUXSDKCustomerViewerData.h"
-#import "MUXSDKCustomData.h"
+#import <MuxCore/MUXSDKBaseEvent.h>
+#import <MuxCore/MUXSDKEventTyping.h>
+#import <MuxCore/MUXSDKVideoData.h>
+#import <MuxCore/MUXSDKViewData.h>
+#import <MuxCore/MUXSDKCustomerVideoData.h>
+#import <MuxCore/MUXSDKCustomerPlayerData.h>
+#import <MuxCore/MUXSDKCustomerViewData.h>
+#import <MuxCore/MUXSDKCustomerViewerData.h>
+#import <MuxCore/MUXSDKCustomData.h>
 
 extern NSString * _Nonnull const MUXSDKSessionDataEventType;
 

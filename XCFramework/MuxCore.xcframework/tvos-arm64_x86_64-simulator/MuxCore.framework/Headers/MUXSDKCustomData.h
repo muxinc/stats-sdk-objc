@@ -1,9 +1,9 @@
 #ifndef MUXSDKCustomData_h
 #define MUXSDKCustomData_h
 
-#import "MUXSDKQueryData.h"
+#import <MuxCore/MUXSDKQueryData.h>
+#import <MuxCore/MUXSDKUpsertable.h>
 #import <Foundation/Foundation.h>
-#import "MUXSDKUpsertable.h"
 
 @interface MUXSDKCustomData : MUXSDKQueryData<MUXSDKUpsertable>
 

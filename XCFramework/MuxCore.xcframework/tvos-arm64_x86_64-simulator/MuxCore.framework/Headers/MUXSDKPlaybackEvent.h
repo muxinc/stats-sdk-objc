@@ -1,12 +1,12 @@
 #ifndef MUXSDKPlaybackEvent_h
 #define MUXSDKPlaybackEvent_h
 
-#import "MUXSDKBaseEvent.h"
-#import "MUXSDKEventTyping.h"
-#import "MUXSDKPlayerData.h"
-#import "MUXSDKVideoData.h"
-#import "MUXSDKViewData.h"
-#import "MUXSDKBandwidthMetricData.h"
+#import <MuxCore/MUXSDKBaseEvent.h>
+#import <MuxCore/MUXSDKEventTyping.h>
+#import <MuxCore/MUXSDKPlayerData.h>
+#import <MuxCore/MUXSDKVideoData.h>
+#import <MuxCore/MUXSDKViewData.h>
+#import <MuxCore/MUXSDKBandwidthMetricData.h>
 
 extern NSString * _Nonnull const MUXSDKPlaybackEventType;
 

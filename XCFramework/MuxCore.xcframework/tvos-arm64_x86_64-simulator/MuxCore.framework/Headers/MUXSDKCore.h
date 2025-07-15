@@ -1,9 +1,9 @@
 #ifndef MUXSDKCore_h
 #define MUXSDKCore_h
 
-#import "MUXSDKDataEvent.h"
-#import "MUXSDKEventHandling.h"
-#import "MUXSDKEventTyping.h"
+#import <MuxCore/MUXSDKDataEvent.h>
+#import <MuxCore/MUXSDKEventHandling.h>
+#import <MuxCore/MUXSDKEventTyping.h>
 
 #import <Foundation/Foundation.h>
 

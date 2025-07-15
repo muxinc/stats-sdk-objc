@@ -1,10 +1,10 @@
 #ifndef MUXSDKBandwidthMetricData_h
 #define MUXSDKBandwidthMetricData_h
 
-#import "MUXSDKQueryData.h"
+#import <MuxCore/MUXSDKQueryData.h>
 #import <Foundation/Foundation.h>
 
-@interface Rendition : NSObject
+@interface MUXSDKRendition : NSObject
     @property (nonatomic) NSNumber * _Nullable width;
     @property (nonatomic) NSNumber * _Nullable height;
     @property (nonatomic) NSNumber * _Nullable bitrate;

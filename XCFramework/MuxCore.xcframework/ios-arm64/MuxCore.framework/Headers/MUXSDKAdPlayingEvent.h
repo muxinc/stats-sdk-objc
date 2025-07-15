@@ -1,7 +1,7 @@
 #ifndef MUXSDKAdPlayingEvent_h
 #define MUXSDKAdPlayingEvent_h
 
-#import "MUXSDKAdEvent.h"
+#import <MuxCore/MUXSDKAdEvent.h>
 #import <Foundation/Foundation.h>
 
 extern NSString * _Nonnull const MUXSDKPlaybackEventAdPlayingEventType;

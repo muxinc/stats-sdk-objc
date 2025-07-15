@@ -1,16 +1,16 @@
 #ifndef MUXSDKDataEvent_h
 #define MUXSDKDataEvent_h
 
-#import "MUXSDKBaseEvent.h"
-#import "MUXSDKEventTyping.h"
-#import "MUXSDKViewerData.h"
-#import "MUXSDKEnvironmentData.h"
-#import "MUXSDKVideoData.h"
-#import "MUXSDKCustomerVideoData.h"
-#import "MUXSDKCustomerPlayerData.h"
-#import "MUXSDKCustomerViewData.h"
-#import "MUXSDKCustomerViewerData.h"
-#import "MUXSDKCustomData.h"
+#import <MuxCore/MUXSDKBaseEvent.h>
+#import <MuxCore/MUXSDKEventTyping.h>
+#import <MuxCore/MUXSDKViewerData.h>
+#import <MuxCore/MUXSDKEnvironmentData.h>
+#import <MuxCore/MUXSDKVideoData.h>
+#import <MuxCore/MUXSDKCustomerVideoData.h>
+#import <MuxCore/MUXSDKCustomerPlayerData.h>
+#import <MuxCore/MUXSDKCustomerViewData.h>
+#import <MuxCore/MUXSDKCustomerViewerData.h>
+#import <MuxCore/MUXSDKCustomData.h>
 
 extern NSString * _Nonnull const MUXSDKDataEventType;
 

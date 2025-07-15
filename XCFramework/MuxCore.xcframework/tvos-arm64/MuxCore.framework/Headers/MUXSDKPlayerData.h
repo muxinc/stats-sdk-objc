@@ -1,7 +1,7 @@
 #ifndef MUXSDKPlayerData_h
 #define MUXSDKPlayerData_h
 
-#import "MUXSDKQueryData.h"
+#import <MuxCore/MUXSDKQueryData.h>
 #import <Foundation/Foundation.h>
 
 @interface MUXSDKPlayerData : MUXSDKQueryData

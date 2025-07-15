@@ -2,8 +2,8 @@
 #define MUXSDKCustomerViewerData_h
 
 #import <Foundation/Foundation.h>
-#import "MUXSDKQueryData.h"
-#import "MUXSDKUpsertable.h"
+#import <MuxCore/MUXSDKQueryData.h>
+#import <MuxCore/MUXSDKUpsertable.h>
 
 NS_REQUIRES_PROPERTY_DEFINITIONS
 @interface MUXSDKCustomerViewerData : MUXSDKQueryData<MUXSDKUpsertable>

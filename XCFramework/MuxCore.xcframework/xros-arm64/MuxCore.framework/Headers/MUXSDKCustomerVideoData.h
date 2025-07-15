@@ -1,9 +1,9 @@
 #ifndef MUXSDKCustomerVideoData_h
 #define MUXSDKCustomerVideoData_h
 
-#import "MUXSDKQueryData.h"
+#import <MuxCore/MUXSDKQueryData.h>
+#import <MuxCore/MUXSDKUpsertable.h>
 #import <Foundation/Foundation.h>
-#import "MUXSDKUpsertable.h"
 
 NS_REQUIRES_PROPERTY_DEFINITIONS
 @interface MUXSDKCustomerVideoData : MUXSDKQueryData<MUXSDKUpsertable>
@@ -12,7 +12,7 @@ NS_REQUIRES_PROPERTY_DEFINITIONS
 @property (nullable) NSString *videoBrand;
 @property (nullable) NSString *videoCodec;
 @property (nullable) NSString *videoAudioCodec;
-@property (nullable) NSString *videoCdn;
+@property (nullable) NSString *videoCdn DEPRECATED_MSG_ATTRIBUTE("Please migrate to MUXSDKVideoData.videoCDN instead");
 @property (nullable) NSString *videoContentType;
 @property (nullable) NSString *videoCreatorId;
 @property (nullable) NSNumber *videoDuration;

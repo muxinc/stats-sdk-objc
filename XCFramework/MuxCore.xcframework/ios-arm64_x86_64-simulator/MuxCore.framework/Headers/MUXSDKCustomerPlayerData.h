@@ -1,9 +1,9 @@
 #ifndef MUXSDKCustomerPlayerData_h
 #define MUXSDKCustomerPlayerData_h
 
-#import "MUXSDKQueryData.h"
+#import <MuxCore/MUXSDKQueryData.h>
+#import <MuxCore/MUXSDKUpsertable.h>
 #import <Foundation/Foundation.h>
-#import "MUXSDKUpsertable.h"
 
 NS_REQUIRES_PROPERTY_DEFINITIONS
 @interface MUXSDKCustomerPlayerData : MUXSDKQueryData<MUXSDKUpsertable>

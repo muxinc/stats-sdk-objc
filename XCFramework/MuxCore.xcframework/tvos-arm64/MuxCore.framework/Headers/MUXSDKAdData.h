@@ -9,11 +9,9 @@
 #ifndef MUXSDKAdData_h
 #define MUXSDKAdData_h
 
-#import "MUXSDKQueryData.h"
-#import "MUXSDKViewDeviceOrientationData.h"
+#import <MuxCore/MUXSDKQueryData.h>
+#import <MuxCore/MUXSDKUpsertable.h>
 #import <Foundation/Foundation.h>
-#import "MUXSDKViewDeviceOrientationData.h"
-#import "MUXSDKUpsertable.h"
 
 @interface MUXSDKAdData : MUXSDKQueryData<MUXSDKUpsertable>
 

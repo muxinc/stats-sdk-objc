@@ -1,21 +1,21 @@
 #ifndef MUXSDKTrackableEvent_h
 #define MUXSDKTrackableEvent_h
 
-#import "MUXSDKBaseEvent.h"
-#import "MUXSDKCustomerVideoData.h"
-#import "MUXSDKCustomerPlayerData.h"
-#import "MUXSDKCustomerViewData.h"
-#import "MUXSDKCustomerViewerData.h"
-#import "MUXSDKEnvironmentData.h"
-#import "MUXSDKEventTyping.h"
-#import "MUXSDKPlayerData.h"
-#import "MUXSDKViewData.h"
-#import "MUXSDKViewerData.h"
-#import "MUXSDKVideoData.h"
-#import "MUXSDKQueryData.h"
-#import "MUXSDKBandwidthMetricData.h"
-#import "MUXSDKCustomData.h"
-#import "MUXSDKAdData.h"
+#import <MuxCore/MUXSDKBaseEvent.h>
+#import <MuxCore/MUXSDKCustomerVideoData.h>
+#import <MuxCore/MUXSDKCustomerPlayerData.h>
+#import <MuxCore/MUXSDKCustomerViewData.h>
+#import <MuxCore/MUXSDKCustomerViewerData.h>
+#import <MuxCore/MUXSDKEnvironmentData.h>
+#import <MuxCore/MUXSDKEventTyping.h>
+#import <MuxCore/MUXSDKPlayerData.h>
+#import <MuxCore/MUXSDKViewData.h>
+#import <MuxCore/MUXSDKViewerData.h>
+#import <MuxCore/MUXSDKVideoData.h>
+#import <MuxCore/MUXSDKQueryData.h>
+#import <MuxCore/MUXSDKBandwidthMetricData.h>
+#import <MuxCore/MUXSDKCustomData.h>
+#import <MuxCore/MUXSDKAdData.h>
 
 extern NSString * _Nonnull const MUXSDKTrackableEventType;
 
