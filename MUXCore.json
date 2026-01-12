@@ -36,5 +36,6 @@
     "5.5.1": "https://github.com/muxinc/stats-sdk-objc/releases/download/v5.5.1/MuxCore.xcframework.zip",
     "5.6.0": "https://github.com/muxinc/stats-sdk-objc/releases/download/v5.6.0/MuxCore.xcframework.zip",
     "5.7.0": "https://github.com/muxinc/stats-sdk-objc/releases/download/v5.7.0/MuxCore.xcframework.zip",
-    "5.7.1": "https://github.com/muxinc/stats-sdk-objc/releases/download/v5.7.1/MuxCore.xcframework.zip"
+    "5.7.1": "https://github.com/muxinc/stats-sdk-objc/releases/download/v5.7.1/MuxCore.xcframework.zip",
+    "5.8.0": "https://github.com/muxinc/stats-sdk-objc/releases/download/v5.8.0/MuxCore.xcframework.zip"
 }
