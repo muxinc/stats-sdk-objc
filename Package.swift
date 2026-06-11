@@ -10,7 +10,7 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "MuxCore",
-            url: "https://github.com/muxinc/stats-sdk-objc/releases/download/v5.12.0/MuxCore.xcframework.zip",
-            checksum: "991dcf7a024d7afd84fbf4f2806e0ca5e24fd07a4efd8afc08df9f42adb54575"),
+            url: "https://github.com/muxinc/stats-sdk-objc/releases/download/v5.13.0/MuxCore.xcframework.zip",
+            checksum: "c122b77b8bf08bc74ce89560e905502b38f30b67303d23868eb82e06d77d999f"),
     ]
 )
